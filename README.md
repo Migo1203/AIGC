@@ -14,6 +14,8 @@
 
 详细规划见 [个人作品集网站规划](docs/site-plan.md)。图片素材放在 [assets/images](assets/images/README.md)。
 
+产品参考资料放在 [产品资料](assets/products/README.md)，当前可向 [音箱资料目录](assets/products/speaker/README.md) 上传产品图片与规格。
+
 求职作品选题与交付建议见 [求职作品项目建议](docs/portfolio-projects.md)。
 
 搜集的信息、学习资料和网站链接统一整理在 [项目资料库](resources/README.md)。
