@@ -18,4 +18,6 @@
 
 求职作品选题与交付建议见 [求职作品项目建议](docs/portfolio-projects.md)。
 
+当前制作项目：[小度随身音箱“轻巧随行”概念视觉](projects/xiaodu-speaker/README.md)，包含项目brief、GPT Image提示词和成图上传目录。
+
 搜集的信息、学习资料和网站链接统一整理在 [项目资料库](resources/README.md)。
