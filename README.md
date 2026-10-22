@@ -11,3 +11,5 @@
 - 当前阶段：网站视觉与内容规划。已确定深色画廊方向，暂不编写网站代码。
 
 详细规划见 [个人作品集网站规划](docs/site-plan.md)。图片素材放在 [assets/images](assets/images/README.md)。
+
+搜集的信息、学习资料和网站链接统一整理在 [项目资料库](resources/README.md)。
