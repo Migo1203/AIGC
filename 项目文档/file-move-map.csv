@@ -1,0 +1,11 @@
+原路径,现路径,处理方式
+projects/xiaodu-speaker/layout.md,作品项目/小度音箱/制作记录/layout.md,完整内容迁入并更新相对链接，旧路径保留迁移提示
+projects/xiaodu-speaker/refinement.md,作品项目/小度音箱/制作记录/refinement.md,完整内容迁入并更新相对链接，旧路径保留迁移提示
+projects/xiaodu-speaker/home-scene.md,作品项目/小度音箱/制作记录/home-scene.md,完整内容迁入并更新相对链接，旧路径保留迁移提示
+projects/xiaodu-speaker/layout-v01-prompt.txt,作品项目/小度音箱/提示词/历史原文/layout-v01-prompt.txt,移动，保留原始提示词内容
+projects/xiaodu-speaker/refinement-v03-prompt.txt,作品项目/小度音箱/提示词/历史原文/refinement-v03-prompt.txt,移动，保留原始提示词内容
+projects/xiaodu-speaker/home-scene-v01-prompt.txt,作品项目/小度音箱/提示词/历史原文/home-scene-v01-prompt.txt,移动，保留原始提示词内容
+projects/xiaodu-speaker/home-scene-v02-prompt.txt,作品项目/小度音箱/提示词/历史原文/home-scene-v02-prompt.txt,移动，保留原始提示词内容
+projects/xiaodu-speaker/home-scene-v03-prompt.txt,作品项目/小度音箱/提示词/历史原文/home-scene-v03-prompt.txt,移动，保留原始提示词内容
+projects/xiaodu-speaker/prompts.md,作品项目/小度音箱/提示词/templates.md,通用模板另存，原入口改为提示词导航
+projects/xiaodu-speaker/README.md#制作记录,作品项目/小度音箱/制作记录/production-log.md,制作表迁入，保留原锚点导航
