@@ -1,6 +1,6 @@
 # GPT Image制作提示词
 
-配合[项目brief](README.md)使用。仓库已有两张基准候选图、两张主视觉草稿、一张排版示范和一张上传样图；本轮另完成v03局部修正样图并通过检查，待用户上传。见[修正记录](refinement.md)和[已归档制作结果](outputs/README.md)。
+配合[项目brief](README.md)使用。第一张窗边海报v03已上传并通过本轮检查；[第二张居家场景图](home-scene.md)的无字底图v03也已通过检查，待用户上传后进行文字排版。见[已归档制作结果](outputs/README.md)。
 
 ## 步骤一：制作干净的产品基准图
 
@@ -79,4 +79,8 @@
 
 ## v03产品细节修正
 
-2026-10-23使用v02、实物正面N03与顶部按键N02作为图片参照，由Codex使用image_gen进行局部修正。[实际提示词全文](refinement-v03-prompt.txt)和[结果检查记录](refinement.md)已保存；新PNG按先检查后上传流程暂留本地，不提前列为已归档图片。
+2026-10-23使用v02、实物正面N03与顶部按键N02作为图片参照，由Codex使用image_gen进行局部修正。[实际提示词全文](refinement-v03-prompt.txt)和[结果检查记录](refinement.md)已保存；用户上传文件已独立核对并归档为v03。
+
+## 居家无字底图的实际迭代
+
+2026-10-23由Codex使用image_gen制作居家预览，先生成场景，再进行两次产品尺度修正。实际提示词分别为[初稿v01](home-scene-v01-prompt.txt)、[第一次尺度修正v02](home-scene-v02-prompt.txt)、[第二次尺度修正v03](home-scene-v03-prompt.txt)。前两版产品偏大，最后一版无字底图通过检查，暂留本地待用户上传。完整结果见[居家制作记录](home-scene.md)。
