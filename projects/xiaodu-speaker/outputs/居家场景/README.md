@@ -9,4 +9,4 @@
 
 以上为归档命名建议，对应文件在本仓库目录中尚不存在。上传时进入本目录，点击 **Add file → Upload files**，选择原始图片后点击 **Commit changes**。
 
-[居家场景制作记录](../../home-scene.md) · [返回制作结果](../README.md)
+[居家场景制作记录](../../process/home-scene.md) · [返回制作结果](../README.md)

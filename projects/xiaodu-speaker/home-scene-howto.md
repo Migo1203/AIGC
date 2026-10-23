@@ -48,4 +48,4 @@
 
 检查通过后，打开[居家场景上传页](https://github.com/Migo1203/Fun/upload/main/projects/xiaodu-speaker/outputs/居家场景)，选择原始PNG，点击 **Commit changes**。你自己的首次生成结果可保存为 `音箱-居家阅读-无字样图-v01.png`；上传后告知我，我会统一命名和更新记录。
 
-[返回项目](README.md) · [查看示范制作过程](home-scene.md) · [参考预览目录](previews/README.md)
+[返回项目](README.md) · [查看示范制作过程](process/home-scene.md) · [参考预览目录](previews/README.md)

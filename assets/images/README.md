@@ -1,6 +1,8 @@
 # 图片素材
 
-这个目录用于存放 AIGC 个人作品集网站的图片素材，包括作品图片、作品封面和个人头像等。
+这个目录用于存放网站共用图片，例如头像和后续确定的网站封面。
+
+音箱项目的产品原始图片放在[产品资料](../products/speaker/README.md)，制作结果放在[音箱作品图片](../../projects/xiaodu-speaker/outputs/README.md)。当前居家图按[操作指南](../../projects/xiaodu-speaker/home-scene-howto.md)上传到对应分类。
 
 ## 上传图片
 
