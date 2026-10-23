@@ -22,4 +22,6 @@
 
 当前制作项目：[小度随身音箱“轻巧随行”概念视觉](projects/xiaodu-speaker/README.md)，包含项目brief、GPT Image提示词和成图上传目录。
 
+当前操作：[第二张居家阅读无字底图——步骤、素材链接与提示词](projects/xiaodu-speaker/home-scene-howto.md)。
+
 搜集的信息、学习资料和网站链接统一整理在 [项目资料库](resources/README.md)。
