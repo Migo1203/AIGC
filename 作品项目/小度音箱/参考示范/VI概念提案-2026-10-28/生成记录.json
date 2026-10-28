@@ -1,0 +1,47 @@
+{
+  "date_client": "2026-10-28",
+  "authorization": "用户明确要求按本提案制作三张小度智能蓝牙产品VI概念图，审核参考后再重做旧图并继续项目。",
+  "tool": "image_gen.imagegen",
+  "model_version": "工具未返回具体图像模型版本",
+  "images": [
+    {
+      "number": "01",
+      "title": "便携主视觉",
+      "file": "Codex示范-音箱-VI概念-01便携主视觉-v01.png",
+      "source_generation_file": "exec-d46c4835-cffc-4049-ae1d-266ed8f8652f.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2181132,
+      "sha256": "463da78c96a785318676ccb2154ae3eb0371e0a3ec14ec6f73570ec7e89dad5f",
+      "status": "待用户审核；非官方VI；旧图尚未重做"
+    },
+    {
+      "number": "02",
+      "title": "日常生活场景",
+      "file": "Codex示范-音箱-VI概念-02日常生活场景-v01.png",
+      "source_generation_file": "exec-e6f34eba-babe-499c-a6cc-c9aa02b667b5.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 2068595,
+      "sha256": "91eaff6c30ad88318ff0f3feb125970f8240e960d94adda45ab13c33125e96c1",
+      "status": "待用户审核；非官方VI；旧图尚未重做"
+    },
+    {
+      "number": "03",
+      "title": "手机音乐连接",
+      "file": "Codex示范-音箱-VI概念-03手机音乐连接-v01.png",
+      "source_generation_file": "exec-1b723aa5-70d8-4808-897d-478338fd11d9.png",
+      "dimensions": [
+        1254,
+        1254
+      ],
+      "bytes": 1924223,
+      "sha256": "1652921887bd4d4ef42952e0046cb530074017afe9be681e98fd6cace8824f57",
+      "status": "待用户审核；非官方VI；旧图尚未重做"
+    }
+  ]
+}
