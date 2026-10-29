@@ -8,14 +8,14 @@
   "tool": "image_gen.imagegen",
   "model_version": "工具未返回具体图像模型版本",
   "prior_approved_series": "../VI概念提案-2026-10-28/README.md",
-  "status": "04/05已生成并做初步可读性与事实边界检查，待用户审核；不扩写为正式套系验收通过",
+  "status": "04收到图文关系修订反馈，先调研参考，暂停重生；05仍待用户审核",
   "images": [
     {
       "number": "04",
       "title": "播放时长与条件",
       "file": "Codex示范-音箱-VI概念-04播放时长-v01.png",
       "source_generation_file": "exec-0860c8d9-2a06-4bc1-a1e3-3f34c80ff155.png",
-      "status": "待用户审核",
+      "status": "用户要求调整图文关系；先调研参考，暂停重生",
       "transparent_background": false,
       "referenced_images_in_order": [
         "作品项目/小度音箱/制作结果/产品基准图/用户上传-音箱-电商精修-正面-候选B-v01.png",
@@ -57,5 +57,12 @@
       "bytes": 2064821,
       "sha256": "aba32dc27fc1434e49800a1a276cf3bbe788eedbeb028bcc187b7e10d9cd11eb"
     }
-  ]
+  ],
+  "review_feedback": {
+    "date_client": "2026-10-29",
+    "timezone": "Asia/Shanghai",
+    "user_quote": "04画面与文字的关系不大，先找3c和音箱产品的关于续航宣传的案例图参考",
+    "scope": "04播放时长概念的画面与文案关系",
+    "next_step": "先比较真实3C和音箱续航宣传案例，再确定04的新画面机制；本轮不生成"
+  }
 }
