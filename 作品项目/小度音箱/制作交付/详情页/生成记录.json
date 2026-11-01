@@ -1,0 +1,275 @@
+{
+  "generated_by": "image_gen.imagegen",
+  "specific_model_version": null,
+  "recorded_at": "2026-11-01T20:08:24+08:00",
+  "status": "V01候选，待用户审核和选择",
+  "archive_note": "保留生成图片原始字节。workspace_path以/workspace为根；generated_images中的已引用结果与本目录对应归档文件的SHA-256一致。D03两稿均为V01候选，D04参考时间线调整稿。D06直接参考亲子、聚会和旅行三张已选场景图，运动场景按文字生成。",
+  "items": [
+    {
+      "module": "D01",
+      "variant": "首屏",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D01-首屏-V01.png",
+      "original_output": "generated_images/exec-1e037b67-b075-4339-b0f5-4cddabe18907.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2061599,
+      "sha256": "57e861f83d57278e492c2f964c259cbab29c23dd317cddeea054d0e9383fac5c",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图01-产品识别.png",
+          "sha256": "f666f7d1babda61246102063b21994d84443cb771bb35e8709d68665768211aa"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/方形海报/用户上传-音箱-方形海报03-日常音乐桌面.png",
+          "sha256": "84ffb147610dc30d96dd1776a2004ac24aa9c297304a2bbc5952a4910a895d6c"
+        }
+      ]
+    },
+    {
+      "module": "D02",
+      "variant": "便携",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D02-便携-V01.png",
+      "original_output": "generated_images/exec-47f42eb7-cae3-466d-a8dd-1b102000f61b.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2218505,
+      "sha256": "090a854fd0d9824c015d95e333acdfb241e1bcb99012f0ecfbd9ca8aa8e3c574",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-1e037b67-b075-4339-b0f5-4cddabe18907.png",
+          "sha256": "57e861f83d57278e492c2f964c259cbab29c23dd317cddeea054d0e9383fac5c"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图02-轻巧便携.png",
+          "sha256": "0ba98d543561083c723cb5df9e90f9cc7d60c95a640a9397301784a43c25e0c5"
+        }
+      ]
+    },
+    {
+      "module": "D03",
+      "variant": "播放时长初稿",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D03-播放时长-V01-初稿.png",
+      "original_output": "generated_images/exec-ebf6e186-cd4e-4b0d-9b24-51c073a4b7fe.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2039950,
+      "sha256": "1cd03d92be96816283ff45cf9b0160e68f24d846cfaff0049b2aaf47db567efd",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-47f42eb7-cae3-466d-a8dd-1b102000f61b.png",
+          "sha256": "090a854fd0d9824c015d95e333acdfb241e1bcb99012f0ecfbd9ca8aa8e3c574"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图05-播放时长.png",
+          "sha256": "dbf5f37d2bc0d45b6394bca242c968350352339b8dad38c6e60ddd0bbce74ab9"
+        }
+      ]
+    },
+    {
+      "module": "D03",
+      "variant": "播放时长时间线调整稿",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D03-播放时长-V01-时间线调整稿.png",
+      "original_output": "generated_images/exec-80a7eb4f-bf60-48a3-88e0-6887b786fc22.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2090824,
+      "sha256": "e5793c27279751ae56f6efd6b1a0776e520f7874193ce11df15ba348b6ad1490",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-ebf6e186-cd4e-4b0d-9b24-51c073a4b7fe.png",
+          "sha256": "1cd03d92be96816283ff45cf9b0160e68f24d846cfaff0049b2aaf47db567efd"
+        },
+        {
+          "workspace_path": "generated_images/exec-47f42eb7-cae3-466d-a8dd-1b102000f61b.png",
+          "sha256": "090a854fd0d9824c015d95e333acdfb241e1bcb99012f0ecfbd9ca8aa8e3c574"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图05-播放时长.png",
+          "sha256": "dbf5f37d2bc0d45b6394bca242c968350352339b8dad38c6e60ddd0bbce74ab9"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        }
+      ]
+    },
+    {
+      "module": "D04",
+      "variant": "连接与助手",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D04-连接与助手-V01.png",
+      "original_output": "generated_images/exec-815125a6-78dc-4786-8277-8657f4baa539.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2153096,
+      "sha256": "58f1a7f9c848d12647f691214bf4b832ec43774da2e8b02c57002b142bc6cffe",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-80a7eb4f-bf60-48a3-88e0-6887b786fc22.png",
+          "sha256": "e5793c27279751ae56f6efd6b1a0776e520f7874193ce11df15ba348b6ad1490"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图03-手机蓝牙连接.png",
+          "sha256": "5bed7fd419831978dc0b1360de695c23564da7e64136e164df1b2faa15152cbd"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图06-按键调用助手.png",
+          "sha256": "be0e4ee8dacba9f904aa88fef22eb4f667f247017855c7f2bc76dd009a40eeb7"
+        }
+      ]
+    },
+    {
+      "module": "D05",
+      "variant": "外观细节",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D05-外观细节-V01.png",
+      "original_output": "generated_images/exec-562d2965-ecf4-49e6-a730-babf04d0c546.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 1975244,
+      "sha256": "6651c1787e7896a180ca732c242cd098fd20ebf7bb5a8b158bbe46b64449c124",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-815125a6-78dc-4786-8277-8657f4baa539.png",
+          "sha256": "58f1a7f9c848d12647f691214bf4b832ec43774da2e8b02c57002b142bc6cffe"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/顶部图.png",
+          "sha256": "c85f1c8b5fd7e277254815d36a9d04c3e95ac0db455a7228b9dc03fb1d8b05d1"
+        },
+        {
+          "workspace_path": "AIGC/素材/产品资料/音箱/图片/实物照片/音箱-顶部按键-N02.jpg",
+          "sha256": "42525fbd8b51fe66ab96cba2b44a814450a17ff991cb0edf41e97a2c74228220"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/主图/用户上传-音箱-主图07-外观细节.png",
+          "sha256": "4548e17fad2028696da7667a57ccc509963eefe0ae3d2b0e7d20d45b1ea2933d"
+        }
+      ]
+    },
+    {
+      "module": "D06",
+      "variant": "使用场景",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D06-使用场景-V01.png",
+      "original_output": "generated_images/exec-2802d6dc-6534-4bc6-9945-a8d981dbb56e.png",
+      "width_px": 1145,
+      "height_px": 1374,
+      "bytes": 2051975,
+      "sha256": "4eb21f123743dcde4f00eb591470b8bd1449472f882ff4bf223bff77a6f245fe",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-562d2965-ecf4-49e6-a730-babf04d0c546.png",
+          "sha256": "6651c1787e7896a180ca732c242cd098fd20ebf7bb5a8b158bbe46b64449c124"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/使用场景/用户上传-音箱-使用场景01-亲子时光.png",
+          "sha256": "2164ad152b7a0036fe066e4211bd23c32288d866d7ec7dc814a0311fd29fe649"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/使用场景/用户上传-音箱-使用场景02-朋友聚会.png",
+          "sha256": "68718625fb83da658440afbbab226e9691e454da5ebab93ae9525f5697be26fb"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/使用场景/用户上传-音箱-使用场景03-休闲旅行.png",
+          "sha256": "ddc4d0a2c9f592eea449d0628be683ad96ca2f2f544a9c28e47c8b4bdb2329c3"
+        }
+      ]
+    },
+    {
+      "module": "D07",
+      "variant": "配置与接口",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D07-配置与接口-V01.png",
+      "original_output": "generated_images/exec-f42a8386-2d2c-4749-bf7e-82a29cf2bd2c.png",
+      "width_px": 941,
+      "height_px": 1671,
+      "bytes": 1733858,
+      "sha256": "7058ac2c8ca6740d9554ef006b3f7551d5f8d440d1f7c8ec9f6b8ec007f9f08a",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-2802d6dc-6534-4bc6-9945-a8d981dbb56e.png",
+          "sha256": "4eb21f123743dcde4f00eb591470b8bd1449472f882ff4bf223bff77a6f245fe"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/背部图.png",
+          "sha256": "3a4ae1d3a8267c622828e0ce62dbc48691078e406ab5b1db8f71091aca7c5c5e"
+        },
+        {
+          "workspace_path": "AIGC/素材/产品资料/音箱/图片/实物照片/音箱-背部接口-N04.jpg",
+          "sha256": "b155c083fa23cf304b8889358d50e8232b722567f8578e62d497b543c13d5cc0"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/制作交付/竖版海报/用户上传-音箱-竖版海报08-40mm发声结构示意.png",
+          "sha256": "05a81dd76cf3d8f19b5e9fe73ce6d44f4d8f48b6109622341b88e7aaa9780d6b"
+        }
+      ]
+    },
+    {
+      "module": "D08",
+      "variant": "选购须知",
+      "version": "V01",
+      "status": "候选，待用户审核",
+      "file": "Codex生成-音箱-详情页-D08-选购须知-V01.png",
+      "original_output": "generated_images/exec-cd8bde17-e624-4e04-a857-31f3a0157eb7.png",
+      "width_px": 941,
+      "height_px": 1671,
+      "bytes": 1963969,
+      "sha256": "f4615674b855e789921fed9bc3286624cfd882b626304a6c6e8bf5e39cbfa5b9",
+      "references_in_actual_order": [
+        {
+          "workspace_path": "generated_images/exec-f42a8386-2d2c-4749-bf7e-82a29cf2bd2c.png",
+          "sha256": "7058ac2c8ca6740d9554ef006b3f7551d5f8d440d1f7c8ec9f6b8ec007f9f08a"
+        },
+        {
+          "workspace_path": "generated_images/exec-1e037b67-b075-4339-b0f5-4cddabe18907.png",
+          "sha256": "57e861f83d57278e492c2f964c259cbab29c23dd317cddeea054d0e9383fac5c"
+        },
+        {
+          "workspace_path": "AIGC/作品项目/小度音箱/产品多视角图/45°角图.png",
+          "sha256": "cfda78ba52a6f6edb997103c5a175c52b8c641c37627cf7bf608ba8697bf3eb1"
+        }
+      ]
+    }
+  ]
+}
