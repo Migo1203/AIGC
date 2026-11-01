@@ -3,6 +3,12 @@
   "specific_model_version": null,
   "status": "V02候选，待用户审核和选择",
   "archive_note": "保留图片原始字节。参考路径为实际生成时的绝对路径，跨屏引用的生成文件已在本目录按相同字节归档。D04修订稿参考初稿及D03；D05参考D04修订稿。D08修订稿参考初稿及D07。",
+  "archive_relocation": {
+    "date": "2026-11-02",
+    "previous_v01_directory": "作品项目/小度音箱/制作交付/详情页",
+    "current_v01_directory": "作品项目/小度音箱/制作交付/详情页/V01",
+    "note": "V02生成时引用的V01文件已移入V01目录；references_in_actual_order保留实际生成时的历史路径，当前路径按下方目录映射查找。"
+  },
   "items": [
     {
       "module": "D01",

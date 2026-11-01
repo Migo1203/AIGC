@@ -4,6 +4,12 @@
   "recorded_at": "2026-11-01T20:08:24+08:00",
   "status": "V01候选，待用户审核和选择",
   "archive_note": "保留生成图片原始字节。workspace_path以/workspace为根；generated_images中的已引用结果与本目录对应归档文件的SHA-256一致。D03两稿均为V01候选，D04参考时间线调整稿。D06直接参考亲子、聚会和旅行三张已选场景图，运动场景按文字生成。",
+  "archive_relocation": {
+    "date": "2026-11-02",
+    "previous_v01_directory": "作品项目/小度音箱/制作交付/详情页",
+    "current_v01_directory": "作品项目/小度音箱/制作交付/详情页/V01",
+    "note": "V01的9张PNG和本生成记录从详情页目录移入V01目录，文件名与内容保持不变；生成时的输入路径保留原记录。"
+  },
   "items": [
     {
       "module": "D01",
