@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1720" height="1180" viewBox="0 0 1720 1180" role="img" aria-labelledby="title desc">
+  <title id="title">NED Eric Lamp visual direction board</title>
+  <desc id="desc">A conceptual layout and color palette for a warm contemporary home lighting project. The lamp is a simplified placeholder, not product artwork.</desc>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f8f4ed"/>
+      <stop offset="1" stop-color="#d8cabc"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#f4d8ae" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#f4d8ae" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="scene"><rect x="80" y="248" width="820" height="820" rx="4"/></clipPath>
+  </defs>
+  <rect width="1720" height="1180" fill="#f4f1eb"/>
+  <g font-family="DM Sans, Arial, sans-serif" fill="#2f302e">
+    <text x="80" y="80" font-size="20" font-weight="700" letter-spacing="3">NED  /  ERIC LAMP</text>
+    <text x="80" y="157" font-size="55" font-weight="500">A quiet corner of light</text>
+    <text x="82" y="194" font-size="19" fill="#6f6d67">Visual direction for an Amazon US portfolio concept</text>
+    <text x="1640" y="80" text-anchor="end" font-size="16" letter-spacing="2" fill="#6f6d67">DIRECTION BOARD  /  01</text>
+  </g>
+  <g clip-path="url(#scene)">
+    <rect x="80" y="248" width="820" height="820" fill="url(#wall)"/>
+    <path d="M80 248 H535 L820 1068 H432 Z" fill="#fffdf9" opacity=".28"/>
+    <path d="M682 248 H900 V812 H682 Z" fill="#d8cabc" opacity=".3"/>
+    <rect x="122" y="775" width="300" height="260" rx="105" fill="#a6a09a"/>
+    <rect x="142" y="840" width="266" height="207" rx="60" fill="#918d88"/>
+    <path d="M110 1015 H900 V1068 H110 Z" fill="#c7b6a5"/>
+    <g font-family="DM Sans, Arial, sans-serif" fill="#2f302e">
+      <text x="135" y="338" font-size="42" font-weight="600">Light for</text>
+      <text x="135" y="391" font-size="42" font-weight="600">Everyday Spaces</text>
+      <text x="137" y="435" font-size="17" fill="#55534f">A home for a softer moment.</text>
+    </g>
+    <ellipse cx="688" cy="834" rx="168" ry="120" fill="url(#glow)"/>
+    <rect x="472" y="895" width="428" height="36" fill="#5a463b"/>
+    <rect x="500" y="931" width="400" height="160" fill="#5a463b"/>
+    <rect x="545" y="871" width="88" height="18" rx="2" fill="#b69380"/>
+    <rect x="683" y="605" width="10" height="28" rx="5" fill="#bfae9e"/>
+    <path d="M604 706 C604 659 637 627 688 627 C739 627 772 659 772 706 Z" fill="#cbb9a8"/>
+    <rect x="683" y="706" width="10" height="173" fill="#bca997"/>
+    <ellipse cx="688" cy="884" rx="84" ry="12" fill="#b8a696"/>
+    <ellipse cx="688" cy="879" rx="84" ry="10" fill="#d4c3b0"/>
+    <ellipse cx="688" cy="898" rx="100" ry="9" fill="#2f302e" opacity=".2"/>
+  </g>
+  <rect x="80.5" y="248.5" width="819" height="819" rx="4" fill="none" stroke="#d1c7bc"/>
+  <g font-family="DM Sans, Arial, sans-serif" fill="#2f302e">
+    <text x="80" y="1111" font-size="16" letter-spacing="1.4" fill="#6f6d67">COMPOSITION STUDY · SCHEMATIC PLACEHOLDER, NOT PRODUCT ARTWORK</text>
+    <text x="1000" y="275" font-size="18" font-weight="700" letter-spacing="2">THE LOOK</text>
+    <text x="1000" y="323" font-size="32" font-weight="500">Calm. Contemporary. Lived-in.</text>
+    <text x="1000" y="360" font-size="19" fill="#6f6d67">Soft neutrals, defined by wood and shadow.</text>
+    <path d="M1000 393 H1640" stroke="#cfc4b7"/>
+    <text x="1000" y="438" font-size="18" font-weight="700" letter-spacing="2">WORKING PALETTE</text>
+    <rect x="1000" y="462" width="196" height="88" rx="3" fill="#f4f1eb" stroke="#d1c7bc"/>
+    <rect x="1222" y="462" width="196" height="88" rx="3" fill="#d8cabc"/>
+    <rect x="1444" y="462" width="196" height="88" rx="3" fill="#5a463b"/>
+    <text x="1000" y="577" font-size="16">Warm bone</text><text x="1000" y="600" font-size="15" fill="#6f6d67">#F4F1EB</text>
+    <text x="1222" y="577" font-size="16">Sand gray</text><text x="1222" y="600" font-size="15" fill="#6f6d67">#D8CABC</text>
+    <text x="1444" y="577" font-size="16">Walnut</text><text x="1444" y="600" font-size="15" fill="#6f6d67">#5A463B</text>
+    <rect x="1000" y="628" width="196" height="88" rx="3" fill="#2f302e"/>
+    <rect x="1222" y="628" width="196" height="88" rx="3" fill="#9b6b56"/>
+    <rect x="1444" y="628" width="196" height="88" rx="3" fill="#f4d8ae"/>
+    <text x="1000" y="743" font-size="16">Charcoal</text><text x="1000" y="766" font-size="15" fill="#6f6d67">#2F302E</text>
+    <text x="1222" y="743" font-size="16">Terracotta</text><text x="1222" y="766" font-size="15" fill="#6f6d67">#9B6B56</text>
+    <text x="1444" y="743" font-size="16">Warm light</text><text x="1444" y="766" font-size="15" fill="#6f6d67">#F4D8AE</text>
+    <path d="M1000 795 H1640" stroke="#cfc4b7"/>
+    <text x="1000" y="837" font-size="18" font-weight="700" letter-spacing="2">TYPE &amp; LIGHT</text>
+    <text x="1000" y="875" font-size="23">DM Sans · regular / medium / semibold</text>
+    <text x="1000" y="911" font-size="19" fill="#6f6d67">Soft window light + restrained warm glow</text>
+    <text x="1000" y="946" font-size="19" fill="#6f6d67">Living room / bedside / dining</text>
+    <path d="M1000 982 H1640" stroke="#cfc4b7"/>
+    <text x="1000" y="1022" font-size="16" fill="#6f6d67">Palette and typography are project proposals,</text>
+    <text x="1000" y="1048" font-size="16" fill="#6f6d67">not official NED brand standards. Font may fall back locally.</text>
+  </g>
+</svg>
