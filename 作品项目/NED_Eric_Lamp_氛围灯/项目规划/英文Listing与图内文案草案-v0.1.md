@@ -1,6 +1,6 @@
 # NED Eric Lamp｜英文 Listing 与图内文案草案 v0.1
 
-状态：讨论稿，用于作品集模拟，不是已审核上架文案。基于 [NED 新西兰商品页](https://nedcollections.co.nz/products/eric-mini-table-lamp)和[产品事实表](产品事实与素材检查-v0.1.md)；美国版 SKU、包装和措辞规则仍待核实。实际使用时应按选定类目、版位和品牌许可复核。
+状态：讨论稿，用于作品集模拟，不是已审核上架文案。基于 [NED 新西兰商品页](https://nedcollections.co.nz/products/eric-mini-table-lamp)和[产品事实表](../产品资料/产品事实与素材检查-v0.1.md)；美国版 SKU、包装和措辞规则仍待核实。实际使用时应按选定类目、版位和品牌许可复核。
 
 ## 标题方向
 
