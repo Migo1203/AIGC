@@ -8,6 +8,6 @@
 | 单品全景 | [eric_scene01_backup.jpg](../eric_scene01_backup.jpg) | [下载网站原图](https://cdn.shopify.com/s/files/1/1536/9595/files/Simple_Form_-_Ned_Eric_Mini_Lamp_Sand_-_Hero.jpg?v=1740406367) | 1024 × 1024 px |
 | 顶部旋钮操作 | [eric_official_06.jpg](../eric_official_06.jpg) | [下载网站原图](https://cdn.shopify.com/s/files/1/1536/9595/files/Simple_Form_-_Ned_Eric_Mini_Lamp_Sand_-_Details.jpg?v=1740406367) | 1024 × 1024 px |
 
-已逐像素比对，每一张网站图片与对应的仓库图片画面完全一致，但 JPG 文件字节不同。为避免重复存放，索引直接指向已有归档。网站原始文件曾下载到执行环境供比对，但环境随后不可用，因此其原始字节**尚未单独同步到仓库**；可通过上表直链重新下载。
+已逐像素比对，每一张网站图片与对应的仓库图片画面完全一致，但 JPG 文件字节不同。环境恢复后，网站原始 JPG 已按用户要求单独保存在[网站原图文件夹](../Simple_Form网站原图/)，原有用户上传文件也全部保留；上表保留对应关系及来源直链。
 
 这三张图未提供独立的顶部俯视或底部结构特写。用户只明确允许此处 Simple Form 单品与细节图作为后续参考，其他旧图仍暂不调用。公开展示许可按实际用途核对；充电功能图、包装清单和接口图暂不绘制。
