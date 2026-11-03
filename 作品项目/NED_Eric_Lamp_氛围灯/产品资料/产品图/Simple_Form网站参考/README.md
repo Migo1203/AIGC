@@ -1,0 +1,13 @@
+# Simple Form｜Eric 台灯单品与细节参考索引
+
+来源：[Simple Form 商品页](https://simpleform.com.au/products/ned-eric-mini-lamp-sand)。查找及比对日期：2026-11-03。用户已同意这些单品和细节图片用于后续项目参考。
+
+| 内容 | 仓库里已有的对应图片 | Simple Form 原图下载链接 | 尺寸 |
+| --- | --- | --- | --- |
+| 单品近景 | [eric_scene01_master.jpg](../eric_scene01_master.jpg) | [下载网站原图](https://cdn.shopify.com/s/files/1/1536/9595/files/Simple_Form_-_Ned_Eric_Mini_Lamp_Sand.jpg?v=1740406352) | 1024 × 1024 px |
+| 单品全景 | [eric_scene01_backup.jpg](../eric_scene01_backup.jpg) | [下载网站原图](https://cdn.shopify.com/s/files/1/1536/9595/files/Simple_Form_-_Ned_Eric_Mini_Lamp_Sand_-_Hero.jpg?v=1740406367) | 1024 × 1024 px |
+| 顶部旋钮操作 | [eric_official_06.jpg](../eric_official_06.jpg) | [下载网站原图](https://cdn.shopify.com/s/files/1/1536/9595/files/Simple_Form_-_Ned_Eric_Mini_Lamp_Sand_-_Details.jpg?v=1740406367) | 1024 × 1024 px |
+
+已逐像素比对，每一张网站图片与对应的仓库图片画面完全一致，但 JPG 文件字节不同。为避免重复存放，索引直接指向已有归档。网站原始文件曾下载到执行环境供比对，但环境随后不可用，因此其原始字节**尚未单独同步到仓库**；可通过上表直链重新下载。
+
+这三张图未提供独立的顶部俯视或底部结构特写。用户只明确允许此处 Simple Form 单品与细节图作为后续参考，其他旧图仍暂不调用。公开展示许可按实际用途核对；充电功能图、包装清单和接口图暂不绘制。
