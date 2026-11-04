@@ -1,0 +1,192 @@
+[
+  {
+    "name": "P01_开场_电脑.jpg",
+    "source": "本次 AI 新生成：P01_PC",
+    "width": 1959,
+    "height": 803,
+    "bytes": 183233,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P01_开场_手机.jpg",
+    "source": "本次 AI 新生成：P01_Mobile",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 258169,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P02_热点_电脑.jpg",
+    "source": "本次 AI 新生成：P02_PC",
+    "width": 1959,
+    "height": 803,
+    "bytes": 122789,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P02_手机_旋钮.jpg",
+    "source": "沿用基础 A+_V01：A02B_旋转调光.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 280402,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P02_手机_材质.jpg",
+    "source": "沿用基础 A+_V01：A01_产品与空间.jpg",
+    "width": 1594,
+    "height": 987,
+    "bytes": 443905,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P02_手机_尺度.jpg",
+    "source": "沿用基础 A+_V01：A05_尺寸材质.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 191150,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P03_01_按压.jpg",
+    "source": "沿用基础 A+_V01：A02A_按压开关.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 292452,
+    "minW": 300,
+    "minH": 225,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P03_02_旋转.jpg",
+    "source": "沿用基础 A+_V01：A02B_旋转调光.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 280402,
+    "minW": 300,
+    "minH": 225,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P03_03_按旋.jpg",
+    "source": "沿用基础 A+_V01：A02C_按压旋转调色.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 317917,
+    "minW": 300,
+    "minH": 225,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P03_04_光色.jpg",
+    "source": "本次 AI 新生成：P03_LIGHT",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 153476,
+    "minW": 300,
+    "minH": 225,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P04_续航_电脑.jpg",
+    "source": "沿用基础 A+_V01：A03_夜间无线续航.jpg",
+    "width": 2237,
+    "height": 703,
+    "bytes": 267315,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P04_续航_手机.jpg",
+    "source": "本次 AI 新生成：P04_Mobile",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 135702,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_床头_电脑.jpg",
+    "source": "本次 AI 新生成：P05_Bed_PC",
+    "width": 1959,
+    "height": 803,
+    "bytes": 166145,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_床头_手机.jpg",
+    "source": "本次 AI 新生成：P05_Bed_Mobile",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 179216,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_餐桌_电脑.jpg",
+    "source": "本次 AI 新生成：P05_Dining_PC",
+    "width": 1959,
+    "height": 803,
+    "bytes": 171222,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_餐桌_手机.jpg",
+    "source": "本次 AI 新生成：P05_Dining_Mobile",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 190639,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_户外_电脑.jpg",
+    "source": "本次 AI 新生成：P05_Outdoor_PC",
+    "width": 1959,
+    "height": 803,
+    "bytes": 200217,
+    "minW": 1464,
+    "minH": 600,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P05_户外_手机.jpg",
+    "source": "本次 AI 新生成：P05_Outdoor_Mobile",
+    "width": 1448,
+    "height": 1086,
+    "bytes": 244697,
+    "minW": 600,
+    "minH": 450,
+    "meetsMinimum": true
+  },
+  {
+    "name": "P06_尺寸材质.jpg",
+    "source": "沿用基础 A+_V01：A05_尺寸材质.jpg",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 191150,
+    "minW": 800,
+    "minH": 600,
+    "meetsMinimum": true
+  }
+]

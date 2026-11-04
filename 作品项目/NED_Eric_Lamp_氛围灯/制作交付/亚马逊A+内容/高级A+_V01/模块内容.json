@@ -1,0 +1,50 @@
+{
+  "intro": {
+    "title": "A Small Light for Everyday Moments",
+    "description": "A compact, cordless lamp that brings adjustable ambient light to your favorite spaces.",
+    "desktop": "P01_开场_电脑.jpg",
+    "mobile": "P01_开场_手机.jpg"
+  },
+  "hotspots": {
+    "headline": "Thoughtful Details, Everyday Ease",
+    "desktop": "P02_热点_电脑.jpg",
+    "items": [
+      {"id":"knob","label":"Knob","title":"One Knob, Three Functions","description":"Press for power, turn to dim, or press and turn to change color temperature.","mobile":"P02_手机_旋钮.jpg","x":50,"y":10},
+      {"id":"finish","label":"Finish","title":"Sand Cashmere","description":"Powder-coated aluminum in a soft sand-colored finish.","mobile":"P02_手机_材质.jpg","x":55,"y":35},
+      {"id":"scale","label":"Size","title":"Compact Form","description":"Approx. 7.9 inches high and 4.3 inches in diameter.","mobile":"P02_手机_尺度.jpg","x":50,"y":85}
+    ]
+  },
+  "controls": {
+    "title": "Light, Just How You Like It",
+    "items": [
+      {"title":"Press","description":"Press the top knob to switch the lamp on or off.","image":"P03_01_按压.jpg"},
+      {"title":"Turn","description":"Turn the knob to dim the light from 5% to 100%.","image":"P03_02_旋转.jpg"},
+      {"title":"Press & Turn","description":"Press and turn to adjust the color temperature.","image":"P03_03_按旋.jpg"},
+      {"title":"Warm to Neutral","description":"Adjust color temperature from 2,700K to 4,000K.","image":"P03_04_光色.jpg"}
+    ]
+  },
+  "night": {
+    "title":"Light Where You Need It",
+    "description":"On a full charge, enjoy up to 8 hours of cordless light. Runtime varies with brightness.",
+    "desktop":"P04_续航_电脑.jpg",
+    "mobile":"P04_续航_手机.jpg"
+  },
+  "scenes": {
+    "title":"One Lamp, More Places",
+    "items":[
+      {"id":"bedside","label":"Bedside","title":"A Quiet Bedside Glow","description":"A soft glow for your bedside table.","desktop":"P05_床头_电脑.jpg","mobile":"P05_床头_手机.jpg"},
+      {"id":"dining","label":"Dining","title":"A Little Light at the Table","description":"Bring a little ambiance to the table.","desktop":"P05_餐桌_电脑.jpg","mobile":"P05_餐桌_手机.jpg"},
+      {"id":"outdoor","label":"Outdoor","title":"Outdoor Moments","description":"IP65-rated for outdoor use. Bring indoors after outdoor use.","desktop":"P05_户外_电脑.jpg","mobile":"P05_户外_手机.jpg"}
+    ]
+  },
+  "dimensions": {
+    "title":"Small Lamp, Thoughtful Form",
+    "description":"Approx. 7.9 inches high and 4.3 inches in diameter (20.1 × 11 cm). Powder-coated aluminum in Sand Cashmere.",
+    "image":"P06_尺寸材质.jpg"
+  },
+  "faq":[
+    {"question":"How do I adjust the light?","answer":"Press the knob to switch on or off, turn to dim, and press and turn to adjust color temperature."},
+    {"question":"How long does the lamp last on a charge?","answer":"Up to 8 hours on a full charge, depending on brightness. Charging takes approximately 6 hours."},
+    {"question":"Can I use it outdoors?","answer":"NED lists an IP65 rating and recommends bringing the lamp indoors after outdoor use."}
+  ]
+}
