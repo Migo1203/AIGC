@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NED Eric Lamp — Brand Story V01 layout preview</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; background: #ece9e3; color: #292b28; }
+  body { font-family: Arial, Helvetica, sans-serif; -webkit-font-smoothing: antialiased; }
+  h1, h2, h3, p { margin: 0; }
+  .stage { position: relative; overflow: hidden; background-position: center; background-size: cover; }
+  .stage::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(28,31,29,.75), rgba(28,31,29,.16) 35%, rgba(28,31,29,.08)); }
+  .desktop { width: 1464px; height: 625px; background-image: url('../图片素材/B00_电脑背景.jpg'); }
+  .intro { position: absolute; color: #fff; }
+  .desktop .intro { left: 40px; top: 78px; width: 240px; }
+  .eyebrow { text-transform: uppercase; font-size: 12px; font-weight: 700; letter-spacing: .13em; opacity: .87; }
+  .intro h1, .intro h2 { font-size: 32px; line-height: 1.15; font-weight: 600; margin-top: 18px; letter-spacing: -.025em; }
+  .intro p { font-size: 16px; line-height: 1.5; margin-top: 16px; color: #faf8f3; }
+  .card-row { position: absolute; left: 312px; right: 30px; top: 44px; bottom: 44px; display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; background: rgba(42,39,35,.96); }
+  .card { min-width: 0; background: #fbfaf7; box-shadow: 0 7px 24px rgba(25,23,21,.18); padding: 20px; overflow: hidden; }
+  .card h3 { font-size: 19px; line-height: 1.15; font-weight: 600; letter-spacing: -.015em; }
+  .card p { font-size: 14px; line-height: 1.42; color: #4b4d49; }
+  .about-logo { width: 150px; max-width: 100%; height: auto; display: block; margin: 15px 0 44px; }
+  .about-card h3 { margin-bottom: 14px; font-size: 23px; }
+  .about-card p { font-size: 15px; line-height: 1.53; }
+  .card-kicker { display: none; }
+  .media-card { display: flex; flex-direction: column; }
+  .media-card h3 { margin-bottom: 10px; }
+  .media-card p { min-height: 68px; }
+  .media-card img { display: block; width: 100%; aspect-ratio: 4 / 5; object-fit: cover; margin-top: 14px; }
+  .questions h3 { display: none; }
+  .qa + .qa { margin-top: 18px; }
+  .qa strong { display: block; font-size: 14px; line-height: 1.3; margin-bottom: 5px; }
+  .qa p { font-size: 13px; line-height: 1.38; }
+  .mobile-sheet { width: 390px; background: #eeeae3; padding-bottom: 16px; }
+  .frame-label { height: 32px; display: flex; align-items: center; padding: 0 14px; color: #5d5b56; font-size: 12px; font-weight: 700; letter-spacing: .03em; }
+  .mobile-stage { width: 390px; height: 625px; background-image: url('../图片素材/B00_手机背景.jpg'); }
+  .mobile-stage::before { background: linear-gradient(180deg, rgba(25,29,27,.75), rgba(25,29,27,.18) 37%, rgba(25,29,27,.12)); }
+  .mobile-stage .intro { left: 24px; right: 24px; top: 18px; }
+  .mobile-stage .eyebrow { font-size: 10px; }
+  .mobile-stage .intro h2 { margin-top: 6px; font-size: 22px; }
+  .mobile-stage .intro p { margin-top: 5px; font-size: 13px; line-height: 1.3; max-width: 330px; }
+  .mobile-stage .card { position: absolute; left: 48px; top: 123px; width: 294px; height: 480px; padding: 20px; }
+  .mobile-stage .card h3 { font-size: 20px; }
+  .mobile-stage .about-card h3 { font-size: 24px; }
+  .mobile-stage .media-card p { min-height: 62px; font-size: 14px; }
+  .mobile-stage .media-card img { width: 100%; aspect-ratio: 4 / 5; max-height: 270px; margin-top: 12px; }
+  .mobile-stage .questions h3 { margin-bottom: 17px; }
+  .mobile-stage .qa + .qa { margin-top: 14px; }
+  .mobile-stage .qa strong { font-size: 14px; }
+  .mobile-stage .qa p { font-size: 13px; }
+</style>
+</head>
+<body>
+<section id="desktop" class="stage desktop" aria-label="Desktop brand story layout mockup">
+  <div class="intro"><span class="eyebrow">Brand Story</span><h1>Everyday Spaces,<br>Considered</h1><p>Simple forms and thoughtful details for the spaces we call home.</p></div>
+  <div class="card-row">
+    <article class="card about-card"><span class="card-kicker">Our story</span><img class="about-logo" src="../../../../产品资料/品牌Logo/NED品牌logo黑.png" alt="NED logo"><h3>Meet NED Collections</h3><p>Founded in Christchurch, New Zealand, in 2015, NED Collections brings together furniture, lighting and homewares.</p></article>
+    <article class="card media-card"><span class="card-kicker">Our aesthetic</span><h3>Simple, with Character</h3><p>Clean lines and considered details add character to the spaces we live in.</p><img src="../图片素材/B02_审美与造型.jpg" alt="Sand-colored Eric lamp on a dark walnut side table."></article>
+    <article class="card media-card"><span class="card-kicker">Everyday living</span><h3>Moments That Feel Like Home</h3><p>From a quiet corner to a shared table, small details make everyday spaces feel more personal.</p><img src="../图片素材/B03_夜间生活.jpg" alt="Eric lamp glowing on a dining table on a quiet evening."></article>
+    <article class="card questions"><span class="card-kicker">Get to know us</span><h3>About NED</h3><div class="qa"><strong>How are NED pieces selected?</strong><p>The collection is hand-selected from around the world, with an eye for clean design and character.</p></div><div class="qa"><strong>What does NED offer?</strong><p>NED brings together furniture, lighting and homewares for different spaces around the home.</p></div><div class="qa"><strong>How does Eric fit into the collection?</strong><p>Eric is a compact cordless lamp with adjustable light for everyday spaces.</p></div></article>
+  </div>
+</section>
+
+<section id="mobile" class="mobile-sheet" aria-label="Four mobile carousel states, shown one under another for review">
+  <div class="frame-label">01 / 04 · Brand introduction</div>
+  <div class="stage mobile-stage">
+    <div class="intro"><span class="eyebrow">Brand Story</span><h2>Everyday Spaces, Considered</h2><p>Simple forms and thoughtful details for the spaces we call home.</p></div>
+    <article class="card about-card"><span class="card-kicker">Our story</span><img class="about-logo" src="../../../../产品资料/品牌Logo/NED品牌logo黑.png" alt="NED logo"><h3>Meet NED Collections</h3><p>Founded in Christchurch, New Zealand, in 2015, NED Collections brings together furniture, lighting and homewares.</p></article>
+  </div>
+  <div class="frame-label">02 / 04 · Brand aesthetic</div>
+  <div class="stage mobile-stage">
+    <div class="intro"><span class="eyebrow">Brand Story</span><h2>Everyday Spaces, Considered</h2><p>Simple forms and thoughtful details for the spaces we call home.</p></div>
+    <article class="card media-card"><span class="card-kicker">Our aesthetic</span><h3>Simple, with Character</h3><p>Clean lines and considered details add character to the spaces we live in.</p><img src="../图片素材/B02_审美与造型.jpg" alt="Sand-colored Eric lamp on a dark walnut side table."></article>
+  </div>
+  <div class="frame-label">03 / 04 · Everyday living</div>
+  <div class="stage mobile-stage">
+    <div class="intro"><span class="eyebrow">Brand Story</span><h2>Everyday Spaces, Considered</h2><p>Simple forms and thoughtful details for the spaces we call home.</p></div>
+    <article class="card media-card"><span class="card-kicker">Everyday living</span><h3>Moments That Feel Like Home</h3><p>From a quiet corner to a shared table, small details make everyday spaces feel more personal.</p><img src="../图片素材/B03_夜间生活.jpg" alt="Eric lamp glowing on a dining table on a quiet evening."></article>
+  </div>
+  <div class="frame-label">04 / 04 · Brand questions</div>
+  <div class="stage mobile-stage">
+    <div class="intro"><span class="eyebrow">Brand Story</span><h2>Everyday Spaces, Considered</h2><p>Simple forms and thoughtful details for the spaces we call home.</p></div>
+    <article class="card questions"><span class="card-kicker">Get to know us</span><h3>About NED</h3><div class="qa"><strong>How are NED pieces selected?</strong><p>The collection is hand-selected from around the world, with an eye for clean design and character.</p></div><div class="qa"><strong>What does NED offer?</strong><p>NED brings together furniture, lighting and homewares for different spaces around the home.</p></div><div class="qa"><strong>How does Eric fit into the collection?</strong><p>Eric is a compact cordless lamp with adjustable light for everyday spaces.</p></div></article>
+  </div>
+</section>
+</body>
+</html>
