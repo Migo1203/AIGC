@@ -1,0 +1,30 @@
+{
+  "BN01": {
+    "title": [
+      "Light for",
+      "Everyday Spaces"
+    ],
+    "product": "Eric Table Lamp"
+  },
+  "BN02": {
+    "title": [
+      "From Bedside",
+      "to Dining"
+    ],
+    "body": [
+      "A compact, cordless lamp",
+      "for everyday spaces."
+    ],
+    "link_text": "Explore Eric",
+    "destination": null
+  },
+  "BN03": {
+    "headline": "Cordless Light for Everyday Spaces",
+    "headline_characters": 34,
+    "image_text": null,
+    "destination": null
+  },
+  "status": "V01待用户审阅",
+  "method": "复用仓库已有AI场景，重新裁切、图文排版与适配；未调用生图API",
+  "source_commit": "0546442e1d7d01f7a0393ea390a6b7fb524173d5"
+}
