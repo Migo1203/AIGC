@@ -1,0 +1,138 @@
+[
+  {
+    "file": "图片素材/BN01_页头_3000x600.jpg",
+    "width": 3000,
+    "height": 600,
+    "bytes": 444392,
+    "role": "页头Hero；Logo为独立组件",
+    "source": "P01_PC.png; wall texture continuation only"
+  },
+  {
+    "file": "可编辑源稿/BN01_无字底图.png",
+    "width": 3000,
+    "height": 600,
+    "bytes": 1931417,
+    "role": "带墙面补景的无字背景",
+    "source": "P01_PC.png"
+  },
+  {
+    "file": "图文预览/BN01_页头_电脑预览.png",
+    "width": 3000,
+    "height": 600,
+    "bytes": 1941935,
+    "role": "Hero本体",
+    "source": "P01_PC.png"
+  },
+  {
+    "file": "图文预览/BN01_中央70百分比裁切检查.png",
+    "width": 2100,
+    "height": 600,
+    "bytes": 1271932,
+    "role": "关键文字与完整灯体裁切检查",
+    "source": "BN01"
+  },
+  {
+    "file": "图文预览/BN01_品牌组件与页头示意.png",
+    "width": 3000,
+    "height": 790,
+    "bytes": 1962853,
+    "role": "重绘Logo独立配置；品牌栏示意",
+    "source": "BN01 + redrawn logo"
+  },
+  {
+    "file": "图片素材/BN02_导流_电脑_3000x1500.jpg",
+    "width": 3000,
+    "height": 1500,
+    "bytes": 880487,
+    "role": "完整场景无字素材，标题使用原生字段",
+    "source": "P05_Dining_PC.png crop 1606x803, 1.87x interpolation"
+  },
+  {
+    "file": "图文预览/BN02_场景导流_图文预览.png",
+    "width": 3000,
+    "height": 1500,
+    "bytes": 3355350,
+    "role": "原生字段排版示意，不是上传图片",
+    "source": "P05_Dining_PC.png"
+  },
+  {
+    "file": "图片素材/BN02_导流_手机备选_1680x1680.jpg",
+    "width": 1680,
+    "height": 1680,
+    "bytes": 675948,
+    "role": "手机备选场景，模块支持以后台为准",
+    "source": "P05_Dining_Mobile.png; V01 crop retained"
+  },
+  {
+    "file": "图文预览/BN02_手机图文适配示意.png",
+    "width": 840,
+    "height": 1110,
+    "bytes": 838949,
+    "role": "手机图文相邻布局示意",
+    "source": "BN02 mobile"
+  },
+  {
+    "file": "图片素材/BN03_REC_横_1200x628.jpg",
+    "width": 1200,
+    "height": 628,
+    "bytes": 192191,
+    "role": "REC无字图片",
+    "source": "A03_night.png; wider bedside context reframed"
+  },
+  {
+    "file": "图片素材/BN03_REC_方_1200x1200.jpg",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 289176,
+    "role": "REC无字图片",
+    "source": "P04_Mobile.png; V01 composition retained"
+  },
+  {
+    "file": "图片素材/BN03_REC_竖_900x1600.jpg",
+    "width": 900,
+    "height": 1600,
+    "bytes": 281594,
+    "role": "REC无字图片",
+    "source": "P04_Mobile.png; V01 composition retained"
+  },
+  {
+    "file": "图文预览/BN03_REC_广告图文预览.png",
+    "width": 1200,
+    "height": 830,
+    "bytes": 937502,
+    "role": "品牌、标题组件示意；上传用无字图片",
+    "source": "BN03 + redrawn logo"
+  },
+  {
+    "file": "可编辑源稿/品牌Logo/NED_Stores_1200x1200.png",
+    "width": 1200,
+    "height": 1200,
+    "bytes": 49474,
+    "role": "Logo独立组件试排文件，未后台验证",
+    "source": "redrawn existing logo"
+  },
+  {
+    "file": "可编辑源稿/品牌Logo/NED_REC_1200x400.png",
+    "width": 1200,
+    "height": 400,
+    "bytes": 37289,
+    "role": "Logo独立组件试排文件，未后台验证",
+    "source": "redrawn existing logo"
+  },
+  {
+    "file": "三款Banner_V02总览.jpg",
+    "width": 1800,
+    "height": 2770,
+    "bytes": 963188,
+    "role": "三款主视觉紧凑审阅总览",
+    "source": "V02"
+  },
+  {
+    "file": "V01与V02同尺寸对照.jpg",
+    "width": 2400,
+    "height": 1830,
+    "bytes": 816727,
+    "role": "同显示尺寸比较，含广告组件",
+    "source": "V01 + V02"
+  }
+]

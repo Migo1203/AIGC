@@ -1,0 +1,30 @@
+{
+  "source": "NED品牌logo白 .png",
+  "source_canvas": [
+    250,
+    74
+  ],
+  "source_ink_bbox": [
+    72,
+    0,
+    194,
+    69
+  ],
+  "method": "existing alpha contour → bicubic 8× sampling → binary spline vector trace; no font replacement or generative redraw",
+  "iou_at_native_threshold_128": 0.9902210884353742,
+  "components_original": [
+    1272,
+    1016,
+    43
+  ],
+  "components_redraw": [
+    1287,
+    1019,
+    44
+  ],
+  "paths": 3,
+  "black_and_white_share_identical_paths": true,
+  "note": "Low-resolution contour reconstruction, not recovered official vector. Original asymmetry, connections, counters and period retained as visible in source.",
+  "holes_original": 4,
+  "holes_redraw": 4
+}

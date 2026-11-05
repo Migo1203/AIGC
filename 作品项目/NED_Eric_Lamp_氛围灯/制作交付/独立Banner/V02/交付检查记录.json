@@ -1,0 +1,16 @@
+{
+  "date": "2026-11-05",
+  "platform_image_count": 6,
+  "dimensions_match": true,
+  "all_rgb_srgb": true,
+  "all_under_2MB": true,
+  "editable_banner_masters": 3,
+  "logo_native_mask_iou": 0.9902210884353742,
+  "logo_original_and_redraw_holes": [
+    4,
+    4
+  ],
+  "local_html_check": "No broken images, no page errors, no horizontal overflow at 390 px",
+  "visual_review": "Desktop hero, central crop, desktop/mobile dining, REC composition, same-scale logo comparison and contour overlay inspected",
+  "amazon_backend_upload_tested": false
+}

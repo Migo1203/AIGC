@@ -1,0 +1,23 @@
+{
+  "version": "V02",
+  "BN01": {
+    "product": "Eric Table Lamp",
+    "heading": "Meet Eric.",
+    "body": "Cordless light. Everyday warmth."
+  },
+  "BN02": {
+    "prefix": "Eric Table Lamp",
+    "heading": "Set the table. Keep the glow.",
+    "body": "Bring cordless light to the table.",
+    "link_text": "Explore Eric",
+    "destination": null
+  },
+  "BN03": {
+    "headline": "Evening light, without the cord.",
+    "headline_characters": 32,
+    "destination": null
+  },
+  "brand_logo": "Existing NED ned. wordmark, contour redraw from user-supplied white PNG",
+  "method": "Existing AI scene reuse and deterministic photographic compositing; no image generation API used",
+  "status": "Awaiting review; not Amazon-approved; no performance claims"
+}
