@@ -1,0 +1,48 @@
+{
+  "errors": [],
+  "overflow": [],
+  "textBounds": [
+    {
+      "text": "DESIGN CASE STUDY",
+      "x": 218,
+      "y": 79,
+      "width": 198.515625,
+      "height": 22
+    },
+    {
+      "text": "Eric.",
+      "x": 76,
+      "y": 192,
+      "width": 274.00799560546875,
+      "height": 227
+    },
+    {
+      "text": "无线氛围灯电商视觉系统",
+      "x": 84,
+      "y": 402,
+      "width": 418,
+      "height": 50
+    },
+    {
+      "text": "E-COMMERCE VISUAL SYSTEM",
+      "x": 86,
+      "y": 466,
+      "width": 315.25,
+      "height": 24
+    },
+    {
+      "text": "商品图 / A+ 内容 / Banner 系统",
+      "x": 82,
+      "y": 825,
+      "width": 332.0625,
+      "height": 30
+    },
+    {
+      "text": "自发概念项目 · AI 辅助设计",
+      "x": 1299.71875,
+      "y": 829,
+      "width": 218.28125,
+      "height": 24
+    }
+  ]
+}

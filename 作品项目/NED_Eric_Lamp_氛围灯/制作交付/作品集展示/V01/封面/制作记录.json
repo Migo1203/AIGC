@@ -1,0 +1,23 @@
+{
+  "version": "V01",
+  "status": "待审阅的项目封面试排",
+  "size": [
+    1600,
+    900
+  ],
+  "source": "Existing AI scene P01_PC.png, 1959×803",
+  "crop_box": [
+    355,
+    70,
+    1775,
+    762
+  ],
+  "scene_output": [
+    1600,
+    780
+  ],
+  "processing": "Uniform crop and ~1.127× interpolation; no new generation, no product reshaping, no white overlay",
+  "logo": "Existing ned. wordmark contour redraw, unchanged shapes",
+  "fonts": "DM Sans embedded with OFL; Microsoft YaHei referenced locally, not distributed",
+  "editable": "SVG live text; scene and existing logo embedded images"
+}
