@@ -1,0 +1,66 @@
+{
+  "status": "planning_only_archived_pending_production_and_review",
+  "date": "2026-11-07",
+  "storyboard": [
+    1600,
+    3180
+  ],
+  "modules": [
+    {
+      "id": "01",
+      "name": "居家开场",
+      "layout": "全幅场景 + 短产品介绍"
+    },
+    {
+      "id": "02",
+      "name": "细节靠近",
+      "layout": "完整灯 + 三种细节 / 热点"
+    },
+    {
+      "id": "03",
+      "name": "旋钮操作",
+      "layout": "三状态宽幅轮播 / 不再四栏白卡"
+    },
+    {
+      "id": "04",
+      "name": "使用场景",
+      "layout": "Dining / Bedside / Terrace"
+    },
+    {
+      "id": "05",
+      "name": "尺度收束",
+      "layout": "生活尺度 + 简洁参数"
+    },
+    {
+      "id": "06",
+      "name": "精简问答",
+      "layout": "Premium FAQ DARK candidate"
+    }
+  ],
+  "desktopSlots": 9,
+  "mobileSlots": 11,
+  "workingSizes": {
+    "desktop": [
+      1952,
+      800
+    ],
+    "mobile": [
+      1440,
+      1080
+    ]
+  },
+  "minimumFromOfficial": {
+    "desktop": [
+      1464,
+      600
+    ],
+    "mobile": [
+      600,
+      450
+    ]
+  },
+  "limits": "Qualification, actual editor styles, real macro quality and mobile display remain to be verified during production.",
+  "artwork": "SVG placeholder people and product shapes; no new raster product imagery.",
+  "archiveDate": "2026-11-07",
+  "notGeneratedProductImagery": true
+}

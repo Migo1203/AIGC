@@ -1,0 +1,64 @@
+{
+  "scope": "planning diagram and selected risk-bearing copy fields only; not platform or final image validation",
+  "image": {
+    "mode": "RGB",
+    "size": [
+      1600,
+      3180
+    ],
+    "sRGB": true
+  },
+  "copyChecks": [
+    {
+      "field": "Dining description",
+      "text": "Bring a little ambiance to the table.",
+      "characters": 37,
+      "limit": 100,
+      "withinLimit": true
+    },
+    {
+      "field": "Bedside description",
+      "text": "Up to 8 hours on a full charge. Runtime varies with brightness.",
+      "characters": 63,
+      "limit": 100,
+      "withinLimit": true
+    },
+    {
+      "field": "Terrace description",
+      "text": "IP65-rated. Bring indoors after outdoor use.",
+      "characters": 44,
+      "limit": 100,
+      "withinLimit": true
+    },
+    {
+      "field": "P01 title",
+      "text": "A Small Light for Everyday Moments",
+      "characters": 34,
+      "limit": 80,
+      "withinLimit": true
+    },
+    {
+      "field": "P05 title",
+      "text": "Small Lamp, Thoughtful Form",
+      "characters": 27,
+      "limit": 80,
+      "withinLimit": true
+    },
+    {
+      "field": "Operation 3",
+      "text": "Press and turn to adjust color temperature continuously from 2700K to 4000K.",
+      "characters": 76,
+      "limit": 200,
+      "withinLimit": true
+    },
+    {
+      "field": "FAQ2",
+      "text": "Up to 8 hours on a full charge, depending on brightness. NED lists a charging time of approximately 6 hours.",
+      "characters": 108,
+      "limit": 250,
+      "withinLimit": true
+    }
+  ],
+  "extractorMarkerRemaining": false,
+  "recordContext": "Original local planning checks, archived 2026-11-07; final product imagery and Amazon backend remain unverified."
+}

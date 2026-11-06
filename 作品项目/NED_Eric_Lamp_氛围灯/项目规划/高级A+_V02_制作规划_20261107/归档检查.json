@@ -1,0 +1,85 @@
+{
+  "status": "checked_local_archive_before_commit",
+  "date": "2026-11-07",
+  "scope": "planning documents, diagrams and related records only",
+  "errors": [],
+  "images": [
+    {
+      "file": "V02_页面构图示意_1600w.png",
+      "size": [
+        1600,
+        3180
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "V02_页面构图示意_预览.jpg",
+      "size": [
+        1000,
+        1988
+      ],
+      "mode": "RGB"
+    },
+    {
+      "file": "开场与细节_局部预览.jpg",
+      "size": [
+        1600,
+        1170
+      ],
+      "mode": "RGB"
+    }
+  ],
+  "checks": [
+    "local markdown links",
+    "SVG parse and unique ids",
+    "no external SVG assets",
+    "image integrity",
+    "prior diagram text overflow and overlap results"
+  ],
+  "files": [
+    {
+      "path": "DM-Sans-OFL.txt",
+      "sha256": "be5f632588774077cbb19a8d3fd788fbc7861af041f4e7165eae5822b11392b3"
+    },
+    {
+      "path": "README.md",
+      "sha256": "87c5f96a790129ec64936a644c4ca9f1ec96a252a65d78a79ae775968570bcd2"
+    },
+    {
+      "path": "V02_页面构图示意_1600w.png",
+      "sha256": "6d09dc4d36c3f09ce94b8b780a0eeea0e7542f3520d602d2ada8a009ef54392a"
+    },
+    {
+      "path": "V02_页面构图示意_可编辑.svg",
+      "sha256": "f5d246c725572e27fcb8dc8eaf54c20c0baf220838867e5dd1a459c8403fbb3f"
+    },
+    {
+      "path": "V02_页面构图示意_预览.jpg",
+      "sha256": "869ba473d169d85d0c8412d04096867515c0872afe8cda385829bab632c6da0d"
+    },
+    {
+      "path": "平台规格核验.md",
+      "sha256": "ae9dbefe9e61a2754b975af7f32a1566f9be7e9e10139114cf6f30e0c8d92d28"
+    },
+    {
+      "path": "开场与细节_局部预览.jpg",
+      "sha256": "3ab2f36ae3e6809cfc83474747c8dbba4ec271e36ec46de7a511da4185d73345"
+    },
+    {
+      "path": "版式检查.json",
+      "sha256": "a2fa5652de6ab1ac3058af63c2f58ca5af132d2e89c359fe1cd14da3f1a443be"
+    },
+    {
+      "path": "规划导出检查.json",
+      "sha256": "94cdb85b94fb66d71b7f803afe043b965a79e5bb3389d5a9e559575824907fc8"
+    },
+    {
+      "path": "规划记录.json",
+      "sha256": "96ef7dadd8482bfcd2165979299afbcfc70c27baf92dc2538937bc324a9bda20"
+    },
+    {
+      "path": "高级A+_V02_制作规划.md",
+      "sha256": "37675cdb89cfecadf70b9ec8d87ec750b8ad4eaef80b10f77722874f1d6efe83"
+    }
+  ]
+}
