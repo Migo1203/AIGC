@@ -1,0 +1,41 @@
+{
+  "date": "2026-11-06",
+  "version": "V04",
+  "status": "待审阅",
+  "page_size": [
+    1600,
+    1200
+  ],
+  "transition": {
+    "start_y": 880,
+    "end_y": 1000,
+    "curve": "smoothstep",
+    "blur_radius_px": 12,
+    "V03_blur_radius_px": 48,
+    "V03_fade": [
+      820,
+      1060
+    ]
+  },
+  "protected_source_rows": [
+    0,
+    850
+  ],
+  "background_master": "Approved wall V02; strategy 0:1200; next overview 1200:2400",
+  "method": "Existing scenes, deterministic crops, lighter environmental crossfade, chroma product matte, editable SVG text; no new AI generation",
+  "references": [
+    {
+      "title": "Brand Identity Moodboard & Presentation Slides",
+      "author": "STEPHEN ALEJI",
+      "url": "https://www.behance.net/gallery/242874515/Moodboard-Design-Presentation-Slides-Brand-Identity",
+      "applied": "Asymmetric scene collage, overlapping photos, palette near visual evidence"
+    },
+    {
+      "title": "Amazon Listing Design for Kids Supplement",
+      "author": "Anzhela Nefedova",
+      "url": "https://www.behance.net/gallery/247462769/Amazon-Listing-Design-for-Kids-Supplement",
+      "applied": "Short approach and visual evidence paired together before output grid"
+    }
+  ],
+  "limits": "Reference layouts do not establish commercial performance. Source RGB product preserved but matte is derived. Scene bottom extended before fade. No Behance artwork reused. SVG images are embedded raster; Chinese font depends on local Microsoft YaHei."
+}
