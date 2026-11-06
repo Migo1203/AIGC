@@ -1,0 +1,242 @@
+[
+  {
+    "id": "P01_PC",
+    "file": "图片素材/P01_PC.jpg",
+    "source": "素材原图/P01_PC_r2.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "927436b96fa2a69483fa2dad7e7ff1281cd9c7c5742afe035e062c953298ab9d",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P01_Mobile",
+    "file": "图片素材/P01_Mobile.jpg",
+    "source": "素材原图/P01_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "a297c2249fe4aba0d8ca0ed2d22d97d4e428493104beb2ebad107d7849c0a586",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P03A_PC",
+    "file": "图片素材/P03A_PC.jpg",
+    "source": "素材原图/P03A_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "0c09eb050a0193f8a88eb9b80eff25a6b334487aabe9510e81dfe5aff8ca507f",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P03A_Mobile",
+    "file": "图片素材/P03A_Mobile.jpg",
+    "source": "素材原图/P03A_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "2ed1ec52b1240515760fcac4b95b5e5ca08407c61139146bdf8b20299e5d3f5c",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P03B_PC",
+    "file": "图片素材/P03B_PC.jpg",
+    "source": "素材原图/P03B_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "087d0bb3ba87574412c57f110e9f57bd2d810b80b364ae797ab37453ba19ee0c",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P03B_Mobile",
+    "file": "图片素材/P03B_Mobile.jpg",
+    "source": "素材原图/P03B_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "5793d54aa174c11ccf9fb040da53bf799350f64987d700db0c953e8e8ceb9252",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P03C_PC",
+    "file": "图片素材/P03C_PC.jpg",
+    "source": "素材原图/P03C_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "0b00913b1135dd638d1b74251ef1f06248451e30c1302296edda1cacb4910e82",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P03C_Mobile",
+    "file": "图片素材/P03C_Mobile.jpg",
+    "source": "素材原图/P03C_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "422a785e99646af122902ceb2e5d21a9a47a8cb8a5301eb003c0e57c998e0567",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P04A_PC",
+    "file": "图片素材/P04A_PC.jpg",
+    "source": "素材原图/P04A_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "0fcd21cd5c274b1197fdf8bce4729417f3b655dfc1ef7ec467c7b7321fef93a2",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P04A_Mobile",
+    "file": "图片素材/P04A_Mobile.jpg",
+    "source": "素材原图/P04A_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "bdeca31af08af9d6ec45a211b4af423d1e824cf7bf3b972dcce959d81ae01169",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P04B_PC",
+    "file": "图片素材/P04B_PC.jpg",
+    "source": "素材原图/P04B_PC_r2.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "1661b1e05e3347d8f57b4761e08ef8bf8b3b42db1049c29da8a53db63f839620",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P04B_Mobile",
+    "file": "图片素材/P04B_Mobile.jpg",
+    "source": "素材原图/P04B_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "c8d3b12b9219e5aa0817021c72085b0dcb085337a508d18136f8e038e8c06ff9",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P04C_PC",
+    "file": "图片素材/P04C_PC.jpg",
+    "source": "素材原图/P04C_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "8f2c32d1e54509b7f88428514f856c7198cae8f1729dab4ba1545fe835489dd6",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P04C_Mobile",
+    "file": "图片素材/P04C_Mobile.jpg",
+    "source": "素材原图/P04C_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "9c4435d9b3eb95151f956327acfecd35b095fd433daf226467e018f8d3ab7b9f",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P05_PC",
+    "file": "图片素材/P05_PC.jpg",
+    "source": "素材原图/P05_PC_r2.png",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "10b0165fb4dcbf993327f22f37465dfe55d7723f2c2be3b21cf9515170bc7a91",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": null
+  },
+  {
+    "id": "P05_Mobile",
+    "file": "图片素材/P05_Mobile.jpg",
+    "source": "素材原图/P05_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "sha256": "2dd7a6ff46dbd4e3da04f2d555e7db45f97ce10eeaac674cd4d7af7868d4e7f9",
+    "sourceKind": "AI concept generated via user-selected Apophis API; model name reported by provider: gpt-image-2",
+    "mobileCrop": "4 px from top and bottom"
+  },
+  {
+    "id": "P02_PC",
+    "file": "图片素材/P02_PC.jpg",
+    "size": [
+      1952,
+      800
+    ],
+    "sha256": "af4faa0174644c2f065d88aae8e9f2df927dabda2de28bbddd2017a6817fd302",
+    "sourceKind": "Actual existing product photo, derived chroma matte and warm environment background",
+    "source": "制作素材/真实产品_原始参考.jpg",
+    "record": "P02_真实细节制作记录.json"
+  },
+  {
+    "id": "P02_Knob_Mobile",
+    "file": "图片素材/P02_Knob_Mobile.jpg",
+    "size": [
+      600,
+      450
+    ],
+    "sha256": "59a8089d08305c93306429d193ca43c69155617d73d248165dcf46220dcd8f9e",
+    "sourceKind": "Actual existing product photo, derived chroma matte and warm environment background",
+    "source": "制作素材/真实产品_原始参考.jpg",
+    "record": "P02_真实细节制作记录.json"
+  },
+  {
+    "id": "P02_Finish_Mobile",
+    "file": "图片素材/P02_Finish_Mobile.jpg",
+    "size": [
+      600,
+      450
+    ],
+    "sha256": "1da82f43d610ec9e338ccf506821008b2c438aed712019465651d32fa822e97a",
+    "sourceKind": "Actual existing product photo, derived chroma matte and warm environment background",
+    "source": "制作素材/真实产品_原始参考.jpg",
+    "record": "P02_真实细节制作记录.json"
+  },
+  {
+    "id": "P02_Edge_Mobile",
+    "file": "图片素材/P02_Edge_Mobile.jpg",
+    "size": [
+      600,
+      450
+    ],
+    "sha256": "fd62180df8e2b5edd0e06fdf54b4646ee70c2cbe4444e171e3a700a671b94573",
+    "sourceKind": "Actual existing product photo, derived chroma matte and warm environment background",
+    "source": "制作素材/真实产品_原始参考.jpg",
+    "record": "P02_真实细节制作记录.json"
+  }
+]

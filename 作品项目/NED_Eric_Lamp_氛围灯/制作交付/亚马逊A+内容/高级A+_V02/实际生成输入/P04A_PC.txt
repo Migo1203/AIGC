@@ -1,0 +1,21 @@
+Use case: photorealistic-natural
+Asset type: NED Eric Lamp Premium A+ V02, P04A Dining 餐桌, PC; concept portfolio product lifestyle photography.
+Primary request: Produce one polished realistic photograph matching the references and this composition, with no final typography.
+Input images:
+Image 1: 参考素材/产品_正面近景.jpg — primary SKU form, color, proportions; do not redesign.
+Image 2: 参考素材/产品_用户斜俯视.png — supporting angle only; not evidence of unseen structure.
+Image 3: 参考素材/人物_M01.png — existing AI character identity and clothing.
+Image 4: 参考素材/光色_餐桌暮色.png — lighting and material mood only; do not copy the old empty composition.
+Scene and action: An adult man in a muted terracotta knit sweater casually adjusts a linen napkin at a dining table. One small Eric lamp sits toward the foreground, fully visible and dominant through local contrast. Natural dining props are secondary. Dusk light outside, walnut tabletop, warm neutral walls, a modest pool of ambient lamp light. No staged portrait pose.
+Person: adult European-looking man, light-to-medium warm olive skin, short textured dark-brown hair, natural side part, subtle neat stubble, muted terracotta-brown fine-knit crewneck sweater, charcoal trousers; match the existing fictional AI character reference, not a real customer.
+Product invariants: Exactly one Sand Cashmere NED Eric lamp; soft sand-colored powder-coated body, domed shade, single rounded top knob, slender stem, round flat base. Preserve reference silhouette and relative proportions. This is a small approximately 20.1 cm high by 11 cm diameter lamp. Do not invent underside, controls, ports, charging hardware, joints or accessories.
+Composition: Wide landscape composition, target 2.44:1. Product around the middle-right, person in the middle ground; keep a calm but textured left zone for short editable copy, not a large blank white rectangle. Do not sacrifice small-product scale just to fill the frame.
+Lighting: Natural, physically plausible light and reflections. Lamp and contact shadow stay sharp, environmental defocus is gentle. Skin tones remain natural; never tint the product orange to match the wall. The light is ambient, not a measured illumination demonstration.
+Palette: Project warm-neutral family: bone, sand, walnut, charcoal, restrained terracotta and low-saturation blue-grey at dusk/night. These are creative project colors, not official brand color specifications.
+Text: None. Do not generate logos, words, numbers, arrows, dimension lines or interface components; those are added as editable objects later.
+Avoid: White card layouts, top navigation bars, excessive blank space, heavy edge fog, blurred product edges or hands, malformed fingers, an oversized lamp, a changed lamp design, duplicate lamps, multiple-unit bundle implications, RGB blue light, rain exposure, invented structure and photoreal detail not visible in the reference.
+Validation focus: 人物、餐桌、单盏灯同框；不放大为全屋照明。
+
+Additional image 5 is the V02 P01_PC concept scene, used only for established character/space/light continuity. Original product photos remain the source of SKU geometry; do not infer real material detail from a generated scene. 
+
+Scale correction constraint: This is a MINI lamp, its full height about one adult hand length (20.1 cm), dome diameter about 11 cm and round base diameter almost the same as dome. Keep it notably smaller than an adult head-and-torso or forearm. The corrected V02 scene reference shows the intended small scale. Do not enlarge the lamp to compete with the person; use camera distance, framing and local contrast instead. Preserve full product height-to-width ratio around 1.83 and the original reference base/shade diameter relationship. Avoid double-handled or malformed cups.

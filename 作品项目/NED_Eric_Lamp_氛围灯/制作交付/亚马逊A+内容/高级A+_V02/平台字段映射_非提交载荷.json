@@ -1,0 +1,152 @@
+{
+  "status": "candidate mapping, not submission payload or account/backend verification",
+  "source": "https://developer-docs.amazon.com/sp-api/docs/a-plus-premium-modules",
+  "sourceReadDate": "2026-11-07",
+  "modules": [
+    {
+      "id": "P01",
+      "type": "PREMIUM_FULL_BACKGROUND_IMAGE",
+      "desktopImage": "图片素材/P01_PC.jpg",
+      "mobileImage": "图片素材/P01_Mobile.jpg",
+      "headline": "A small light for everyday moments.",
+      "footer": [
+        "A compact, cordless lamp for",
+        "adjustable ambient light at home."
+      ]
+    },
+    {
+      "id": "P02",
+      "type": "PREMIUM_HOTSPOT_IMAGE",
+      "desktopImage": "图片素材/P02_PC.jpg",
+      "hotSpots": [
+        {
+          "title": "Top knob",
+          "xCoordinate": "775",
+          "yCoordinate": "125",
+          "mobileImage": "图片素材/P02_Knob_Mobile.jpg",
+          "description": "One top knob controls power, brightness and color temperature."
+        },
+        {
+          "title": "Sand Cashmere",
+          "xCoordinate": "1370",
+          "yCoordinate": "165",
+          "mobileImage": "图片素材/P02_Finish_Mobile.jpg",
+          "description": "A soft sand-colored finish on the powder-coated aluminum body."
+        },
+        {
+          "title": "Dome profile",
+          "xCoordinate": "850",
+          "yCoordinate": "438",
+          "mobileImage": "图片素材/P02_Edge_Mobile.jpg",
+          "description": "A domed shade, slender stem and round base."
+        }
+      ]
+    },
+    {
+      "id": "P03",
+      "type": "PREMIUM_IMAGE_CAROUSEL",
+      "carouselCards": [
+        {
+          "position": 1,
+          "title": "Press. A simple start.",
+          "description": [
+            "Press the top knob to switch on or off."
+          ],
+          "desktopImage": "图片素材/P03A_PC.jpg",
+          "mobileImage": "图片素材/P03A_Mobile.jpg"
+        },
+        {
+          "position": 2,
+          "title": "Turn. Find your glow.",
+          "description": [
+            "Turn the knob to dim from 5% to 100%."
+          ],
+          "desktopImage": "图片素材/P03B_PC.jpg",
+          "mobileImage": "图片素材/P03B_Mobile.jpg"
+        },
+        {
+          "position": 3,
+          "title": "Press & turn. Warm to neutral.",
+          "description": [
+            "Adjust color temperature continuously",
+            "from 2700K to 4000K."
+          ],
+          "desktopImage": "图片素材/P03C_PC.jpg",
+          "mobileImage": "图片素材/P03C_Mobile.jpg"
+        }
+      ]
+    },
+    {
+      "id": "P04",
+      "type": "PREMIUM_NAVIGATION_CAROUSEL",
+      "carouselCards": [
+        {
+          "position": 1,
+          "title": "A little light at the table.",
+          "description": [
+            "Bring a little ambiance to the table."
+          ],
+          "desktopImage": "图片素材/P04A_PC.jpg",
+          "mobileImage": "图片素材/P04A_Mobile.jpg",
+          "navText": "Dining"
+        },
+        {
+          "position": 2,
+          "title": "A quiet bedside glow.",
+          "description": [
+            "Up to 8 hours on a full charge.",
+            "Runtime varies with brightness."
+          ],
+          "desktopImage": "图片素材/P04B_PC.jpg",
+          "mobileImage": "图片素材/P04B_Mobile.jpg",
+          "navText": "Bedside"
+        },
+        {
+          "position": 3,
+          "title": "Outdoor moments.",
+          "description": [
+            "IP65-rated. Bring indoors after outdoor use."
+          ],
+          "desktopImage": "图片素材/P04C_PC.jpg",
+          "mobileImage": "图片素材/P04C_Mobile.jpg",
+          "navText": "Terrace"
+        }
+      ]
+    },
+    {
+      "id": "P05",
+      "type": "PREMIUM_FULL_BACKGROUND_IMAGE",
+      "desktopImage": "图片素材/P05_PC.jpg",
+      "mobileImage": "图片素材/P05_Mobile.jpg",
+      "headline": "Small lamp. Thoughtful form.",
+      "footer": [
+        "Approx. 7.9 in high × 4.3 in in diameter",
+        "(20.1 × 11 cm)."
+      ]
+    },
+    {
+      "id": "P06",
+      "type": "PREMIUM_FAQ",
+      "colorType": "DARK",
+      "faqs": [
+        {
+          "question": "How do I adjust the light?",
+          "answer": "Press the knob for power, turn to dim, and press and turn to change color temperature."
+        },
+        {
+          "question": "How long does it last on a charge?",
+          "answer": "Up to 8 hours on a full charge, depending on brightness. NED lists a charging time of approximately 6 hours."
+        },
+        {
+          "question": "Can I use it outdoors?",
+          "answer": "NED lists an IP65 rating and recommends bringing the lamp indoors after outdoor use."
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "Native fields use platform layout, position, fonts and light/dark choices. Concept SVG copy positions and palette are not asserted to be available controls.",
+    "Hotspot coordinates refer to the 1952×800 asset; re-map proportionally if actual uploaded image changes.",
+    "Carousel fields keep important qualification text adjacent; do not replace with CTA or unsupported ASIN."
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "copy": {
+    "P01": {
+      "title": [
+        "A small light for",
+        "everyday moments."
+      ],
+      "body": [
+        "A compact, cordless lamp for",
+        "adjustable ambient light at home."
+      ],
+      "mobileTitle": "A small light for everyday moments.",
+      "color": "#302d28",
+      "tone": "#d9c8b2",
+      "eyebrow": "ERIC TABLE LAMP"
+    },
+    "P02": {
+      "title": [
+        "A closer look."
+      ],
+      "body": [],
+      "mobileTitle": "A closer look.",
+      "color": "#3d352b",
+      "tone": "#d8cabc",
+      "eyebrow": "FORM & FINISH"
+    },
+    "P03A": {
+      "title": [
+        "Press.",
+        "A simple start."
+      ],
+      "body": [
+        "Press the top knob to switch on or off."
+      ],
+      "mobileTitle": "Press. A simple start.",
+      "color": "#302d28",
+      "tone": "#d2bda6",
+      "eyebrow": "ONE KNOB / POWER"
+    },
+    "P03B": {
+      "title": [
+        "Turn.",
+        "Find your glow."
+      ],
+      "body": [
+        "Turn the knob to dim from 5% to 100%."
+      ],
+      "mobileTitle": "Turn. Find your glow.",
+      "color": "#302d28",
+      "tone": "#c9b49d",
+      "eyebrow": "ONE KNOB / BRIGHTNESS"
+    },
+    "P03C": {
+      "title": [
+        "Press & turn.",
+        "Warm to neutral."
+      ],
+      "body": [
+        "Adjust color temperature continuously",
+        "from 2700K to 4000K."
+      ],
+      "mobileTitle": "Press & turn. Warm to neutral.",
+      "color": "#302d28",
+      "tone": "#bba58f",
+      "eyebrow": "ONE KNOB / COLOR TEMPERATURE"
+    },
+    "P04A": {
+      "title": [
+        "A little light",
+        "at the table."
+      ],
+      "body": [
+        "Bring a little ambiance to the table."
+      ],
+      "mobileTitle": "A little light at the table.",
+      "color": "#302d28",
+      "tone": "#aa8c71",
+      "eyebrow": "DINING"
+    },
+    "P04B": {
+      "title": [
+        "A quiet",
+        "bedside glow."
+      ],
+      "body": [
+        "Up to 8 hours on a full charge.",
+        "Runtime varies with brightness."
+      ],
+      "mobileTitle": "A quiet bedside glow.",
+      "color": "#f6eee2",
+      "tone": "#625e58",
+      "eyebrow": "BEDSIDE"
+    },
+    "P04C": {
+      "title": [
+        "Outdoor",
+        "moments."
+      ],
+      "body": [
+        "IP65-rated. Bring indoors after outdoor use."
+      ],
+      "mobileTitle": "Outdoor moments.",
+      "color": "#f6eee2",
+      "tone": "#626b68",
+      "eyebrow": "TERRACE"
+    },
+    "P05": {
+      "title": [
+        "Small lamp.",
+        "Thoughtful form."
+      ],
+      "body": [
+        "Approx. 7.9 in high × 4.3 in in diameter",
+        "(20.1 × 11 cm)."
+      ],
+      "mobileTitle": "Small lamp. Thoughtful form.",
+      "color": "#f6eee2",
+      "tone": "#626765",
+      "eyebrow": "COMPACT BY DESIGN"
+    }
+  },
+  "hotspots": [
+    {
+      "id": "Knob",
+      "title": "Top knob",
+      "body": "One top knob controls power, brightness and color temperature.",
+      "position": [
+        775,
+        253
+      ]
+    },
+    {
+      "id": "Finish",
+      "title": "Sand Cashmere",
+      "body": "A soft sand-colored finish on the powder-coated aluminum body.",
+      "position": [
+        1370,
+        360
+      ]
+    },
+    {
+      "id": "Edge",
+      "title": "Dome profile",
+      "body": "A domed shade, slender stem and round base.",
+      "position": [
+        850,
+        588
+      ]
+    }
+  ],
+  "faq": [
+    [
+      "How do I adjust the light?",
+      "Press the knob for power, turn to dim, and press and turn to change color temperature."
+    ],
+    [
+      "How long does it last on a charge?",
+      "Up to 8 hours on a full charge, depending on brightness. NED lists a charging time of approximately 6 hours."
+    ],
+    [
+      "Can I use it outdoors?",
+      "NED lists an IP65 rating and recommends bringing the lamp indoors after outdoor use."
+    ]
+  ]
+}

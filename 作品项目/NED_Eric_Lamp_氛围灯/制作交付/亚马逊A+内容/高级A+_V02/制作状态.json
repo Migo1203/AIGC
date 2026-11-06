@@ -1,0 +1,52 @@
+{
+  "status": "produced_pending_user_review",
+  "date": "2026-11-07",
+  "provider": "Apophis",
+  "baseURL": "https://www.apophis.uk/v1",
+  "providerReportedModel": "gpt-image-2",
+  "method": "bundled imagegen CLI edit with reference images; no built-in imagegen used",
+  "acceptedSceneImages": 16,
+  "successfulImageRequests": 19,
+  "targetedRevisions": [
+    "P01_PC_r2",
+    "P04B_PC_r2",
+    "P05_PC_r2"
+  ],
+  "attemptHistory": [
+    {
+      "endpoint": "OpenAI official endpoint",
+      "outcome": "HTTP 401 AuthenticationError; key redacted"
+    },
+    {
+      "endpoint": "Apophis /models",
+      "outcome": "Authenticated; gpt-image-2 listed"
+    },
+    {
+      "endpoint": "Apophis image edit",
+      "outcome": "19 image outputs saved; 16 selected"
+    }
+  ],
+  "realDetailAssets": 4,
+  "desktopAssetSize": [
+    1952,
+    800
+  ],
+  "mobileLifestyleAssetSize": [
+    1440,
+    1080
+  ],
+  "mobileDetailSize": [
+    600,
+    450
+  ],
+  "mobileAPISize": [
+    1440,
+    1088
+  ],
+  "mobileCrop": "4 px top and bottom",
+  "productionFiles": 22,
+  "actualProviderCost": "Not returned by CLI; not independently verified",
+  "credentialsStoredInBundle": false,
+  "userFinalApproval": false,
+  "githubArchive": "Prepared for archival commit; Git history records the actual push result."
+}

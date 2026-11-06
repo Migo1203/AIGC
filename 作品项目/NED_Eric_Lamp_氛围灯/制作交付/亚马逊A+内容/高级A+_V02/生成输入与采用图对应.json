@@ -1,0 +1,251 @@
+{
+  "method": "Bundled imagegen CLI edit; user-selected Apophis endpoint; provider-reported gpt-image-2",
+  "jobs": [
+    {
+      "id": "P01_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P01_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png"
+      ],
+      "selectedOutput": "素材原图/P01_PC_r2.png",
+      "selectedPrompt": "实际生成输入/P01_PC_比例修正.txt"
+    },
+    {
+      "id": "P01_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P01_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P01_Mobile.png",
+      "selectedPrompt": "实际生成输入/P01_Mobile.txt"
+    },
+    {
+      "id": "P03A_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03A_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03A_PC.png",
+      "selectedPrompt": "实际生成输入/P03A_PC.txt"
+    },
+    {
+      "id": "P03A_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03A_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03A_Mobile.png",
+      "selectedPrompt": "实际生成输入/P03A_Mobile.txt"
+    },
+    {
+      "id": "P03B_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03B_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03B_PC.png",
+      "selectedPrompt": "实际生成输入/P03B_PC.txt"
+    },
+    {
+      "id": "P03B_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03B_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03B_Mobile.png",
+      "selectedPrompt": "实际生成输入/P03B_Mobile.txt"
+    },
+    {
+      "id": "P03C_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03C_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03C_PC.png",
+      "selectedPrompt": "实际生成输入/P03C_PC.txt"
+    },
+    {
+      "id": "P03C_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P03C_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_旋钮按压.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_日间宽幅.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P03C_Mobile.png",
+      "selectedPrompt": "实际生成输入/P03C_Mobile.txt"
+    },
+    {
+      "id": "P04A_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04A_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_M01.png",
+        "光色_餐桌暮色.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P04A_PC.png",
+      "selectedPrompt": "实际生成输入/P04A_PC.txt"
+    },
+    {
+      "id": "P04A_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04A_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_M01.png",
+        "光色_餐桌暮色.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P04A_Mobile.png",
+      "selectedPrompt": "实际生成输入/P04A_Mobile.txt"
+    },
+    {
+      "id": "P04B_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04B_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_床头夜间.png"
+      ],
+      "selectedOutput": "素材原图/P04B_PC_r2.png",
+      "selectedPrompt": "实际生成输入/P04B_PC_比例修正.txt"
+    },
+    {
+      "id": "P04B_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04B_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_床头夜间.png",
+        "P04B_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P04B_Mobile.png",
+      "selectedPrompt": "实际生成输入/P04B_Mobile.txt"
+    },
+    {
+      "id": "P04C_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04C_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_M01.png",
+        "光色_餐桌暮色.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P04C_PC.png",
+      "selectedPrompt": "实际生成输入/P04C_PC.txt"
+    },
+    {
+      "id": "P04C_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P04C_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_M01.png",
+        "光色_餐桌暮色.png",
+        "P01_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P04C_Mobile.png",
+      "selectedPrompt": "实际生成输入/P04C_Mobile.txt"
+    },
+    {
+      "id": "P05_PC",
+      "apiSize": "1952x800",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P05_PC.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_床头夜间.png",
+        "P04B_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P05_PC_r2.png",
+      "selectedPrompt": "实际生成输入/P05_PC_近景重构.txt"
+    },
+    {
+      "id": "P05_Mobile",
+      "apiSize": "1440x1088",
+      "quality": "high",
+      "actualBasePrompt": "实际生成输入/P05_Mobile.txt",
+      "referenceNamesSnapshot": [
+        "产品_正面近景.jpg",
+        "产品_用户斜俯视.png",
+        "人物_F01.png",
+        "光色_床头夜间.png",
+        "P04B_PC_r2.png"
+      ],
+      "selectedOutput": "素材原图/P05_Mobile.png",
+      "selectedPrompt": "实际生成输入/P05_Mobile.txt"
+    }
+  ],
+  "revisions": "Each of the three targeted edits uses the prior generated scene as image 1 and the original front close-up product photo as image 2. Initial scene variants are retained locally, not included as accepted imagery.",
+  "recordLimit": "Reference names are a snapshot of the local execution manifest; not an immutable provider request log. The actual submitted prompt text is the TXT, not the earlier proposed prompt in the planning JSON."
+}

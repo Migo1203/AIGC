@@ -1,0 +1,132 @@
+{
+  "status": "passed",
+  "results": [
+    {
+      "width": 1600,
+      "states": [
+        {
+          "id": "P03A",
+          "expected": "P03A_PC.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03B",
+          "expected": "P03B_PC.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03C",
+          "expected": "P03C_PC.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04A",
+          "expected": "P04A_PC.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04B",
+          "expected": "P04B_PC.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04C",
+          "expected": "P04C_PC.svg",
+          "loaded": true
+        }
+      ],
+      "hotspots": 3,
+      "faq": 3,
+      "horizontalOverflow": false,
+      "pageErrors": []
+    },
+    {
+      "width": 390,
+      "states": [
+        {
+          "id": "P03A",
+          "expected": "P03A_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03B",
+          "expected": "P03B_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03C",
+          "expected": "P03C_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04A",
+          "expected": "P04A_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04B",
+          "expected": "P04B_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04C",
+          "expected": "P04C_Mobile.svg",
+          "loaded": true
+        }
+      ],
+      "hotspots": 3,
+      "faq": 3,
+      "horizontalOverflow": false,
+      "pageErrors": []
+    },
+    {
+      "width": 375,
+      "states": [
+        {
+          "id": "P03A",
+          "expected": "P03A_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03B",
+          "expected": "P03B_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P03C",
+          "expected": "P03C_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04A",
+          "expected": "P04A_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04B",
+          "expected": "P04B_Mobile.svg",
+          "loaded": true
+        },
+        {
+          "id": "P04C",
+          "expected": "P04C_Mobile.svg",
+          "loaded": true
+        }
+      ],
+      "hotspots": 3,
+      "faq": 3,
+      "horizontalOverflow": false,
+      "pageErrors": []
+    },
+    {
+      "fieldMapWidth": 1600,
+      "imagesLoaded": true,
+      "horizontalOverflow": false
+    },
+    {
+      "fieldMapWidth": 390,
+      "imagesLoaded": true,
+      "horizontalOverflow": false
+    }
+  ]
+}

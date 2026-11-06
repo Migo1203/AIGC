@@ -1,0 +1,711 @@
+{
+  "status": "passed",
+  "date": "2026-11-07",
+  "stage": "production self-check; pending real user review, not final approval",
+  "errors": [],
+  "imageIntegrity": [
+    {
+      "file": "NED_高级A+_V02_连续长页_1600w.jpg",
+      "size": [
+        1600,
+        3906
+      ]
+    },
+    {
+      "file": "NED_高级A+_V02_连续长页_1600w.png",
+      "size": [
+        1600,
+        3906
+      ]
+    },
+    {
+      "file": "NED_高级A+_V02_连续长页_预览.jpg",
+      "size": [
+        1000,
+        2441
+      ]
+    },
+    {
+      "file": "全部状态总览.jpg",
+      "size": [
+        1600,
+        3400
+      ]
+    },
+    {
+      "file": "手机端连续长页_390w.png",
+      "size": [
+        390,
+        2576
+      ]
+    },
+    {
+      "file": "交互检查预览/P03C_1600w.png",
+      "size": [
+        1600,
+        657
+      ]
+    },
+    {
+      "file": "交互检查预览/P03C_390w.png",
+      "size": [
+        390,
+        433
+      ]
+    },
+    {
+      "file": "交互检查预览/P04B_1600w.png",
+      "size": [
+        1600,
+        656
+      ]
+    },
+    {
+      "file": "交互检查预览/P04B_390w.png",
+      "size": [
+        390,
+        433
+      ]
+    },
+    {
+      "file": "交互检查预览/P04C_1600w.png",
+      "size": [
+        1600,
+        656
+      ]
+    },
+    {
+      "file": "交互检查预览/P04C_390w.png",
+      "size": [
+        390,
+        412
+      ]
+    },
+    {
+      "file": "交互检查预览/交互页_390w_默认全页.png",
+      "size": [
+        390,
+        3109
+      ]
+    },
+    {
+      "file": "交互检查预览/组合SVG_顶部实渲染.png",
+      "size": [
+        1600,
+        1000
+      ]
+    },
+    {
+      "file": "制作素材/环境连接_1.jpg",
+      "size": [
+        1600,
+        24
+      ]
+    },
+    {
+      "file": "制作素材/环境连接_2.jpg",
+      "size": [
+        1600,
+        24
+      ]
+    },
+    {
+      "file": "制作素材/环境连接_3.jpg",
+      "size": [
+        1600,
+        24
+      ]
+    },
+    {
+      "file": "制作素材/环境连接_4.jpg",
+      "size": [
+        1600,
+        24
+      ]
+    },
+    {
+      "file": "制作素材/环境连接_5.jpg",
+      "size": [
+        1600,
+        24
+      ]
+    },
+    {
+      "file": "制作素材/真实产品_原始参考.jpg",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "制作素材/真实产品_派生色度蒙版.png",
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "file": "图文预览/P01_Mobile.png",
+      "size": [
+        600,
+        707
+      ]
+    },
+    {
+      "file": "图文预览/P01_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P02_Edge_Mobile.png",
+      "size": [
+        600,
+        602
+      ]
+    },
+    {
+      "file": "图文预览/P02_Finish_Mobile.png",
+      "size": [
+        600,
+        634
+      ]
+    },
+    {
+      "file": "图文预览/P02_Knob_Mobile.png",
+      "size": [
+        600,
+        634
+      ]
+    },
+    {
+      "file": "图文预览/P02_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P03A_Mobile.png",
+      "size": [
+        600,
+        633
+      ]
+    },
+    {
+      "file": "图文预览/P03A_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P03B_Mobile.png",
+      "size": [
+        600,
+        633
+      ]
+    },
+    {
+      "file": "图文预览/P03B_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P03C_Mobile.png",
+      "size": [
+        600,
+        665
+      ]
+    },
+    {
+      "file": "图文预览/P03C_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P04A_Mobile.png",
+      "size": [
+        600,
+        633
+      ]
+    },
+    {
+      "file": "图文预览/P04A_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P04B_Mobile.png",
+      "size": [
+        600,
+        665
+      ]
+    },
+    {
+      "file": "图文预览/P04B_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P04C_Mobile.png",
+      "size": [
+        600,
+        633
+      ]
+    },
+    {
+      "file": "图文预览/P04C_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P05_Mobile.png",
+      "size": [
+        600,
+        665
+      ]
+    },
+    {
+      "file": "图文预览/P05_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图文预览/P06_Mobile.png",
+      "size": [
+        600,
+        692
+      ]
+    },
+    {
+      "file": "图文预览/P06_PC.png",
+      "size": [
+        1952,
+        617
+      ]
+    },
+    {
+      "file": "图片素材/P01_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P01_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P02_Edge_Mobile.jpg",
+      "size": [
+        600,
+        450
+      ]
+    },
+    {
+      "file": "图片素材/P02_Finish_Mobile.jpg",
+      "size": [
+        600,
+        450
+      ]
+    },
+    {
+      "file": "图片素材/P02_Knob_Mobile.jpg",
+      "size": [
+        600,
+        450
+      ]
+    },
+    {
+      "file": "图片素材/P02_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P03A_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P03A_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P03B_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P03B_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P03C_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P03C_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P04A_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P04A_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P04B_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P04B_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P04C_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P04C_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "图片素材/P05_Mobile.jpg",
+      "size": [
+        1440,
+        1080
+      ]
+    },
+    {
+      "file": "图片素材/P05_PC.jpg",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P01_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P01_PC_r2.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P03A_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P03A_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P03B_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P03B_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P03C_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P03C_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P04A_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P04A_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P04B_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P04B_PC_r2.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P04C_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P04C_PC.png",
+      "size": [
+        1952,
+        800
+      ]
+    },
+    {
+      "file": "素材原图/P05_Mobile.png",
+      "size": [
+        1440,
+        1088
+      ]
+    },
+    {
+      "file": "素材原图/P05_PC_r2.png",
+      "size": [
+        1952,
+        800
+      ]
+    }
+  ],
+  "svgStructure": [
+    {
+      "file": "制作素材/ned_原样Logo.svg",
+      "objectsWithIDs": 0
+    },
+    {
+      "file": "可编辑源稿/NED_高级A+_V02_连续长页_可编辑.svg",
+      "objectsWithIDs": 72
+    },
+    {
+      "file": "可编辑源稿/P01_Mobile.svg",
+      "objectsWithIDs": 6
+    },
+    {
+      "file": "可编辑源稿/P01_PC.svg",
+      "objectsWithIDs": 8
+    },
+    {
+      "file": "可编辑源稿/P02_Edge_Mobile.svg",
+      "objectsWithIDs": 4
+    },
+    {
+      "file": "可编辑源稿/P02_Finish_Mobile.svg",
+      "objectsWithIDs": 5
+    },
+    {
+      "file": "可编辑源稿/P02_Knob_Mobile.svg",
+      "objectsWithIDs": 5
+    },
+    {
+      "file": "可编辑源稿/P02_PC.svg",
+      "objectsWithIDs": 22
+    },
+    {
+      "file": "可编辑源稿/P03A_Mobile.svg",
+      "objectsWithIDs": 4
+    },
+    {
+      "file": "可编辑源稿/P03A_PC.svg",
+      "objectsWithIDs": 7
+    },
+    {
+      "file": "可编辑源稿/P03B_Mobile.svg",
+      "objectsWithIDs": 4
+    },
+    {
+      "file": "可编辑源稿/P03B_PC.svg",
+      "objectsWithIDs": 7
+    },
+    {
+      "file": "可编辑源稿/P03C_Mobile.svg",
+      "objectsWithIDs": 5
+    },
+    {
+      "file": "可编辑源稿/P03C_PC.svg",
+      "objectsWithIDs": 12
+    },
+    {
+      "file": "可编辑源稿/P04A_Mobile.svg",
+      "objectsWithIDs": 4
+    },
+    {
+      "file": "可编辑源稿/P04A_PC.svg",
+      "objectsWithIDs": 6
+    },
+    {
+      "file": "可编辑源稿/P04B_Mobile.svg",
+      "objectsWithIDs": 5
+    },
+    {
+      "file": "可编辑源稿/P04B_PC.svg",
+      "objectsWithIDs": 7
+    },
+    {
+      "file": "可编辑源稿/P04C_Mobile.svg",
+      "objectsWithIDs": 4
+    },
+    {
+      "file": "可编辑源稿/P04C_PC.svg",
+      "objectsWithIDs": 6
+    },
+    {
+      "file": "可编辑源稿/P05_Mobile.svg",
+      "objectsWithIDs": 5
+    },
+    {
+      "file": "可编辑源稿/P05_PC.svg",
+      "objectsWithIDs": 7
+    },
+    {
+      "file": "可编辑源稿/P06_Mobile.svg",
+      "objectsWithIDs": 15
+    },
+    {
+      "file": "可编辑源稿/P06_PC.svg",
+      "objectsWithIDs": 11
+    }
+  ],
+  "assetCount": 20,
+  "fieldChecks": [
+    {
+      "id": "P03",
+      "titleLength": 22,
+      "titleLimit": 50,
+      "bodyLength": 39,
+      "bodyLimit": 200
+    },
+    {
+      "id": "P03",
+      "titleLength": 21,
+      "titleLimit": 50,
+      "bodyLength": 37,
+      "bodyLimit": 200
+    },
+    {
+      "id": "P03",
+      "titleLength": 30,
+      "titleLimit": 50,
+      "bodyLength": 58,
+      "bodyLimit": 200
+    },
+    {
+      "id": "P04",
+      "titleLength": 28,
+      "titleLimit": 50,
+      "bodyLength": 37,
+      "bodyLimit": 100
+    },
+    {
+      "id": "P04",
+      "titleLength": 21,
+      "titleLimit": 50,
+      "bodyLength": 63,
+      "bodyLimit": 100
+    },
+    {
+      "id": "P04",
+      "titleLength": 16,
+      "titleLimit": 50,
+      "bodyLength": 44,
+      "bodyLimit": 100
+    }
+  ],
+  "checks": [
+    "SVG XML, unique IDs, embedded images, local links",
+    "Image integrity, accepted asset SHA-256",
+    "22 per-state SVG rendered in Chrome, visible-ink text bounds and collisions",
+    "18 desktop/mobile state selections, 9 hotspot and 9 FAQ checks at 1600/390/375 CSS px",
+    "Visual inspection of actual generated scenes, real detail composition and desktop/mobile previews",
+    "Local plaintext credential-pattern scan (no credential values emitted)"
+  ],
+  "notVerified": [
+    "Amazon seller account eligibility, actual backend module configuration and upload review",
+    "Independent product measurements or third-party provider model implementation",
+    "Illustrator/Inkscape/Photoshop import compatibility",
+    "Copyright license for existing third-party product references is not established by this design study"
+  ]
+}

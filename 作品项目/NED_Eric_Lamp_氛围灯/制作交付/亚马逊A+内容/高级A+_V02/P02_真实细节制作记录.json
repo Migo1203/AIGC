@@ -1,0 +1,87 @@
+{
+  "source": "outputs\\NED_高级A+_V02_制作准备_20261107\\参考素材\\产品_正面近景.jpg",
+  "method": "actual product photo crops, derived chroma mask with manually constrained base boundary and warm background; no AI-generated surface detail",
+  "rgbProduct": "original photo copied; edge matte derived",
+  "desktop": [
+    1952,
+    800
+  ],
+  "mobile": [
+    600,
+    450
+  ],
+  "macroLimitation": "Source supports visible knob, finish and profile; no claim of independently photographed manufacturing microtexture. Some desktop crop windows resampled, not increased true detail.",
+  "detailWindows": [
+    [
+      "knob",
+      [
+        376,
+        93,
+        658,
+        375
+      ],
+      [
+        775,
+        253
+      ],
+      128
+    ],
+    [
+      "finish",
+      [
+        320,
+        210,
+        720,
+        610
+      ],
+      [
+        1370,
+        360
+      ],
+      195
+    ],
+    [
+      "edge",
+      [
+        270,
+        298,
+        730,
+        758
+      ],
+      [
+        850,
+        588
+      ],
+      150
+    ]
+  ],
+  "mobileCrops": [
+    [
+      "P02_Knob_Mobile",
+      [
+        210,
+        55,
+        810,
+        505
+      ]
+    ],
+    [
+      "P02_Finish_Mobile",
+      [
+        218,
+        175,
+        818,
+        625
+      ]
+    ],
+    [
+      "P02_Edge_Mobile",
+      [
+        210,
+        310,
+        810,
+        760
+      ]
+    ]
+  ]
+}
