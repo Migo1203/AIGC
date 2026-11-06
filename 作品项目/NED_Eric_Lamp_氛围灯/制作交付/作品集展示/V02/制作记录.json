@@ -1,0 +1,60 @@
+{
+  "date": "2026-11-06",
+  "version": "V02",
+  "status": "待审阅",
+  "size": [
+    1600,
+    1200
+  ],
+  "scope": "4:3 项目封面与简短背景/视觉策略两张",
+  "method": "Existing AI scene reuse, cropping, deterministic live-text SVG layout; no new AI image generation",
+  "sources": [
+    {
+      "source": "P01_PC.png",
+      "crop_box": [
+        440,
+        0,
+        1699,
+        803
+      ],
+      "output_size": [
+        1600,
+        1020
+      ],
+      "file": "封面_日间场景.png"
+    },
+    {
+      "source": "P05_Dining_PC.png",
+      "crop_box": [
+        550,
+        0,
+        1684,
+        803
+      ],
+      "output_size": [
+        720,
+        510
+      ],
+      "file": "策略_餐桌场景.png"
+    },
+    {
+      "source": "P01_PC.png",
+      "crop_box": [
+        1210,
+        120,
+        1670,
+        725
+      ],
+      "output_size": [
+        172,
+        226
+      ],
+      "file": "策略_产品细节.png"
+    }
+  ],
+  "logo": "Existing ned. contour redraw, unchanged shapes",
+  "fonts": "Embedded DM Sans (OFL); Microsoft YaHei local reference, not distributed",
+  "attribution": "Self-initiated concept project, AI assisted; no verified commercial performance claims",
+  "reference_scope": "Borrowed narrative only; third-party case images and local analysis not included in archive",
+  "note": "4:3 requested by user; distinct from the reference projects’ ~1.28:1 Behance listing covers. Cover photo is interpolated ~1.27×; no new true detail."
+}

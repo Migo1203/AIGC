@@ -1,0 +1,42 @@
+[
+  {
+    "file": "01_NED_Eric_封面_V02_1600x1200.png",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "bytes": 1720432,
+    "sRGB_profile": true
+  },
+  {
+    "file": "01_NED_Eric_封面_V02_1600x1200.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "bytes": 525527,
+    "sRGB_profile": true
+  },
+  {
+    "file": "02_NED_Eric_背景与视觉策略_V02_1600x1200.png",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "bytes": 658845,
+    "sRGB_profile": true
+  },
+  {
+    "file": "02_NED_Eric_背景与视觉策略_V02_1600x1200.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "bytes": 425352,
+    "sRGB_profile": true
+  }
+]
