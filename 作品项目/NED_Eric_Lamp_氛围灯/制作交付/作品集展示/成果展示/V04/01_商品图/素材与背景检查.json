@@ -1,0 +1,21 @@
+{
+  "listing_html_unchanged_except_image_src": true,
+  "source_images_hash_match": true,
+  "03_adopted": "V01; not regenerated",
+  "size": [
+    1600,
+    4640
+  ],
+  "strategy_to_background_first_row_identical": true,
+  "old_background_rgb_mean": [
+    212.14415948275862,
+    186.39211422413794,
+    165.51296551724138
+  ],
+  "revised_background_rgb_mean": [
+    217.38144571659484,
+    196.01720379849138,
+    177.27582044719827
+  ],
+  "git_push": false
+}
