@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-06",
+  "version": "V02",
+  "status": "已获用户指定为后续背景蓝本；2026-11-06 按要求归档并同步视觉规划 v0.2",
+  "size": [
+    1600,
+    2400
+  ],
+  "source": "D:\\WLQ\\AIGC作品集\\work\\ned-banner-assets\\P01_PC.png",
+  "wall_crop": [
+    0,
+    0,
+    965,
+    580
+  ],
+  "method": "Existing wall light/shadow enhanced with local contrast, soft blur and reduced warm overlay; no AI generation",
+  "blur_radius_px": 11,
+  "broad_illumination_radius_px": 180,
+  "detail_gain_left": 0.45,
+  "detail_gain_right": 1.15,
+  "global_contrast": 1.12,
+  "warm_overlay": 0.1,
+  "continuity": "One continuous master; two sequential 1600×1200 slices, not a repeating tile.",
+  "user_direction": "用户指定此 V02 作为后续作品集页面背景蓝本，保持连续性。仅约束作品集展示背景，不覆盖商品图/A+/Banner 内部的日间、夜间和暮色场景差异。",
+  "source_repo": "作品项目/NED_Eric_Lamp_氛围灯/制作交付/亚马逊A+内容/高级A+_V01/素材原图/P01_PC.png"
+}

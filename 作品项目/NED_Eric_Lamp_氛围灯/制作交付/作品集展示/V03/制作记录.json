@@ -1,0 +1,51 @@
+{
+  "date": "2026-11-06",
+  "version": "V03",
+  "status": "待审阅",
+  "page_size": [
+    1600,
+    1200
+  ],
+  "cover_crop": [
+    355,
+    0,
+    1783,
+    803
+  ],
+  "scene_rendered": [
+    1600,
+    900
+  ],
+  "method": "Existing AI scene reuse, deterministic crop, environmental crossfade, editable SVG typography; no new image generation",
+  "top_information": "No solid header; compact brand content within approximately 110px rather than previous 180px band",
+  "transition": {
+    "start_y": 820,
+    "end_y": 1060,
+    "curve": "smoothstep",
+    "target": "approved wall V02 upper 1200 rows reversed vertically"
+  },
+  "background_coordinates": {
+    "cover_extension": [
+      0,
+      1200
+    ],
+    "strategy_approved_master": [
+      0,
+      1200
+    ],
+    "next_overview_approved_master": [
+      1200,
+      2400
+    ]
+  },
+  "invariants": "Complete lamp and contact surface above transition remain unblended. Existing approved background unchanged for strategy and results.",
+  "typefaces": "DM Sans embedded with OFL; Microsoft YaHei local reference, not distributed",
+  "sources": [
+    "P01_PC.png",
+    "P05_Dining_PC.png",
+    "P05_Bed_PC.png",
+    "Existing ned. contour redraw",
+    "Approved wall background V02"
+  ],
+  "limitations": "Scene interpolated about 1.12×; bottom environment extended before blending, not newly photographed; 4:3 layout and continuity mockup are portfolio presentation."
+}

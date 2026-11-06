@@ -1,0 +1,20 @@
+[
+  {
+    "file": "01_NED_Eric_封面_V03_1600x1200.png",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "icc": true
+  },
+  {
+    "file": "02_NED_Eric_背景与视觉策略_V03_1600x1200.png",
+    "size": [
+      1600,
+      1200
+    ],
+    "mode": "RGB",
+    "icc": true
+  }
+]
