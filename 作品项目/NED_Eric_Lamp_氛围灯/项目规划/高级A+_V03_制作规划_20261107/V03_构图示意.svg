@@ -1,0 +1,201 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="3070" viewBox="0 0 1440 3070"><title>NED 高级 A+ V03 构图规划占位示意</title><desc>六个模块的桌面与手机区域关系，所有人物、灯和动作都是矢量占位，不是商品成品或产品事实依据。</desc><style>text{font-family:"Microsoft YaHei","Arial",sans-serif}.label{font-size:20px;fill:#35332e}.small{font-size:16px;fill:#655d52}.title{font-size:26px;font-weight:600;fill:#302d28}</style>
+<rect x="0" y="0" width="1440" height="3070" rx="0" fill="#f1eee8"/>
+<text x="42" y="50" class="title">NED Eric Lamp｜高级 A+ V03 构图规划</text>
+<text x="42" y="86" class="label">2026-11-07 · 规划待审阅 · 全部为占位示意，尚未制作 V03 商品画面</text>
+<text x="42" y="118" class="small">景别顺序：前景产品 → 真实细节 → 动作近景 → 差异场景 → 尺度 → FAQ</text>
+<text x="42" y="146" class="small">所有产品轮廓和尺寸线仅表达区域关系，不是测量、真实产品结构或最终平台版式。</text>
+<rect x="30" y="162" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="196" class="title">P01  前景产品，人物退后</text>
+<text x="55" y="228" class="small">减轻面部与道具竞争；通过相机位置建立主次，保持小灯真实比例。</text>
+<text x="55" y="258" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="258" class="small">手机｜独立重构</text>
+<rect x="55" y="274" width="900" height="310" rx="4" fill="#e0d5c5"/>
+<rect x="55" y="504" width="900" height="80" rx="0" fill="#9c8065"/>
+<circle cx="775" cy="341" r="17.28" fill="#c9b5a0"/>
+<rect x="744.04" y="360.44" width="61.919999999999995" height="67.67999999999999" rx="15.84" fill="#66737d"/>
+<ellipse cx="676" cy="548" rx="62.92000000000001" ry="7.865000000000001" fill="#746654" opacity=".15"/>
+<rect x="672.975" y="376.6" width="6.050000000000001" height="151.79999999999998" rx="0" fill="#bd9e72"/>
+<path d="M615.5 394.2 Q615.5 339.2 676 339.2 Q736.5 339.2 736.5 394.2 Z" fill="#cfb68f"/>
+<rect x="672.854" y="326" width="6.292000000000001" height="16.5" rx="3" fill="#c2a77d"/>
+<ellipse cx="676" cy="541" rx="59.290000000000006" ry="9.075000000000001" fill="#cbb18c"/>
+<text x="92" y="338" class="title">短标题与用途</text>
+<text x="92" y="377" class="small">自然留白，标题和说明成组</text>
+<rect x="475" y="510" width="100" height="13" rx="0" fill="#d0bfa7"/>
+<text x="740" y="482" class="small">人物中后景</text>
+<rect x="1050" y="274" width="300" height="225" rx="4" fill="#e0d5c5"/>
+<rect x="1050" y="447" width="300" height="52" rx="0" fill="#9c8065"/>
+<circle cx="1286" cy="319" r="11.040000000000001" fill="#c9b5a0"/>
+<rect x="1266.22" y="331.42" width="39.56" height="43.24" rx="10.120000000000001" fill="#66737d"/>
+<ellipse cx="1170" cy="480" rx="42.328" ry="5.291" fill="#746654" opacity=".15"/>
+<rect x="1167.965" y="364.04" width="4.07" height="102.11999999999999" rx="0" fill="#bd9e72"/>
+<path d="M1129.3 375.88 Q1129.3 338.88 1170 338.88 Q1210.7 338.88 1210.7 375.88 Z" fill="#cfb68f"/>
+<rect x="1167.8836" y="330" width="4.2328" height="11.1" rx="3" fill="#c2a77d"/>
+<ellipse cx="1170" cy="473" rx="39.886" ry="6.105" fill="#cbb18c"/>
+<text x="1050" y="532" class="small">产品＋人物局部，少道具</text>
+<rect x="30" y="632" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="666" class="title">P02  真实整体＋旋钮近景；两个热点</text>
+<text x="55" y="698" class="small">取消重复三圆窗；完整灯和旋钮各自回答一个问题，蒙版边缘重新检查。</text>
+<text x="55" y="728" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="728" class="small">手机｜独立重构</text>
+<rect x="55" y="744" width="900" height="310" rx="4" fill="#ded3c5"/>
+<ellipse cx="312" cy="1022" rx="70.35600000000001" ry="8.794500000000001" fill="#746654" opacity=".15"/>
+<rect x="308.6175" y="830.58" width="6.765000000000001" height="169.73999999999998" rx="0" fill="#bd9e72"/>
+<path d="M244.35 850.26 Q244.35 788.76 312 788.76 Q379.65 788.76 379.65 850.26 Z" fill="#cfb68f"/>
+<rect x="308.4822" y="774" width="7.0356000000000005" height="18.45" rx="3" fill="#c2a77d"/>
+<ellipse cx="312" cy="1015" rx="66.29700000000001" ry="10.1475" fill="#cbb18c"/>
+<rect x="560" y="788" width="305" height="168" rx="4" fill="#e9e0d5"/>
+<ellipse cx="712" cy="1040" rx="70.35600000000001" ry="8.794500000000001" fill="#746654" opacity=".15"/>
+<rect x="708.6175" y="848.58" width="6.765000000000001" height="169.73999999999998" rx="0" fill="#bd9e72"/>
+<path d="M644.35 868.26 Q644.35 806.76 712 806.76 Q779.65 806.76 779.65 868.26 Z" fill="#cfb68f"/>
+<rect x="708.4822" y="792" width="7.0356000000000005" height="18.45" rx="3" fill="#c2a77d"/>
+<ellipse cx="712" cy="1033" rx="66.29700000000001" ry="10.1475" fill="#cbb18c"/>
+<rect x="560" y="956" width="305" height="98" rx="0" fill="#ded3c5"/>
+<text x="150" y="786" class="small">Sand Cashmere</text>
+<text x="576" y="982" class="small">Top knob｜真实照片裁切</text>
+<circle cx="312" cy="867" r="10" fill="#886f50"/><circle cx="712" cy="796" r="10" fill="#886f50"/>
+<rect x="1050" y="744" width="300" height="225" rx="4" fill="#ded3c5"/>
+<ellipse cx="1200" cy="957" rx="53.76800000000001" ry="6.721000000000001" fill="#746654" opacity=".15"/>
+<rect x="1197.415" y="810.24" width="5.170000000000001" height="129.72" rx="0" fill="#bd9e72"/>
+<path d="M1148.3 825.28 Q1148.3 778.28 1200 778.28 Q1251.7 778.28 1251.7 825.28 Z" fill="#cfb68f"/>
+<rect x="1197.3116" y="767" width="5.3768" height="14.1" rx="3" fill="#c2a77d"/>
+<ellipse cx="1200" cy="950" rx="50.666000000000004" ry="7.755" fill="#cbb18c"/>
+<text x="1050" y="1002" class="small">两状态：旋钮近景 / 完整沙色灯</text>
+<rect x="30" y="1102" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="1136" class="title">P03  同机位操作近景，动作与说明成组</text>
+<text x="55" y="1168" class="small">主画面只保留手、旋钮、灯罩和必要上下文；三个动作独立展示。</text>
+<text x="55" y="1198" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="1198" class="small">手机｜独立重构</text>
+<rect x="55" y="1214" width="900" height="310" rx="4" fill="#dccbb8"/>
+<defs><clipPath id="operation-desktop"><rect x="55" y="1214" width="900" height="310"/></clipPath></defs><g clip-path="url(#operation-desktop)">
+<ellipse cx="650" cy="1604" rx="85.22800000000001" ry="10.653500000000001" fill="#746654" opacity=".15"/>
+<rect x="645.9025" y="1372.54" width="8.195" height="205.61999999999998" rx="0" fill="#bd9e72"/>
+<path d="M568.05 1396.38 Q568.05 1321.88 650 1321.88 Q731.95 1321.88 731.95 1396.38 Z" fill="#cfb68f"/>
+<rect x="645.7386" y="1304" width="8.5228" height="22.349999999999998" rx="3" fill="#c2a77d"/>
+<ellipse cx="650" cy="1597" rx="80.311" ry="12.2925" fill="#cbb18c"/>
+<rect x="586" y="1294" width="64" height="23" rx="9" fill="#bda58e"/>
+<text x="556" y="1282" class="small">手部占位</text>
+<path d="M650 1260L650 1293" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M650 1293L644 1284" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M650 1293L656 1284" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M655 1287 Q692 1272 690 1308" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M690 1308L682 1301" stroke="#8b593d" stroke-width="3" fill="none"/>
+</g>
+<text x="95" y="1288" class="title">Press &amp; turn.</text>
+<text x="95" y="1326" class="small">按住＋旋转，方向标记后排</text>
+<text x="95" y="1482" class="small">三状态：Press / Turn / Press &amp; turn</text>
+<rect x="1050" y="1214" width="300" height="225" rx="4" fill="#dccbb8"/>
+<defs><clipPath id="operation-mobile"><rect x="1050" y="1214" width="300" height="225"/></clipPath></defs><g clip-path="url(#operation-mobile)">
+<ellipse cx="1238" cy="1511" rx="67.49600000000001" ry="8.437000000000001" fill="#746654" opacity=".15"/>
+<rect x="1234.755" y="1327.28" width="6.490000000000001" height="162.83999999999997" rx="0" fill="#bd9e72"/>
+<path d="M1173.1 1346.16 Q1173.1 1287.16 1238 1287.16 Q1302.9 1287.16 1302.9 1346.16 Z" fill="#cfb68f"/>
+<rect x="1234.6252" y="1273" width="6.7496" height="17.7" rx="3" fill="#c2a77d"/>
+<ellipse cx="1238" cy="1504" rx="63.602000000000004" ry="9.735000000000001" fill="#cbb18c"/>
+<rect x="1174" y="1263" width="64" height="23" rx="9" fill="#bda58e"/>
+<text x="1144" y="1251" class="small">手部占位</text>
+<path d="M1238 1229L1238 1262" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M1238 1262L1232 1253" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M1238 1262L1244 1253" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M1243 1256 Q1280 1241 1278 1277" stroke="#8b593d" stroke-width="3" fill="none"/>
+<path d="M1278 1277L1270 1270" stroke="#8b593d" stroke-width="3" fill="none"/>
+</g>
+<text x="1050" y="1472" class="small">手与旋钮优先，说明靠近动作</text>
+<rect x="30" y="1572" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="1606" class="title">P04  三场景，三种机位与行为</text>
+<text x="55" y="1638" class="small">以下是三个轮播状态的小示意，各状态实际独立全幅；不制作三栏白卡。</text>
+<text x="55" y="1668" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="1668" class="small">手机｜独立重构</text>
+<rect x="55" y="1684" width="288" height="215" rx="4" fill="#d9c5aa"/>
+<rect x="361" y="1684" width="288" height="215" rx="4" fill="#818c95"/>
+<rect x="667" y="1684" width="288" height="215" rx="4" fill="#a1aaa2"/>
+<rect x="55" y="1820" width="288" height="79" rx="0" fill="#a88a68"/>
+<ellipse cx="154" cy="1878" rx="40.04" ry="5.005" fill="#746654" opacity=".15"/>
+<rect x="152.075" y="1768.2" width="3.85" height="96.6" rx="0" fill="#bd9e72"/>
+<path d="M115.5 1779.4 Q115.5 1744.4 154 1744.4 Q192.5 1744.4 192.5 1779.4 Z" fill="#cfb68f"/>
+<rect x="151.998" y="1736" width="4.004" height="10.5" rx="3" fill="#c2a77d"/>
+<ellipse cx="154" cy="1871" rx="37.73" ry="5.7749999999999995" fill="#cbb18c"/>
+<rect x="228" y="1754" width="83" height="35" rx="8" fill="#9b6b56"/>
+<text x="70" y="1931" class="small">餐桌：斜俯＋衣袖局部</text>
+<rect x="361" y="1799" width="132" height="100" rx="0" fill="#b9bcc0"/>
+<rect x="508" y="1823" width="122" height="76" rx="0" fill="#806e59"/>
+<ellipse cx="566" cy="1864" rx="34.32" ry="4.29" fill="#746654" opacity=".15"/>
+<rect x="564.35" y="1769.6" width="3.3000000000000003" height="82.8" rx="0" fill="#bd9e72"/>
+<path d="M533.0 1779.2 Q533.0 1749.2 566 1749.2 Q599.0 1749.2 599.0 1779.2 Z" fill="#cfb68f"/>
+<rect x="564.284" y="1742" width="3.432" height="9.0" rx="3" fill="#c2a77d"/>
+<ellipse cx="566" cy="1857" rx="32.339999999999996" ry="4.95" fill="#cbb18c"/>
+<text x="376" y="1931" class="small">床头：侧视＋放书</text>
+<rect x="667" y="1696" width="288" height="14" rx="0" fill="#616b64"/>
+<rect x="930" y="1696" width="12" height="203" rx="0" fill="#616b64"/>
+<circle cx="730" cy="1749" r="12.48" fill="#c9b5a0"/>
+<rect x="707.64" y="1763.04" width="44.72" height="48.88" rx="11.440000000000001" fill="#9b6b56"/>
+<rect x="793" y="1843" width="130" height="56" rx="0" fill="#8e755b"/>
+<ellipse cx="852" cy="1865" rx="38.61" ry="4.82625" fill="#746654" opacity=".15"/>
+<rect x="850.14375" y="1759.05" width="3.7125000000000004" height="93.14999999999999" rx="0" fill="#bd9e72"/>
+<path d="M814.875 1769.85 Q814.875 1736.1 852 1736.1 Q889.125 1736.1 889.125 1769.85 Z" fill="#cfb68f"/>
+<rect x="850.0695" y="1728" width="3.8609999999999998" height="10.125" rx="3" fill="#c2a77d"/>
+<ellipse cx="852" cy="1858" rx="36.3825" ry="5.56875" fill="#cbb18c"/>
+<text x="682" y="1931" class="small">露台：侧向空间＋放杯</text>
+<rect x="1050" y="1684" width="300" height="225" rx="4" fill="#a1aaa2"/>
+<rect x="1320" y="1684" width="12" height="225" rx="0" fill="#616b64"/>
+<circle cx="1106" cy="1743" r="10.32" fill="#c9b5a0"/>
+<rect x="1087.51" y="1754.61" width="36.98" height="40.42" rx="9.459999999999999" fill="#9b6b56"/>
+<rect x="1164" y="1855" width="150" height="54" rx="0" fill="#8e755b"/>
+<ellipse cx="1225" cy="1883" rx="43.18600000000001" ry="5.398250000000001" fill="#746654" opacity=".15"/>
+<rect x="1222.92375" y="1764.73" width="4.152500000000001" height="104.19" rx="0" fill="#bd9e72"/>
+<path d="M1183.475 1776.81 Q1183.475 1739.06 1225 1739.06 Q1266.525 1739.06 1266.525 1776.81 Z" fill="#cfb68f"/>
+<rect x="1222.8407" y="1730" width="4.3186" height="11.325" rx="3" fill="#c2a77d"/>
+<ellipse cx="1225" cy="1876" rx="40.694500000000005" ry="6.228750000000001" fill="#cbb18c"/>
+<text x="1050" y="1942" class="small">保留场景依据，不重复摸旋钮</text>
+<rect x="30" y="2042" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="2076" class="title">P05  产品近景＋清楚的尺寸关系</text>
+<text x="55" y="2108" class="small">先修底座和灯罩硬边；尽量复用，手不再碰旋钮，单位合理分行。</text>
+<text x="55" y="2138" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="2138" class="small">手机｜独立重构</text>
+<rect x="55" y="2154" width="900" height="310" rx="4" fill="#a3a19a"/>
+<rect x="55" y="2410" width="900" height="54" rx="0" fill="#977a5d"/>
+<ellipse cx="632" cy="2439" rx="66.352" ry="8.294" fill="#746654" opacity=".15"/>
+<rect x="628.81" y="2258.36" width="6.380000000000001" height="160.07999999999998" rx="0" fill="#bd9e72"/>
+<path d="M568.2 2276.92 Q568.2 2218.92 632 2218.92 Q695.8 2218.92 695.8 2276.92 Z" fill="#cfb68f"/>
+<rect x="628.6824" y="2205" width="6.6352" height="17.4" rx="3" fill="#c2a77d"/>
+<ellipse cx="632" cy="2432" rx="62.524" ry="9.57" fill="#cbb18c"/>
+<path d="M740 2205L740 2437" stroke="#776954" stroke-width="2" fill="none"/>
+<path d="M733 2205L747 2205" stroke="#776954" stroke-width="2" fill="none"/>
+<path d="M733 2437L747 2437" stroke="#776954" stroke-width="2" fill="none"/>
+<text x="760" y="2323" class="small">H 20.1 cm</text>
+<path d="M570 2282L697 2282" stroke="#776954" stroke-width="2" fill="none"/>
+<text x="552" y="2262" class="small">Ø 11 cm</text>
+<text x="100" y="2233" class="title">Small lamp.</text>
+<text x="100" y="2272" class="title">Thoughtful form.</text>
+<text x="100" y="2355" class="small">尺寸为资料标称；线段为示意</text>
+<rect x="1050" y="2154" width="300" height="225" rx="4" fill="#a3a19a"/>
+<rect x="1050" y="2339" width="300" height="40" rx="0" fill="#977a5d"/>
+<ellipse cx="1190" cy="2368" rx="53.196000000000005" ry="6.649500000000001" fill="#746654" opacity=".15"/>
+<rect x="1187.4425" y="2222.78" width="5.115000000000001" height="128.34" rx="0" fill="#bd9e72"/>
+<path d="M1138.85 2237.66 Q1138.85 2191.16 1190 2191.16 Q1241.15 2191.16 1241.15 2237.66 Z" fill="#cfb68f"/>
+<rect x="1187.3402" y="2180" width="5.3196" height="13.95" rx="3" fill="#c2a77d"/>
+<ellipse cx="1190" cy="2361" rx="50.127" ry="7.6725" fill="#cbb18c"/>
+<path d="M1280 2180L1280 2366" stroke="#776954" stroke-width="2" fill="none"/>
+<text x="1050" y="2412" class="small">完整灯＋两行尺寸；无孤立单位</text>
+<rect x="30" y="2512" width="1380" height="446" rx="10" fill="#ffffff"/>
+<text x="55" y="2546" class="title">P06  简短 FAQ，分隔线留在空白</text>
+<text x="55" y="2578" class="small">沿用三条问答；文字不压线，手机按实际宽度重排，平台原生行为另核。</text>
+<text x="55" y="2608" class="small">桌面｜画面关系占位</text>
+<text x="1050" y="2608" class="small">手机｜独立重构</text>
+<rect x="55" y="2624" width="900" height="310" rx="4" fill="#343b3b"/>
+<text x="88" y="2671" class="label" style="fill:#f4eee4">How do I adjust the light?</text>
+<text x="88" y="2702" class="small" style="fill:#d5d3c9">Press / turn / press and turn.</text>
+<path d="M88 2725L922 2725" stroke="#747b76" stroke-width="1" fill="none"/>
+<text x="88" y="2762" class="label" style="fill:#f4eee4">How long does it last?</text>
+<text x="88" y="2793" class="small" style="fill:#d5d3c9">Up to 8 hours; depends on brightness.</text>
+<path d="M88 2816L922 2816" stroke="#747b76" stroke-width="1" fill="none"/>
+<text x="88" y="2853" class="label" style="fill:#f4eee4">Can I use it outdoors?</text>
+<text x="88" y="2884" class="small" style="fill:#d5d3c9">Bring indoors after outdoor use.</text>
+<rect x="1050" y="2624" width="300" height="225" rx="4" fill="#343b3b"/>
+<text x="1070" y="2660" class="small" style="fill:#f4eee4">Question 1</text>
+<path d="M1070 2679L1324 2679" stroke="#b7bdb5" stroke-width="2" fill="none"/>
+<text x="1070" y="2724" class="small" style="fill:#f4eee4">Question 2</text>
+<path d="M1070 2743L1324 2743" stroke="#b7bdb5" stroke-width="2" fill="none"/>
+<text x="1070" y="2788" class="small" style="fill:#f4eee4">Question 3</text>
+<path d="M1070 2807L1324 2807" stroke="#b7bdb5" stroke-width="2" fill="none"/>
+<text x="1050" y="2882" class="small">实际文字重排，分隔与字形分开</text>
+<text x="42" y="3042" class="small">必检：产品保真 · 黑圈/亮边/残边 · 动作接触 · 图文对应 · 手机逐状态 · 素材与导出同版</text>
+</svg>
