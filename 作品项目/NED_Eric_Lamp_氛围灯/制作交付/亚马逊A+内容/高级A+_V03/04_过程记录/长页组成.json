@@ -1,0 +1,34 @@
+[
+  {
+    "id": "PC",
+    "size": [
+      1952,
+      4724
+    ],
+    "file": "NED_V03_连续长页_PC.svg",
+    "defaultStates": [
+      "P01_PC",
+      "P02_PC",
+      "P03C_PC",
+      "P04B_PC",
+      "P05_PC",
+      "P06_PC"
+    ]
+  },
+  {
+    "id": "Mobile",
+    "size": [
+      600,
+      4363
+    ],
+    "file": "NED_V03_连续长页_Mobile.svg",
+    "defaultStates": [
+      "P01_Mobile",
+      "P02_Finish_Mobile",
+      "P03C_Mobile",
+      "P04B_Mobile",
+      "P05_Mobile",
+      "P06_Mobile"
+    ]
+  }
+]

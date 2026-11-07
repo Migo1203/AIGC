@@ -1,0 +1,447 @@
+[
+  {
+    "output": "03_原始素材/实际生成原图/P01_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P01_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P01_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P01_PC.txt",
+    "size": [
+      1959,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03A_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P03A_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P03B_Mobile_r2.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03A_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P03A_PC.txt",
+    "size": [
+      1958,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P03B_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03B_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P03B_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": false,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03B_Mobile_r2.png",
+    "prompt": "04_过程记录/实际生成输入/P03B_Mobile_r2.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P03B_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03B_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P03B_PC.txt",
+    "size": [
+      1956,
+      804
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03C_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P03C_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P03B_Mobile_r2.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P03C_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P03C_PC.txt",
+    "size": [
+      1958,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P03B_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04A_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P04A_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P04A_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg",
+      "03_原始素材/参考素材/人物_M01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04A_Mobile_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04A_Mobile_底座修复.txt",
+    "size": [
+      1480,
+      1063
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04A_Mobile_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04A_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P04A_PC.txt",
+    "size": [
+      1957,
+      804
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04A_PC_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04A_PC_底座修复.txt",
+    "size": [
+      1531,
+      1027
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04A_PC_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04B_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P04B_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P04B_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg",
+      "03_原始素材/参考素材/人物_F01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04B_Mobile_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04B_Mobile_底座修复.txt",
+    "size": [
+      1499,
+      1049
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04B_Mobile_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04B_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P04B_PC.txt",
+    "size": [
+      1959,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04B_PC_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04B_PC_底座修复.txt",
+    "size": [
+      1541,
+      1021
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04B_PC_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04C_Mobile.png",
+    "prompt": "04_过程记录/实际生成输入/P04C_Mobile.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/实际生成原图/P04C_PC.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg",
+      "03_原始素材/参考素材/人物_M01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04C_Mobile_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04C_Mobile_底座修复.txt",
+    "size": [
+      1391,
+      1131
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04C_Mobile_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04C_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P04C_PC.txt",
+    "size": [
+      1958,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P04C_PC_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P04C_PC_底座修复.txt",
+    "size": [
+      1503,
+      1047
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P04C_PC_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P05_Mobile_basefix.png",
+    "prompt": "04_过程记录/实际生成输入/P05_Mobile_底座修复.txt",
+    "size": [
+      1499,
+      1049
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "local_repair_patch",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P05_Mobile_底座修复输入.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P05_Mobile_r2.png",
+    "prompt": "04_过程记录/实际生成输入/P05_Mobile_r2.txt",
+    "size": [
+      1448,
+      1086
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/参考素材/产品_正面近景.jpg",
+      "03_原始素材/参考素材/V02修订依据_P05_Mobile.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P05_PC.png",
+    "prompt": "04_过程记录/实际生成输入/P05_PC.txt",
+    "size": [
+      1958,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": false,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/参考素材/V02修订依据_P05_PC_r2.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P05_PC_r2.png",
+    "prompt": "04_过程记录/实际生成输入/P05_PC_r2.txt",
+    "size": [
+      1024,
+      1024
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": false,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/参考素材/产品_正面近景.jpg",
+      "03_原始素材/参考素材/V02修订依据_P05_PC_r2.png"
+    ]
+  },
+  {
+    "output": "03_原始素材/实际生成原图/P05_PC_r3.png",
+    "prompt": "04_过程记录/实际生成输入/P05_PC_r3.txt",
+    "size": [
+      1959,
+      803
+    ],
+    "status": "actual_image_returned",
+    "model": "gpt-image-2.5-sunburst",
+    "provider": "https://www.apophiscode.com/v1",
+    "selected": true,
+    "role": "scene_image",
+    "inputImagesInOrder": [
+      "03_原始素材/制作素材/P05_PC_宽幅扩展底稿.png",
+      "03_原始素材/参考素材/产品_正面近景.jpg"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "P04A_Mobile",
+    "source": "P04A_Mobile.png",
+    "patch": "P04A_Mobile_basefix.png",
+    "sourceBox": [
+      440,
+      740,
+      830,
+      1020
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04A_Mobile_底座局部修复合成.png"
+  },
+  {
+    "id": "P04B_Mobile",
+    "source": "P04B_Mobile.png",
+    "patch": "P04B_Mobile_basefix.png",
+    "sourceBox": [
+      600,
+      740,
+      1000,
+      1020
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04B_Mobile_底座局部修复合成.png"
+  },
+  {
+    "id": "P04C_Mobile",
+    "source": "P04C_Mobile.png",
+    "patch": "P04C_Mobile_basefix.png",
+    "sourceBox": [
+      770,
+      760,
+      1090,
+      1020
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04C_Mobile_底座局部修复合成.png"
+  },
+  {
+    "id": "P05_Mobile",
+    "source": "P05_Mobile_r2.png",
+    "patch": "P05_Mobile_basefix.png",
+    "sourceBox": [
+      670,
+      735,
+      1070,
+      1015
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P05_Mobile_底座局部修复合成.png"
+  },
+  {
+    "id": "P04A_PC",
+    "source": "P04A_PC.png",
+    "patch": "P04A_PC_basefix.png",
+    "sourceBox": [
+      735,
+      530,
+      1100,
+      775
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04A_PC_底座局部修复合成.png"
+  },
+  {
+    "id": "P04B_PC",
+    "source": "P04B_PC.png",
+    "patch": "P04B_PC_basefix.png",
+    "sourceBox": [
+      1070,
+      525,
+      1440,
+      770
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04B_PC_底座局部修复合成.png"
+  },
+  {
+    "id": "P04C_PC",
+    "source": "P04C_PC.png",
+    "patch": "P04C_PC_basefix.png",
+    "sourceBox": [
+      1175,
+      590,
+      1455,
+      785
+    ],
+    "method": "API local crop repair, resampled to original crop dimensions and composited with feathered 18px margin; original full scene preserved outside patch",
+    "derived": "03_原始素材/制作素材/P04C_PC_底座局部修复合成.png"
+  }
+]

@@ -1,0 +1,289 @@
+[
+  {
+    "id": "P01_PC",
+    "source": "03_原始素材\\实际生成原图\\P01_PC.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P01_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1959,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P01_PC.jpg",
+    "sha256": "8d6de7a2effe186242cef5ae2bdd7c545808bbb8b06538e6bf90718b5cc4b113",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": [
+      1320,
+      675,
+      1607,
+      710
+    ]
+  },
+  {
+    "id": "P01_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P01_Mobile.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P01_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P01_Mobile.jpg",
+    "sha256": "eed8310c364f98cd410f37a061090fe73c7df742431d26245e6c582dba49bb33",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": [
+      825,
+      936,
+      1166,
+      977
+    ]
+  },
+  {
+    "id": "P03A_PC",
+    "source": "03_原始素材\\实际生成原图\\P03A_PC.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03A_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1958,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03A_PC.jpg",
+    "sha256": "d1e6c05ba5c1fc9e1ec7151d56eda26d40c5b5040f5a1ab3c7d1afdb3eaea316",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P03A_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P03A_Mobile.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03A_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03A_Mobile.jpg",
+    "sha256": "11025ea5fcb7a049c3d3468a622df35448c944448f3b60171713e4a60ee928bd",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P03B_PC",
+    "source": "03_原始素材\\实际生成原图\\P03B_PC.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03B_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1956,
+      804
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03B_PC.jpg",
+    "sha256": "90da8ae2e73444c85229d876c5494ab05a12cf036548ef91c5294971513c5324",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P03B_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P03B_Mobile_r2.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03B_Mobile_r2.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03B_Mobile.jpg",
+    "sha256": "d3772216f6d8402a1d2f92a967883f91f19811d8e080fde9f959c92ca2eb854b",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P03C_PC",
+    "source": "03_原始素材\\实际生成原图\\P03C_PC.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03C_PC.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1958,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03C_PC.jpg",
+    "sha256": "0bb017bb5764b0314674efcb88d644c52dda38333dc3cb550974eb5b130fe767",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P03C_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P03C_Mobile.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P03C_Mobile.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P03C_Mobile.jpg",
+    "sha256": "2725143372f35233497a932d777bfcdb6f069f0b0da99a278de2c79df2d04697",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04A_PC",
+    "source": "03_原始素材\\实际生成原图\\P04A_PC.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04A_PC_底座局部修复合成.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1957,
+      804
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04A_PC.jpg",
+    "sha256": "8991481b095d138bf1d4a1f3a9662c17dd374894e529b6aaeb7d7410ff1fb1ba",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04A_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P04A_Mobile.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04A_Mobile_底座局部修复合成.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04A_Mobile.jpg",
+    "sha256": "b50ddd1640337be5266571e8b5c09911d2359fa5e1de3f11fb9e3b8af7573e96",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04B_PC",
+    "source": "03_原始素材\\实际生成原图\\P04B_PC.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04B_PC_底座局部修复合成.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1959,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04B_PC.jpg",
+    "sha256": "031a12fe8ab4a79f0ee9995c4e5e24e657c0fef4f05cb64d59fcda64fe16933a",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04B_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P04B_Mobile.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04B_Mobile_底座局部修复合成.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04B_Mobile.jpg",
+    "sha256": "f79bdf13c135f9c215a719665a97c43371ac00712883a8050dd7e363edafb19a",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04C_PC",
+    "source": "03_原始素材\\实际生成原图\\P04C_PC.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04C_PC_底座局部修复合成.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1958,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04C_PC.jpg",
+    "sha256": "11a11105ffcde87000686dba26c52e5ede6c03c16e8a529df7be93ed88ac58a1",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P04C_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P04C_Mobile.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P04C_Mobile_底座局部修复合成.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P04C_Mobile.jpg",
+    "sha256": "944ca329b3a1fedc8319133a37e4906339487526fc95c560aba5f4df448885f0",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  },
+  {
+    "id": "P05_PC",
+    "source": "03_原始素材\\实际生成原图\\P05_PC_r3.png",
+    "adoptedSource": "03_原始素材\\实际生成原图\\P05_PC_r3.png",
+    "size": [
+      1952,
+      800
+    ],
+    "originalSize": [
+      1959,
+      803
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P05_PC.jpg",
+    "sha256": "845b7cec4935fac9759e7f357b604260338f2ea77d51c037563dd998dc1aeb7b",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": [
+      1410,
+      644,
+      1680,
+      673
+    ]
+  },
+  {
+    "id": "P05_Mobile",
+    "source": "03_原始素材\\实际生成原图\\P05_Mobile_r2.png",
+    "adoptedSource": "03_原始素材\\制作素材\\P05_Mobile_底座局部修复合成.png",
+    "size": [
+      1440,
+      1080
+    ],
+    "originalSize": [
+      1448,
+      1086
+    ],
+    "file": "01_成品与预览\\平台纯图素材\\P05_Mobile.jpg",
+    "sha256": "1bbe45196a30021e048d2fee4aa2f90b721952f1f4be1c4ca197849bd5cd2b5f",
+    "processing": "aspect-preserving fit; gentle 0.32px low-pass; adopted local API base repair where available, restrained shadow curve only elsewhere; no sharpening",
+    "shadowAdjustmentArea": null
+  }
+]

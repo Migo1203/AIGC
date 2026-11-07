@@ -1,0 +1,89 @@
+[
+  {
+    "local": "产品_正面近景.jpg",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/Simple_Form网站原图/09_单品正面近景_SimpleForm网站原图.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "98d4793ed6d9583a56f671bc12c188b2b166ebc16f67fc560284a47b8d65cf8f"
+  },
+  {
+    "local": "产品_正面远景.jpg",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/Simple_Form网站原图/10_单品正面远景_SimpleForm网站原图.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "e12ebf79c0f72339140b0f62b1c5d1a4c9b90b5fd58679fdb7628edb38ccddcf"
+  },
+  {
+    "local": "产品_旋钮按压.jpg",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/Simple_Form网站原图/11_顶部旋钮按压_SimpleForm网站原图.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "sha256": "29cc3f952ec13afdb8681ef2cc99451e017b29837959abaac29da0f47a5e4200"
+  },
+  {
+    "local": "产品_用户近平视.png",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/12_单品正面近平视_用户上传.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "sha256": "3cc7c23fb5d2b74d7eb645d3fe15a9c5a4537a185512a4f1681f932ccf6bad34"
+  },
+  {
+    "local": "产品_用户略仰视.png",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/13_单品正面略仰视_用户上传.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "sha256": "c103571c7fcd1d8db7a317c61547b745554bbf98466b56bc66070e616f9411ef"
+  },
+  {
+    "local": "产品_用户斜俯视.png",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/产品资料/产品图/14_单品正面斜俯视_用户上传.png",
+    "size": [
+      1254,
+      1254
+    ],
+    "sha256": "09ceab4209eec3572587738676394ddbc46b738f4520d130c061a008812ece3e"
+  },
+  {
+    "local": "人物_F01.png",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/项目规划/人物模特设计/女性模特_F01_V01.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "0679a020dcba5da7d6eb522d1637530e78d532c069ed05232e2c32561aab7b0b"
+  },
+  {
+    "local": "人物_M01.png",
+    "repositoryPath": "作品项目/NED_Eric_Lamp_氛围灯/项目规划/人物模特设计/男性模特_M01_V01.png",
+    "size": [
+      1122,
+      1402
+    ],
+    "sha256": "070b173be5d7654091eaf3c652405fef890106396bb107c3f9de2d40c3a099f4"
+  },
+  {
+    "local": "光色_日间宽幅.png",
+    "source": "work\\ned-banner-assets\\P01_PC.png",
+    "role": "existing AI imagery, lighting reference only, not SKU detail evidence"
+  },
+  {
+    "local": "光色_床头夜间.png",
+    "source": "work\\ned-banner-assets\\P05_Bed_PC.png",
+    "role": "existing AI imagery, lighting reference only, not SKU detail evidence"
+  },
+  {
+    "local": "光色_餐桌暮色.png",
+    "source": "work\\ned-banner-assets\\P05_Dining_PC.png",
+    "role": "existing AI imagery, lighting reference only, not SKU detail evidence"
+  }
+]

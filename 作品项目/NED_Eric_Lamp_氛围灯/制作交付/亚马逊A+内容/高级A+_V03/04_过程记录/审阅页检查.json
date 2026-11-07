@@ -1,0 +1,20 @@
+{
+  "decodedReviewStates": 17,
+  "allStateImages": 21,
+  "phoneWidths": [
+    375,
+    390
+  ],
+  "horizontalOverflow": false,
+  "scriptErrors": [],
+  "longPageSvg": [
+    {
+      "variant": "PC",
+      "textObjects": 41
+    },
+    {
+      "variant": "Mobile",
+      "textObjects": 31
+    }
+  ]
+}

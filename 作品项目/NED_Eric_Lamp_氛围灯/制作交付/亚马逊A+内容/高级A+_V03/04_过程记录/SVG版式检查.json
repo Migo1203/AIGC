@@ -1,0 +1,233 @@
+[
+  {
+    "id": "P01_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 5
+  },
+  {
+    "id": "P01_Mobile",
+    "size": [
+      600,
+      738
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 4
+  },
+  {
+    "id": "P03A_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 4
+  },
+  {
+    "id": "P03A_Mobile",
+    "size": [
+      600,
+      660
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 2
+  },
+  {
+    "id": "P03B_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 6
+  },
+  {
+    "id": "P03B_Mobile",
+    "size": [
+      600,
+      660
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 2
+  },
+  {
+    "id": "P03C_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 7
+  },
+  {
+    "id": "P03C_Mobile",
+    "size": [
+      600,
+      762
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 5
+  },
+  {
+    "id": "P04A_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 4
+  },
+  {
+    "id": "P04A_Mobile",
+    "size": [
+      600,
+      660
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 2
+  },
+  {
+    "id": "P04B_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 5
+  },
+  {
+    "id": "P04B_Mobile",
+    "size": [
+      600,
+      694
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 3
+  },
+  {
+    "id": "P04C_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 5
+  },
+  {
+    "id": "P04C_Mobile",
+    "size": [
+      600,
+      660
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 2
+  },
+  {
+    "id": "P05_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 7
+  },
+  {
+    "id": "P05_Mobile",
+    "size": [
+      600,
+      694
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 5
+  },
+  {
+    "id": "P02_PC",
+    "size": [
+      1952,
+      800
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 10
+  },
+  {
+    "id": "P02_Knob_Mobile",
+    "size": [
+      600,
+      668
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 3
+  },
+  {
+    "id": "P02_Finish_Mobile",
+    "size": [
+      600,
+      668
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 3
+  },
+  {
+    "id": "P06_PC",
+    "size": [
+      1952,
+      724
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 7
+  },
+  {
+    "id": "P06_Mobile",
+    "size": [
+      600,
+      807
+    ],
+    "overflow": [],
+    "overlaps": [],
+    "imageErrors": [],
+    "textObjects": 11
+  }
+]

@@ -1,0 +1,94 @@
+{
+  "copy": {
+    "P01": {
+      "title": [
+        "A small light for",
+        "everyday moments."
+      ],
+      "body": "A compact, cordless lamp for adjustable ambient light at home.",
+      "eyebrow": "ERIC TABLE LAMP"
+    },
+    "P03A": {
+      "title": [
+        "Press.",
+        "A simple start."
+      ],
+      "body": "Press the top knob to switch on or off.",
+      "eyebrow": "ONE KNOB / POWER"
+    },
+    "P03B": {
+      "title": [
+        "Turn.",
+        "Find your glow."
+      ],
+      "body": "Turn the knob to dim from 5% to 100%.",
+      "eyebrow": "ONE KNOB / BRIGHTNESS"
+    },
+    "P03C": {
+      "title": [
+        "Press & turn.",
+        "Warm to neutral."
+      ],
+      "body": "Press and turn to adjust color temperature continuously from 2700K to 4000K.",
+      "eyebrow": "ONE KNOB / COLOR TEMPERATURE"
+    },
+    "P04A": {
+      "title": [
+        "A little light",
+        "at the table."
+      ],
+      "body": "Bring a little ambiance to the table.",
+      "eyebrow": "DINING"
+    },
+    "P04B": {
+      "title": [
+        "A quiet",
+        "bedside glow."
+      ],
+      "body": "Up to 8 hours on a full charge. Runtime varies with brightness.",
+      "eyebrow": "BEDSIDE"
+    },
+    "P04C": {
+      "title": [
+        "Outdoor",
+        "moments."
+      ],
+      "body": "IP65-rated. Bring indoors after outdoor use.",
+      "eyebrow": "TERRACE"
+    },
+    "P05": {
+      "title": [
+        "Small lamp.",
+        "Thoughtful form."
+      ],
+      "body": "Approx. 7.9 in high × 4.3 in diameter\n(20.1 × 11 cm)",
+      "eyebrow": "COMPACT BY DESIGN"
+    }
+  },
+  "hotspots": [
+    {
+      "id": "Knob",
+      "title": "Top knob",
+      "body": "One top knob controls power, brightness and color temperature."
+    },
+    {
+      "id": "Finish",
+      "title": "Sand Cashmere",
+      "body": "A soft sand-colored finish on the powder-coated aluminum body."
+    }
+  ],
+  "faq": [
+    [
+      "How do I adjust the light?",
+      "Press the knob for power, turn to dim, and press and turn to change color temperature."
+    ],
+    [
+      "How long does it last on a charge?",
+      "Up to 8 hours on a full charge, depending on brightness. NED lists a charging time of approximately 6 hours."
+    ],
+    [
+      "Can I use it outdoors?",
+      "NED lists an IP65 rating and recommends bringing the lamp indoors after outdoor use."
+    ]
+  ]
+}

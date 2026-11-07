@@ -1,0 +1,240 @@
+[
+  {
+    "id": "P01_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P01_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P01_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P01_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P03A_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03A_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P03A_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03A_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P03B_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03B_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P03B_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03B_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P03C_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03C_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P03C_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_旋钮按压.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P03C_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P04A_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04A_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P04A_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04A_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P04B_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04B_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P04B_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_F01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04B_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P04C_PC",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04C_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P04C_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_用户斜俯视.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\人物_M01.png"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P04C_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  },
+  {
+    "id": "P05_PC",
+    "references": [
+      "outputs\\NED_高级A+_V02_20261107\\03_原始素材\\素材原图\\P05_PC_r2.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P05_PC.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1952,
+      800
+    ]
+  },
+  {
+    "id": "P05_Mobile",
+    "references": [
+      "outputs\\NED_高级A+_V02_20261107\\03_原始素材\\素材原图\\P05_Mobile.png",
+      "outputs\\NED_高级A+_V03_20261107\\03_原始素材\\参考素材\\产品_正面近景.jpg"
+    ],
+    "promptFile": "outputs\\NED_高级A+_V03_20261107\\04_过程记录\\实际生成输入\\P05_Mobile.txt",
+    "status": "completed_with_selected_revision",
+    "requestedSize": "auto",
+    "targetSize": [
+      1440,
+      1080
+    ]
+  }
+]
