@@ -1,0 +1,130 @@
+{
+  "size": [
+    1600,
+    7040
+  ],
+  "placements": [
+    {
+      "key": "bn01-complete",
+      "x": 80,
+      "y": 420,
+      "w": 1440,
+      "h": 379.2,
+      "file": "03_参考素材/图文参考/BN01_品牌组件与页头示意.png"
+    },
+    {
+      "key": "bn01-central-crop",
+      "x": 260,
+      "y": 1006,
+      "w": 1080,
+      "h": 308.57142857142856,
+      "file": "03_参考素材/图文参考/BN01_中央70百分比裁切检查.png"
+    },
+    {
+      "key": "bn02-desktop",
+      "x": 80,
+      "y": 1588,
+      "w": 1440,
+      "h": 720.0,
+      "file": "03_参考素材/图文参考/BN02_场景导流_图文预览.png"
+    },
+    {
+      "key": "bn02-mobile",
+      "x": 500,
+      "y": 2446,
+      "w": 600,
+      "h": 792.8571428571429,
+      "file": "03_参考素材/图文参考/BN02_手机图文适配示意.png"
+    },
+    {
+      "key": "bn03-landscape",
+      "x": 200,
+      "y": 3644,
+      "w": 1200,
+      "h": 830.0,
+      "file": "03_参考素材/图文参考/BN03_REC_广告图文预览.png"
+    },
+    {
+      "key": "bn03-square",
+      "x": 500,
+      "y": 4624,
+      "w": 600,
+      "h": 600.0,
+      "file": "03_参考素材/图片素材/BN03_REC_方_1200x1200.jpg"
+    },
+    {
+      "key": "bn03-portrait",
+      "x": 500,
+      "y": 5384,
+      "w": 600,
+      "h": 1066.6666666666667,
+      "file": "03_参考素材/图片素材/BN03_REC_竖_900x1600.jpg"
+    }
+  ],
+  "sourceAssets": [
+    {
+      "file": "BN01_页头_3000x600.jpg",
+      "size": [
+        3000,
+        600
+      ],
+      "mode": "RGB",
+      "bytes": 444392,
+      "sha256": "7f42be5d7d6d8cc82874ad1bfc3d54fd6c0052505ea012d23699092c87404d94"
+    },
+    {
+      "file": "BN02_导流_手机备选_1680x1680.jpg",
+      "size": [
+        1680,
+        1680
+      ],
+      "mode": "RGB",
+      "bytes": 675948,
+      "sha256": "3006c80b880fd9a5f6c0b470894a8b9d2c8dbfc1705cae72b102648aee7e8988"
+    },
+    {
+      "file": "BN02_导流_电脑_3000x1500.jpg",
+      "size": [
+        3000,
+        1500
+      ],
+      "mode": "RGB",
+      "bytes": 880487,
+      "sha256": "7d2d2b6083b05cfd6669d22514606aaf8103bcf7c2bbf56721f958b31f830dab"
+    },
+    {
+      "file": "BN03_REC_方_1200x1200.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "mode": "RGB",
+      "bytes": 289176,
+      "sha256": "e616f6761a3beaaebe9ca37dfc0aa811d4b50d9a577470d20048326c6234a183"
+    },
+    {
+      "file": "BN03_REC_横_1200x628.jpg",
+      "size": [
+        1200,
+        628
+      ],
+      "mode": "RGB",
+      "bytes": 192191,
+      "sha256": "2cacdb89bc601a6c330bd4a811ba8c912cf26cff332f84857453179206c1241d"
+    },
+    {
+      "file": "BN03_REC_竖_900x1600.jpg",
+      "size": [
+        900,
+        1600
+      ],
+      "mode": "RGB",
+      "bytes": 281594,
+      "sha256": "22a807c33b9581bdc8f8a07eb12d87c5478bac9c5aeb6004ac4968c307698c10"
+    }
+  ],
+  "textObjects": 26,
+  "backgroundSeamMaxDifference": 0,
+  "status": "规划示意，待审阅",
+  "headlineCharacters": 32
+}

@@ -1,0 +1,163 @@
+{
+  "status": "制作自检完成，待用户审阅",
+  "size": [
+    1600,
+    6600
+  ],
+  "continuousSize": [
+    1600,
+    35120
+  ],
+  "nativeTextObjects": 35,
+  "sourceAssets": [
+    {
+      "file": "BN01_页头_3000x600.jpg",
+      "size": [
+        3000,
+        600
+      ],
+      "sha256": "7f42be5d7d6d8cc82874ad1bfc3d54fd6c0052505ea012d23699092c87404d94"
+    },
+    {
+      "file": "BN02_导流_手机备选_1680x1680.jpg",
+      "size": [
+        1680,
+        1680
+      ],
+      "sha256": "3006c80b880fd9a5f6c0b470894a8b9d2c8dbfc1705cae72b102648aee7e8988"
+    },
+    {
+      "file": "BN02_导流_电脑_3000x1500.jpg",
+      "size": [
+        3000,
+        1500
+      ],
+      "sha256": "7d2d2b6083b05cfd6669d22514606aaf8103bcf7c2bbf56721f958b31f830dab"
+    },
+    {
+      "file": "BN03_REC_方_1200x1200.jpg",
+      "size": [
+        1200,
+        1200
+      ],
+      "sha256": "e616f6761a3beaaebe9ca37dfc0aa811d4b50d9a577470d20048326c6234a183"
+    },
+    {
+      "file": "BN03_REC_横_1200x628.jpg",
+      "size": [
+        1200,
+        628
+      ],
+      "sha256": "2cacdb89bc601a6c330bd4a811ba8c912cf26cff332f84857453179206c1241d"
+    },
+    {
+      "file": "BN03_REC_竖_900x1600.jpg",
+      "size": [
+        900,
+        1600
+      ],
+      "sha256": "22a807c33b9581bdc8f8a07eb12d87c5478bac9c5aeb6004ac4968c307698c10"
+    }
+  ],
+  "moduleChecks": [
+    {
+      "key": "BN01_品牌栏与页头",
+      "textCount": 4,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN01_中央70百分比裁切检查",
+      "textCount": 3,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN02_电脑场景导流",
+      "textCount": 5,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN02_手机场景导流",
+      "textCount": 3,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN03_REC_横版组件",
+      "textCount": 2,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN03_REC_方版",
+      "textCount": 0,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    },
+    {
+      "key": "BN03_REC_竖版",
+      "textCount": 0,
+      "overflow": [],
+      "overlaps": [],
+      "failedImages": []
+    }
+  ],
+  "geometry": {
+    "textCount": 35,
+    "overflow": [],
+    "overlaps": [],
+    "failedImages": [],
+    "copyErrors": [],
+    "errors": []
+  },
+  "contrast": {
+    "sampledGlyphCorePixels": 51907,
+    "minimum": 5.726,
+    "percentile05": 5.997,
+    "median": 7.516,
+    "method": "Rendered cream text against underlying photo plus independent gradient; glyph cores only; not a platform approval test"
+  },
+  "backgroundSeamMaxDifference": 0,
+  "files": [
+    {
+      "file": "02_可编辑SVG/04_Banner系统展示_V04_可编辑.svg",
+      "sha256": "1d5b92788d6656aef7c3e6f93bdfb9490b0336532bde7076722e49a8317a47c8"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN01_中央70百分比裁切检查.svg",
+      "sha256": "653f8ceac03adb6c34b8f106d9d78f0233a36aa744fd6eb443a501003c20445e"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN01_品牌栏与页头.svg",
+      "sha256": "eb96dd2309d7543647b587bcf17bf858158e8fd40f76f088cc536a246c67d290"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN02_手机场景导流.svg",
+      "sha256": "0cf8079cf91dead3c925eaebbd1bf5f27df3336cab161fbfe9f9977c7ec9c126"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN02_电脑场景导流.svg",
+      "sha256": "db4d6457d790d081ccb20ee01663a9ad8fb6912b04e93d257d2414c3090e4f4d"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN03_REC_方版.svg",
+      "sha256": "7c91acc9be4dba72aca4dd5701b265bb8d91c916958a490b0561c49e86aa0b39"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN03_REC_横版组件.svg",
+      "sha256": "f5c12cbd50b85de46eb379de92b12f11ac3928dd4ac753a2e683750688a0b003"
+    },
+    {
+      "file": "02_可编辑SVG/模块源稿/BN03_REC_竖版.svg",
+      "sha256": "84b7471dad84161de05523659a7d19f987ea245651b2e23a253ac27ad9fb9217"
+    }
+  ]
+}
