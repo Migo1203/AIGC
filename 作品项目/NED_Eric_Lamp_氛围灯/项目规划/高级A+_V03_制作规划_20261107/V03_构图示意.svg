@@ -82,7 +82,12 @@
 </g>
 <text x="95" y="1288" class="title">Press &amp; turn.</text>
 <text x="95" y="1326" class="small">按住＋旋转，方向标记后排</text>
-<text x="95" y="1482" class="small">三状态：Press / Turn / Press &amp; turn</text>
+<defs><linearGradient id="cct-warm-neutral" x1="0%" y1="0%" x2="100%" y2="0%"><stop offset="0%" stop-color="#ffbd69"/><stop offset="100%" stop-color="#f6f4ef"/></linearGradient></defs>
+<rect x="95" y="1369" width="340" height="24" rx="12.0" fill="url(#cct-warm-neutral)"/>
+<text x="95" y="1418" class="small">2,700K · Warm</text>
+<text x="435" y="1418" class="small" text-anchor="end">4,000K · Neutral</text>
+<text x="95" y="1449" class="small">P03C｜沿用主图03 V01色温条</text>
+<text x="95" y="1494" class="small">三状态：Press / Turn / Press &amp; turn</text>
 <rect x="1050" y="1214" width="300" height="225" rx="4" fill="#dccbb8"/>
 <defs><clipPath id="operation-mobile"><rect x="1050" y="1214" width="300" height="225"/></clipPath></defs><g clip-path="url(#operation-mobile)">
 <ellipse cx="1238" cy="1511" rx="67.49600000000001" ry="8.437000000000001" fill="#746654" opacity=".15"/>
@@ -98,7 +103,10 @@
 <path d="M1243 1256 Q1280 1241 1278 1277" stroke="#8b593d" stroke-width="3" fill="none"/>
 <path d="M1278 1277L1270 1270" stroke="#8b593d" stroke-width="3" fill="none"/>
 </g>
-<text x="1050" y="1472" class="small">手与旋钮优先，说明靠近动作</text>
+<rect x="1050" y="1456" width="300" height="18" rx="9.0" fill="url(#cct-warm-neutral)"/>
+<text x="1050" y="1499" class="small">2,700K · Warm</text>
+<text x="1350" y="1499" class="small" text-anchor="end">4,000K · Neutral</text>
+<text x="1050" y="1534" class="small">P03C色条与标签独立排版</text>
 <rect x="30" y="1572" width="1380" height="446" rx="10" fill="#ffffff"/>
 <text x="55" y="1606" class="title">P04  三场景，三种机位与行为</text>
 <text x="55" y="1638" class="small">以下是三个轮播状态的小示意，各状态实际独立全幅；不制作三栏白卡。</text>
