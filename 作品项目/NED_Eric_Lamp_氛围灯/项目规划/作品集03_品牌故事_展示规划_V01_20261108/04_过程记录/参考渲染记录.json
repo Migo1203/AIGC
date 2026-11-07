@@ -1,0 +1,23 @@
+{
+  "source": "品牌故事_V01/排版预览/品牌故事图文预览.html",
+  "deviceScaleFactor": 2,
+  "change": "仅在内存中将旧低清Logo替换为项目已有原样轮廓重绘PNG，原HTML未改；照片和英文不改",
+  "states": [
+    {
+      "state": 1,
+      "text": "BRAND STORY\nEveryday Spaces, Considered\n\nSimple forms and thoughtful details for the spaces we call home.\n\nMeet NED Collections\n\nFounded in Christchurch, New Zealand, in 2015, NED Collections brings together furniture, lighting and homewares."
+    },
+    {
+      "state": 2,
+      "text": "BRAND STORY\nEveryday Spaces, Considered\n\nSimple forms and thoughtful details for the spaces we call home.\n\nSimple, with Character\n\nClean lines and considered details add character to the spaces we live in."
+    },
+    {
+      "state": 3,
+      "text": "BRAND STORY\nEveryday Spaces, Considered\n\nSimple forms and thoughtful details for the spaces we call home.\n\nMoments That Feel Like Home\n\nFrom a quiet corner to a shared table, small details make everyday spaces feel more personal."
+    },
+    {
+      "state": 4,
+      "text": "BRAND STORY\nEveryday Spaces, Considered\n\nSimple forms and thoughtful details for the spaces we call home.\n\nHow are NED pieces selected?\n\nThe collection is hand-selected from around the world, with an eye for clean design and character.\n\nWhat does NED offer?\n\nNED brings together furniture, lighting and homewares for different spaces around the home.\n\nHow does Eric fit into the collection?\n\nEric is a compact cordless lamp with adjustable light for everyday spaces."
+    }
+  ]
+}
