@@ -31,7 +31,7 @@ Migo 是负责专业创作、设计决策和商业服务的设计师；Beedog �
 
 长期范围：品牌策略、案例与趋势研究、角色概念及标准形象、Logo 与视觉识别、Migo 与 Beedog 的组合规范、小红书及作品集应用、品牌手册和项目复盘。
 
-本项目是 Migo Personal Brand Ecosystem 中的 Project A｜Migo × Beedog Brand Identity，负责品牌设计与源文件。Project B｜Migo Personal Portfolio Website 单独负责网站策略、信息架构、UI、开发和部署，并使用 A 已确认的品牌资产。品牌视觉适配不等于将网站代码合并进本项目；详见[总项目架构](../PROJECT_ECOSYSTEM.md)。
+本项目是 Migo Personal Brand Ecosystem 中的 Project A｜Migo × Beedog Brand Identity，负责品牌设计与源文件。Project B｜Migo Personal Portfolio Website 单独负责网站策略、信息架构、UI、开发和部署，并使用 A 已确认的品牌资产。品牌视觉适配不等于将网站代码合并进本项目；详见[总项目架构](../../PROJECT_ECOSYSTEM.md)。
 
 启动轮只建立工作空间、策略基础、路线图、任务与决策记录、案例研究模板和资料链接，不绘制角色、不生成图片、不提前选定 Logo、字体、色板或最终角色外观。最初按用户要求暂不推送；2026-11-08 用户随后明确要求将项目上传至 GitHub。
 

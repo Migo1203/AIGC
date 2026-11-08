@@ -12,7 +12,7 @@
 
 ## 与网站项目的关系
 
-在 Migo Personal Brand Ecosystem 中，Project A 是品牌定义与视觉资产的来源；独立的 Project B 是作品集网站。网站须沿用本文件中 Migo 与 Beedog 的身份关系，不自行修改品牌定义。两个项目的仓库位置、职责与交付规则见[总项目架构](../PROJECT_ECOSYSTEM.md)。
+在 Migo Personal Brand Ecosystem 中，Project A 是品牌定义与视觉资产的来源；独立的 Project B 是作品集网站。网站须沿用本文件中 Migo 与 Beedog 的身份关系，不自行修改品牌定义。两个项目的仓库位置、职责与交付规则见[总项目架构](../../PROJECT_ECOSYSTEM.md)。
 
 ## 使用边界
 

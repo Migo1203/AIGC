@@ -1,6 +1,6 @@
 # 品牌资产清单｜网站交付
 
-更新日期：2026-11-08。检查范围为当前 Migo × Beedog 品牌项目及其 assets 目录；目前没有登记任何已确认、可交付网站使用的品牌视觉成品。
+更新日期：2026-11-08。检查范围为当前 Migo × Beedog 品牌项目及其[素材目录](Project_A_Brand_Identity/assets/README.md)；目前没有登记任何已确认、可交付网站使用的品牌视觉成品。
 
 **状态定义：** Pending 表示尚未制作、尚未确认或未满足交付条件；Confirmed 表示具体版本已获确认、用途和使用条件已记录。清单中所有名称均为建议的未来文件名，并非现有文件或已选定的设计；路径、尺寸、具体名称均可在实际制作时调整。
 
@@ -40,4 +40,4 @@
 
 资产编号｜实际文件名及格式｜尺寸 / 画板｜用途｜状态｜Project A 来源路径与版本 / 提交｜确认依据｜授权 / 限制｜Project B 使用位置｜更新时间。
 
-完整接入规则见[网站品牌接入规范](WEBSITE_BRAND_INTEGRATION.md)；新的确认或变更应同步[决策日志](07_Project_Management/Decision_Log.md)。
+完整接入规则见[网站品牌接入规范](Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md)；新的确认或变更应同步[决策日志](Project_A_Brand_Identity/07_Project_Management/Decision_Log.md)。

@@ -1,6 +1,6 @@
 # Migo Personal Brand Ecosystem｜总项目路线图
 
-更新日期：2026-11-08。两条工作线独立管理；表中为计划，不代表网站仓库、代码、视觉资产或部署已经完成。品牌项目原有 Phase 0–7 细节继续见[品牌路线图](07_Project_Management/Roadmap.md)。
+更新日期：2026-11-08。两条工作线独立管理；表中为计划，不代表网站仓库、代码、视觉资产或部署已经完成。品牌项目原有 Phase 0–7 细节继续见[品牌路线图](Project_A_Brand_Identity/07_Project_Management/Roadmap.md)。
 
 ## Project A｜品牌设计
 
@@ -30,6 +30,6 @@ Project A 的作品集应用指品牌资产和视觉规范的适配与交付；�
 
 品牌资产可以逐项交付：Project A 对某项资产完成设计、确认和来源记录后，Project B 即可按其适用范围接入；不必等所有角色表情或全部品牌应用完成。网站中仍缺少的品牌项保持 [待确认]，不将临时方案作为正式品牌资产。
 
-网站的信息架构、Wireframe、内容策略及非品牌技术准备可以与品牌研究并行；正式品牌视觉实施依赖 Project A 已确认的对应资产。具体交接、版本和授权要求见[品牌资产清单](BRAND_ASSET_MANIFEST.md)与[网站品牌接入规范](WEBSITE_BRAND_INTEGRATION.md)。
+网站的信息架构、Wireframe、内容策略及非品牌技术准备可以与品牌研究并行；正式品牌视觉实施依赖 Project A 已确认的对应资产。具体交接、版本和授权要求见[品牌资产清单](BRAND_ASSET_MANIFEST.md)与[网站品牌接入规范](Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md)。
 
-本轮仅完成管理文档调整，不开发网站、不生成视觉资产，也不创建第三个 GitHub 仓库。
+本次架构与目录整理不开发网站、不生成视觉资产，也不创建第三个 GitHub 仓库。
