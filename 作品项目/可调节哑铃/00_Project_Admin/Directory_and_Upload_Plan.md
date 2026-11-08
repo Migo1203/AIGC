@@ -1,5 +1,7 @@
 # 目录与上传说明
 
+> 本页目录树是首次接收时的快照。2026-11-08后续已新增`01_Product_Research/Research_Review_V01.md`、`00_Project_Admin/Asset_Relationships.md`及`06_Optimization/Design_Audit/V01/`，完成当前资料的首轮审查；最新入口见[README](../README.md)。下文保留初始上传规划，不表示后续分析尚未执行。
+
 更新：2026-11-08。用户指定在AIGC的`作品项目`下新建，故采用`作品项目/可调节哑铃/`，避免在仓库顶层再建孤立英文项目。现有57份资料保留原相对目录，不执行重命名或迁移原件。
 
 ## 实际创建的目录

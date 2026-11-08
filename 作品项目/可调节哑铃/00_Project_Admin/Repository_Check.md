@@ -1,5 +1,7 @@
 # 仓库和资料接收检查
 
+> 本页保留首次接收时的检查快照，下文“未查看／待分析”描述该阶段状态。2026-11-08后续已完成当前资料的首轮分析、九张导出审查及13份PSD合并预览检查，见[审查报告](../06_Optimization/Design_Audit/V01/Design_Audit_Report.md)；原件已在`6f0abc7`推送，本轮审查文档已获提交推送授权，实际同步结果以Git历史为准。当前状态以[README](../README.md)及[问题记录](Open_Questions.md)为准。
+
 检查日期：2026-11-08。检查对象为`https://github.com/Migo1203/AIGC`的`main`，不是工作区根目录那个未配置远端的本地Git仓库。
 
 ## GitHub与本地的关系
