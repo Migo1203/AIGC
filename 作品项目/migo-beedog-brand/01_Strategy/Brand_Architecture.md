@@ -10,6 +10,10 @@
 
 关系示意：**Migo 个人品牌 → 品牌角色 Beedog**。角色支持品牌表达，专业服务与创作署名归属于 Migo。
 
+## 与网站项目的关系
+
+在 Migo Personal Brand Ecosystem 中，Project A 是品牌定义与视觉资产的来源；独立的 Project B 是作品集网站。网站须沿用本文件中 Migo 与 Beedog 的身份关系，不自行修改品牌定义。两个项目的仓库位置、职责与交付规则见[总项目架构](../PROJECT_ECOSYSTEM.md)。
+
 ## 使用边界
 
 1. 介绍设计服务、案例、报价或项目决策时，明确主体是 Migo。
