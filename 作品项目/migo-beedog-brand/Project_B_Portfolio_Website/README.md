@@ -8,10 +8,21 @@
 
 ## 资料入口
 
+- [网站协作约定](AGENTS.md)：阶段边界、品牌来源和后续操作规则。
+- [网站项目简报](WEBSITE_BRIEF.md)：定位、受众、阶段边界和待确认事项。
+- [网站地图](SITEMAP.md)：首发页面、后续扩展和双语路径建议。
+- [项目路线图](ROADMAP.md)：从文档验收到后续设计、开发和上线的阶段。
+- [设计系统准备](DESIGN_SYSTEM.md)：视觉方向与尚待确认的品牌变量。
+- [内容计划](CONTENT_PLAN.md)：页面内容、案例字段和中英文准备。
+- [技术方案](TECH_SPEC.md)：技术选型、双语和静态部署的规划。
+- [任务清单](TASK_LIST.md) · [决策日志](DECISION_LOG.md)：当前状态与阶段决策。
+- [网站品牌接入记录](docs/BRAND_INTEGRATION.md)：本项目实际读取的品牌来源、版本和资产状态。
 - [网站品牌接入规范](WEBSITE_BRAND_INTEGRATION.md)：网站使用已确认品牌资产的边界、来源和变更流程。
 - [品牌资产清单](../BRAND_ASSET_MANIFEST.md)：Logo、Beedog、字体、颜色等交付状态与规格。
 - [总项目路线图](../PROJECT_ROADMAP.md)：网站与品牌各阶段、交付和依赖。
 - [总项目架构](../PROJECT_ECOSYSTEM.md)：两个项目的职责与仓库关系。
 - [Project A 品牌设计](../Project_A_Brand_Identity/README.md)：品牌策略、角色与视觉源文件入口。
 
-网站只将 Project A 中已经确认且适用于网站的视觉资产作为正式品牌视觉使用；未确认部分标记为 [待确认]。本轮不开发网站，不生成品牌资产。
+网站只将 Project A 中已经确认且适用于网站的视觉资产作为正式品牌视觉使用；未确认部分标记为 [待确认]。本阶段仅整理与审阅项目文档，不开发网站、不生成品牌资产；等待用户验收后再进入 Wireframe 与 UI 设计。
+
+用户已指定将本阶段网站规划文档推送到此 Project B 文件夹。这里属于 AIGC 仓库，并非独立的 migo-portfolio 代码仓库；网站仓库尚未创建，后续代码仍需独立管理。
