@@ -1,0 +1,23 @@
+﻿原项目相对路径,现项目相对路径,类型,说明
+00_Project_Admin/Asset_Inventory.csv,00_项目管理/资料清单.csv,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+00_Project_Admin/Asset_Relationships.md,00_项目管理/资料关系与版本识别.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+00_Project_Admin/Directory_and_Upload_Plan.md,00_项目管理/目录与上传说明.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+00_Project_Admin/Open_Questions.md,00_项目管理/问题与待确认记录.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+00_Project_Admin/Project_Changelog.md,00_项目管理/项目变更记录.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+00_Project_Admin/Repository_Check.md,00_项目管理/仓库与资料接收检查.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+01_Product_Research/Product_Specifications/Product_Fact_Sheet_V01.md,01_产品研究/产品规格/目标商品资料表_第01版.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+01_Product_Research/Research_Review_V01.md,01_产品研究/产品与竞品研究核对_第01版.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Design_Audit/V01/Design_Audit_Report.md,06_设计优化/设计审查/第01版/设计审查报告_第01版.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Design_Audit/V01/审查图/01_六张次图审查索引.jpg,06_设计优化/设计审查/第01版/审查图/01_六张次图审查索引.jpg,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Design_Audit/V01/审查图/02_A+三模块审查索引.jpg,06_设计优化/设计审查/第01版/审查图/02_品牌增强页面三模块审查索引.jpg,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Design_Audit/V01/审查图/03_A+窄屏等比模拟.jpg,06_设计优化/设计审查/第01版/审查图/03_品牌增强页面窄屏等比模拟.jpg,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Design_Audit/V01/审查图/04_重点证据摘录.jpg,06_设计优化/设计审查/第01版/审查图/04_重点证据摘录.jpg,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Optimization_Plan/First_Batch_Scope_V01.md,06_设计优化/优化计划/首批修改范围与优化建议_第01版.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+06_Optimization/Optimization_Plan/Optimization_Roadmap.md,06_设计优化/优化计划/分阶段优化路线图.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+PROJECT_BRIEF.md,项目简报.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+README.md,项目说明.md,管理文件中文命名,链接及引用同步更新；新增文件沿用中文命名
+原始资料/02 Listing/5.psd,原始资料/02 商品图/5.psd,原始素材目录调整,仅改上级目录；文件名和SHA256保留
+原始资料/02 Listing/7.png,原始资料/02 商品图/7.png,原始素材目录调整,仅改上级目录；文件名和SHA256保留
+原始资料/02 Listing/P07.psd,原始资料/02 商品图/P07.psd,原始素材目录调整,仅改上级目录；文件名和SHA256保留
+原始资料/03 A+/A+1.psd,原始资料/03 品牌增强页面/A+1.psd,原始素材目录调整,仅改上级目录；文件名和SHA256保留
+原始资料/03 A+/A+3.psd,原始资料/03 品牌增强页面/A+3.psd,原始素材目录调整,仅改上级目录；文件名和SHA256保留
