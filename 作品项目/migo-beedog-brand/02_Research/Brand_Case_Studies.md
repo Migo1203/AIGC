@@ -1,0 +1,53 @@
+# 品牌案例研究库
+
+状态：六个优先案例已建立研究入口；这是来源整理与少量文字证据，不代表完整案例分析已经完成。链接与文字核对日期：2026-11-08。
+
+**证据边界：** 本轮未逐张查看案例图片、标识或应用图；下列事实只来自已读取的网页文字。任何具体构图、字体形态、颜色搭配、角色外观与应用成效仍须实际查看及核验，不能据此臆测。
+
+每个案例后续按[统一研究模板](Case_Study_Template.md)完成 11 项分析，并记录来源、图号或页面位置、查看日期、可迁移方法及不宜照搬之处。
+
+## 1. Mailchimp｜专业品牌与角色符号
+
+- 研究目标：[待研究] Freddie、品牌名称和专业服务信息如何共存，角色可以承担哪些表达，不承担哪些表达。
+- 已读取文字：[官方品牌资产说明](https://mailchimp.com/about/brand-assets/)写明公司名称与 Freddie 图标配合使用，并给出周围留白等要求。
+- 已读取文字：[官方内容风格指南](https://styleguide.mailchimp.com/writing-about-mailchimp/)说明其内容不以 Freddie 的视角发声。这个限制有助于研究不同品牌如何划定角色职责；它不是对 Beedog 的默认规定。
+- [待研究] 字体、色彩、图形及真实商务触点；[待讨论] 哪些层级原则适合独立设计师而非大型平台。
+
+## 2. Duolingo｜角色与系统化表达
+
+- 研究目标：[待研究] 角色轮廓、人格、表达和插画系统如何形成可持续使用的规则。
+- 已读取文字：[Duo 造型调整过程](https://blog.duolingo.com/reshaping-duo/)讨论了在保留角色基本识别点的同时探索轮廓、草图和矢量迭代。
+- 已读取文字：[角色系统文章](https://blog.duolingo.com/building-character/)说明团队围绕既有角色建立一组角色的设计过程。
+- [待研究] 具体形态与表情规范、字体和场景应用；[待讨论] 大型内容团队的做法如何缩减为个人可维护的系统。
+- 原发现的旧角色规范子页面在本次访问时跳转到设计文章目录，具体规范内容 [待验证]；目前不将搜索摘要当作已核实的现行规范。
+
+## 3. GitHub｜吉祥物与品牌符号
+
+- 研究目标：[待研究] 角色、简化标识与文字标识的层级和适用场景。
+- 已读取文字：[GitHub Logo 规范](https://brand.github.com/foundations/logo)将 Invertocat 描述为代表 Octocat 的标识图形，并说明标识与文字组合的使用。
+- 可继续研究：[GitHub Brand Toolkit](https://brand.github.com/) 的图形、字体与应用栏目。
+- [待研究] 角色变体与品牌系统的实际视觉关系；[待讨论] 哪些原则适合 Migo，哪些依赖 GitHub 已有的品牌知名度。
+
+## 4. Slligy｜个人品牌与角色
+
+- 研究目标：[待研究] 个人身份、角色身份与作品展示如何共同构成一套品牌。
+- [候选，待验证] 搜索结果中找到 [Behance：Slligy - personal brand identity and character-mascot](https://www.behance.net/gallery/220135599/Slligy-personal-brand-identity-and-character-mascot)。本次直接打开 Behance 返回 403，未能查看完整内容或图片，也尚未确认是否为用户所指的确切项目。
+- [可读取项目标题] [Dprofile 同名项目页面](https://dprofile.ru/case/137493/slligy-personal-brand-identity-and-character-mascot)可打开文字；是否与用户所指参考一致、作者信息及具体视觉细节仍为 [待验证]。
+- [待研究] 品牌背景、角色关系、字体、色彩与应用。不可将项目标题或搜索摘要当作完整研究结论。
+
+## 5. Discord｜角色表情与社交场景
+
+- 研究目标：[待研究] Clyde 的符号识别、角色表情与社交应用如何相互配合。
+- 已读取文字：[Discord 品牌指南](https://discord.com/branding)提供官方品牌资产与使用说明。
+- 已读取文字：[2021 品牌更新说明](https://support.discord.com/hc/en-us/articles/1500009438682-A-Fresh-New-Look-to-Celebrate-Our-6th-Birthday)解释 Clyde 更新时考虑了小尺寸、不同材料和表情变化；这是该次更新的说明，不自动代表所有现行规范。
+- [待研究] 具体表情、图形语言、字体与真实应用；[待讨论] 哪些做法适合个人品牌。
+
+## 6. Big Tea｜角色与商业视觉应用
+
+- 研究目标：[待研究] 角色系统与品牌包装、内容及商业触点的衔接。
+- [候选，待验证] 搜索结果中找到 [Behance：Big Tea - Branding and Mascot Design](https://www.behance.net/gallery/224573461/Big-Tea-Branding-and-Mascot-Design)。本次直接打开返回 403，未能查看完整内容或图片，也尚未确认是否为用户所指的确切案例。
+- [待研究] 项目背景、是否为真实商业项目或概念项目、角色与标识关系、字体配色和实际应用；不依据搜索缩略图或项目名作视觉判断。
+
+## 下一步
+
+先逐一核实可访问的原始资料，再实际查看案例图及应用页面，按模板填写证据。六案完成后，比较角色与主体的关系、识别系统的稳定部分和可变化部分，再提出适合 Migo 的建议；建议须与用户已确认的决策分开。
