@@ -40,4 +40,4 @@
 
 资产编号｜实际文件名及格式｜尺寸 / 画板｜用途｜状态｜Project A 来源路径与版本 / 提交｜确认依据｜授权 / 限制｜Project B 使用位置｜更新时间。
 
-完整接入规则见[网站品牌接入规范](Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md)；新的确认或变更应同步[决策日志](Project_A_Brand_Identity/07_Project_Management/Decision_Log.md)。
+完整接入规则见[网站品牌接入规范](Project_B_Portfolio_Website/网站品牌接入规范.md)；新的确认或变更应同步[决策日志](Project_A_Brand_Identity/07_Project_Management/Decision_Log.md)。

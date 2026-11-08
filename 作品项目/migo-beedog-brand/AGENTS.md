@@ -2,7 +2,7 @@
 
 每次开始相关工作，先阅读本目录 README，以及 Project_A_Brand_Identity 下的 01_Strategy/Project_Brief.md、01_Strategy/Brand_Architecture.md、07_Project_Management/Decision_Log.md、07_Project_Management/Task_List.md 和任务涉及的阶段资料。保留用户已有工作；发现新要求与既有决策冲突时，记录差异并以用户最新明确指示为准。
 
-- 涉及网站或跨项目资产时，还须阅读 PROJECT_ECOSYSTEM.md、BRAND_ASSET_MANIFEST.md、Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md 和 PROJECT_ROADMAP.md。Project A 品牌设计与 Project B 网站独立管理，不能合并代码仓库；网站只将 A 已确认的资产作为正式品牌视觉，未确认部分明确标记。
+- 涉及网站或跨项目资产时，还须阅读 PROJECT_ECOSYSTEM.md、BRAND_ASSET_MANIFEST.md、Project_B_Portfolio_Website/网站品牌接入规范.md 和 PROJECT_ROADMAP.md。Project A 品牌设计与 Project B 网站独立管理，不能合并代码仓库；网站只将 A 已确认的资产作为正式品牌视觉，未确认部分明确标记。
 - Project A 是品牌定义和设计源文件的来源；网站不得改写品牌定义或反向覆盖 A 的源文件。网站仓库 migo-portfolio 的实际链接与可访问性 [待确认]，不得假定仓库或代码已存在。
 - Migo 是设计师和品牌主体；Beedog 是其原创品牌角色，不是另一个独立设计师。BD 暂不作为独立对外品牌。
 - 按策略研究、视觉概念、角色、品牌识别、应用和规范的先后顺序工作；不得把尚未完成的阶段写成定稿。用户另行明确调整顺序时，以最新指示为准。

@@ -2,7 +2,7 @@
 
 状态：[待研究] 当前没有已制作或已发布的品牌应用。
 
-项目边界：本目录属于 Project A，记录品牌资产在小红书和作品集中的视觉适配；网站策略、信息架构、页面 UI、开发和部署由独立的 Project B 负责。网站接入已确认品牌资产的规则见[网站品牌接入规范](../../Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md)。
+项目边界：本目录属于 Project A，记录品牌资产在小红书和作品集中的视觉适配；网站策略、信息架构、页面 UI、开发和部署由独立的 Project B 负责。网站接入已确认品牌资产的规则见[网站品牌接入规范](../../Project_B_Portfolio_Website/网站品牌接入规范.md)。
 
 ## 用户指定触点
 

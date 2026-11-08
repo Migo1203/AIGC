@@ -30,7 +30,7 @@ Project A 是品牌资产的来源；Project B 仅将 A 已确认的相应资产
 | 协作约定 | [AGENTS.md](AGENTS.md) | 新一轮工作应先读什么、如何记录决策 |
 | 总项目 | [总项目架构](PROJECT_ECOSYSTEM.md) | 品牌设计和网站项目的职责、仓库位置与资产流转 |
 | 总项目 | [品牌资产清单](BRAND_ASSET_MANIFEST.md) | 网站所需资产的状态、规格和交付记录 |
-| 总项目 | [网站品牌接入规范](Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md) | Project B 使用已确认品牌视觉的边界 |
+| 总项目 | [网站品牌接入规范](Project_B_Portfolio_Website/网站品牌接入规范.md) | Project B 使用已确认品牌视觉的边界 |
 | 总项目 | [总项目路线图](PROJECT_ROADMAP.md) | 两个项目的独立阶段、交付与前置依赖 |
 | 品牌项目 | [品牌项目入口](Project_A_Brand_Identity/README.md) | 品牌项目的范围与资料分类 |
 | 网站项目 | [网站项目资料入口](Project_B_Portfolio_Website/README.md) | 网站职责、交接资料与独立仓库状态 |

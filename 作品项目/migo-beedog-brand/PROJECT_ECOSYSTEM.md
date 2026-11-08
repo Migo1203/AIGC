@@ -23,7 +23,7 @@ Migo Personal Brand Ecosystem 是统一的个人品牌总项目，下设两个�
 
 ## 资产流转
 
-Project A 创作与确认 → 在[品牌资产清单](BRAND_ASSET_MANIFEST.md)登记状态、来源版本和使用条件 → 导出适用于网站的文件 → Project B 按[网站品牌接入规范](Project_B_Portfolio_Website/WEBSITE_BRAND_INTEGRATION.md)集成 → 如需设计变化，在 Project A 更新并重新交付。
+Project A 创作与确认 → 在[品牌资产清单](BRAND_ASSET_MANIFEST.md)登记状态、来源版本和使用条件 → 导出适用于网站的文件 → Project B 按[网站品牌接入规范](Project_B_Portfolio_Website/网站品牌接入规范.md)集成 → 如需设计变化，在 Project A 更新并重新交付。
 
 确认以实际决策和记录为依据，不将文件存在、上传或网站引用自动视为已确认。两条工作线的阶段与依赖见[总项目路线图](PROJECT_ROADMAP.md)。
 
