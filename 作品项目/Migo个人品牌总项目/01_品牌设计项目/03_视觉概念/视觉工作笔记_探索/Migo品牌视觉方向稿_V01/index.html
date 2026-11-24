@@ -1,0 +1,195 @@
+<!doctype html>
+<html lang="zh-CN" data-wordmark="serif" data-ink="blue">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Migo 品牌视觉方向稿，包含 NED 台灯、小度音箱及署名与批注对照。">
+<title>Migo · 品牌视觉方向稿 V01</title>
+<style>
+  :root {
+    color-scheme: light;
+    --paper: #f4f2ed;
+    --ink: #20211f;
+    --muted: #5d5b54;
+    --line: #c8c3b8;
+    --blue: #2148c5;
+    --annotation: var(--blue);
+    --serif: Georgia, 'Times New Roman', serif;
+    --sans: 'Segoe UI', 'Microsoft YaHei', 'PingFang SC', system-ui, sans-serif;
+    --index: Consolas, 'Courier New', monospace;
+    --gutter: clamp(20px, 5.55vw, 88px);
+  }
+  * { box-sizing: border-box; }
+  html[data-ink="black"] { --annotation: var(--ink); }
+  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.65 var(--sans); }
+  figure, p, h1, h2, h3 { margin: 0; }
+  img { display: block; width: 100%; height: auto; }
+  a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: 4px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 2px solid var(--blue); outline-offset: 3px; }
+  .frame { width: min(100%, 1600px); margin-inline: auto; padding-inline: var(--gutter); }
+  .skip { position: absolute; top: 8px; left: var(--gutter); z-index: 2; padding: 10px 15px; background: white; transform: translateY(-160%); }
+  .skip:focus { transform: translateY(0); }
+  .masthead, .footer { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding-block: 14px; }
+  .masthead { border-bottom: 1px solid var(--line); }
+  .masthead nav, .masthead .identity { display: flex; align-items: center; gap: clamp(12px, 2vw, 30px); }
+  .masthead a, .footer a { display: inline-flex; align-items: center; min-height: 44px; font-size: .875rem; }
+  .masthead nav a { text-decoration-color: transparent; }
+  .masthead nav a:hover { text-decoration-color: currentColor; }
+  .section-label, .index { font: 500 .78rem/1.55 var(--index); letter-spacing: .075em; color: var(--muted); }
+  .subtle { color: var(--muted); font-size: .82rem; }
+  .wordmark { display: inline-block; width: max-content; font-size: 2.55rem; line-height: 1.1; white-space: nowrap; }
+  .wordmark.serif, [data-wordmark="serif"] .live-mark { font-family: var(--serif); font-weight: 700; letter-spacing: -.075em; }
+  .wordmark.sans, [data-wordmark="sans"] .live-mark { font-family: var(--sans); font-weight: 780; letter-spacing: -.09em; }
+  .wordmark .joint { margin-inline-end: .025em; }
+  .hero { display: grid; grid-template-columns: minmax(0, 4.2fr) minmax(0, 6.8fr); gap: clamp(28px, 5vw, 76px); padding-block: 32px 42px; }
+  .hero-copy { display: flex; flex-direction: column; align-items: start; justify-content: center; gap: 24px; }
+  .hero h1 { line-height: .96; letter-spacing: -.08em; font-size: clamp(4rem, 10vw, 9.75rem); font-weight: 740; }
+  .hero h1 span { display: block; margin-top: 18px; font-size: clamp(1.55rem, 3.1vw, 2.8rem); line-height: 1.2; letter-spacing: .03em; }
+  .hero-copy > p:not(.section-label) { max-width: 31ch; text-wrap: pretty; color: var(--muted); font-size: clamp(1rem, 1.6vw, 1.24rem); }
+  .hero-copy a { display: inline-flex; align-items: center; min-height: 44px; gap: 12px; font-size: .9rem; }
+  .hero-photo { display: grid; justify-items: center; align-items: center; position: relative; min-height: 530px; height: min(74vh, 690px); background: #ebe3d6; padding: 28px 16px 49px; }
+  .hero-photo img { width: auto; height: 100%; max-width: 100%; min-height: 0; object-fit: contain; }
+  .hero-photo figcaption { position: absolute; inset: auto 18px 14px; display: flex; justify-content: space-between; gap: 12px; }
+  @keyframes enter { from { opacity: .25; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  @media (prefers-reduced-motion: no-preference) { .hero-photo { animation: enter 480ms ease-out both; } }
+  .section { border-top: 1px solid var(--line); padding-block: clamp(36px, 5vw, 76px); }
+  .section h2 { margin-top: 7px; font-size: clamp(2rem, 4.45vw, 4.35rem); line-height: 1.12; letter-spacing: -.055em; }
+  .section-head { display: flex; justify-content: space-between; align-items: end; flex-wrap: wrap; gap: 16px 28px; margin-bottom: 27px; }
+  .choice { margin: 0; padding: 0; border: 0; min-inline-size: 0; }
+  .choice legend { font-size: .82rem; color: var(--muted); margin-bottom: 5px; }
+  .choice label { position: relative; display: inline-flex; align-items: center; justify-content: center; gap: 8px; cursor: pointer; padding: 8px 14px; min-height: 44px; border: 1px solid transparent; }
+  .choice label:hover { border-color: var(--line); }
+  .choice label:has(input:checked) { border-color: var(--ink); }
+  .choice label:has(input:focus-visible) { outline: 2px solid var(--blue); outline-offset: 2px; }
+  .choice input { position: absolute; width: 1px; height: 1px; opacity: 0; margin: 0; }
+  .swatch { width: 9px; height: 9px; background: currentColor; border-radius: 50%; }
+  .swatch.blue { color: var(--blue); }
+  .ned-spread { display: grid; grid-template-columns: minmax(0, 1.9fr) minmax(0, 1fr); gap: clamp(12px, 2.6vw, 40px); }
+  .texture { position: relative; min-height: min(42vw, 500px); background: #c6b69e; overflow: hidden; }
+  .texture img { position: absolute; inset: 0; height: 100%; object-fit: cover; }
+  .texture .index { position: absolute; left: 15px; bottom: 15px; background: var(--paper); color: var(--ink); padding: 5px 9px; }
+  .overview { display: grid; grid-template-rows: 1fr auto; background: #ebe3d6; justify-items: center; padding: 20px 13px 12px; }
+  .lamp-inset { width: min(100%, 220px); position: relative; align-self: center; }
+  .finder { position: absolute; display: block; color: var(--annotation); pointer-events: none; }
+  .finder span { position: absolute; width: 26%; max-width: 10px; height: 33%; max-height: 9px; border: 0 solid currentColor; }
+  .finder span:nth-child(1) { inset: 0 auto auto 0; border-width: 2px 0 0 2px; }
+  .finder span:nth-child(2) { inset: 0 0 auto auto; border-width: 2px 2px 0 0; }
+  .finder span:nth-child(3) { inset: auto auto 0 0; border-width: 0 0 2px 2px; }
+  .finder span:nth-child(4) { inset: auto -1px -1px auto; width: 5px; height: 5px; border-radius: 50%; background: currentColor; }
+  .lamp-inset .finder { left: 58.6%; top: 21.5%; width: 23.5%; height: 10.5%; }
+  .caption { margin-top: 17px; display: grid; grid-template-columns: minmax(5rem, 10rem) minmax(0, 1fr); gap: 12px; }
+  .caption p { max-width: 44ch; }
+  .caption .index { padding-top: 4px; }
+  .speaker-spread { display: grid; grid-template-columns: minmax(0, 1.42fr) minmax(0, 1fr); gap: clamp(18px, 5vw, 78px); align-items: center; }
+  .speaker-stage { display: grid; place-items: center; background: #fff; }
+  .speaker-photo { position: relative; width: min(100%, 530px); }
+  .speaker-photo .finder { left: 35.3%; top: 22%; width: 29%; height: 12%; }
+  .speaker-side { display: grid; gap: 17px; align-content: center; }
+  .speaker-crop { width: min(100%, 420px); aspect-ratio: 394 / 174; position: relative; overflow: hidden; background: white; }
+  .speaker-crop img { position: absolute; width: 318.274%; max-width: none; left: -108.63%; top: -153.45%; }
+  .speaker-side h3 { font-size: clamp(1.15rem, 2.2vw, 1.75rem); }
+  .speaker-side p { max-width: 35ch; color: var(--muted); text-wrap: pretty; }
+  .specimens { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(12px, 2.6vw, 40px); }
+  .specimen { border-top: 1px solid var(--ink); padding-top: 12px; }
+  .specimen > .wordmark { font-size: clamp(3.25rem, 8vw, 7rem); margin-block: 14px 24px; }
+  .specimen .sample-line { display: flex; justify-content: space-between; gap: 10px; align-items: center; padding: 10px 14px; min-height: 56px; border-top: 1px solid var(--line); }
+  .sample-line .wordmark { font-size: 1.375rem; }
+  .sample-line.reverse { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+  .sample-line.reverse .subtle { color: inherit; }
+  .type-sample { margin-top: 36px; border-top: 1px solid var(--line); padding-top: 18px; }
+  .type-sample h3 { font-size: 1.45rem; margin-block: 5px; }
+  .type-sample p:not(.index) { max-width: 44ch; }
+  .footer { border-top: 1px solid var(--line); }
+  .footer .wordmark { font-size: 1.7rem; vertical-align: middle; margin-right: 8px; }
+  @media (max-width: 760px) {
+    .hero { grid-template-columns: 1fr; gap: 19px; padding-top: 27px; padding-bottom: 30px; }
+    .hero h1 { font-size: clamp(3.35rem, 13.8vw, 6.5rem); }
+    .hero h1 span { margin-top: 8px; }
+    .hero-copy { gap: 12px; }
+    .hero-photo { height: min(64vh, 540px); min-height: 330px; }
+    .masthead .identity > span:nth-child(2) { display: none; }
+    .speaker-spread { grid-template-columns: 1fr; }
+    .speaker-photo { width: min(100%, 430px); }
+    .overview { padding-top: 10px; }
+    .ned-spread { grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr); }
+    .texture { min-height: 210px; }
+    .caption { margin-top: 12px; grid-template-columns: 1fr; gap: 3px; }
+    .specimen .sample-line { padding-inline: 8px; }
+  }
+  @media (max-width: 380px) {
+    .subtle, .masthead a { font-size: .75rem; }
+    .masthead nav { gap: 10px; }
+    .masthead .wordmark { font-size: 2rem; }
+    .sample-line { flex-wrap: wrap; }
+  }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">跳到案例</a>
+<div class="frame">
+  <header class="masthead">
+    <div class="identity"><span class="wordmark live-mark" aria-label="Migo"><span class="joint">M</span>igo</span><span class="subtle">视觉工作笔记</span></div>
+    <nav aria-label="样稿章节"><a href="#detail">NED 细节</a><a href="#speaker">小度音箱</a><a href="#specimens">字标对照</a></nav>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="case-title">
+      <div class="hero-copy">
+        <p class="section-label">电商视觉案例 / NED ERIC</p>
+        <h1 id="case-title">NED<span>Eric 台灯</span></h1>
+        <p>一组台灯商品视觉。从完整灯体看比例，再从受光的灯罩看清表面纹理。</p>
+        <a href="#detail">看灯罩细节 <span aria-hidden="true">↓</span></a>
+      </div>
+      <figure class="hero-photo" id="hero-photo">
+        <img src="ned-lamp.png" width="555" height="980" alt="完整的浅色 NED Eric 台灯，带圆弧灯罩和圆形底座">
+        <figcaption class="index"><span>NED ERIC</span><span>完整灯体</span></figcaption>
+      </figure>
+    </section>
+    <section class="section" id="detail" aria-labelledby="detail-title">
+      <div class="section-head">
+        <div><p class="section-label">NED / 材质</p><h2 id="detail-title">灯罩亮面的纹理</h2></div>
+        <fieldset class="choice"><legend>批注用色</legend><label><input type="radio" name="ink" value="black"><span class="swatch" aria-hidden="true"></span>墨黑</label> <label><input type="radio" name="ink" value="blue" checked><span class="swatch blue" aria-hidden="true"></span>钴蓝</label></fieldset>
+      </div>
+      <div class="ned-spread">
+        <figure class="texture"><img src="ned-texture.png" width="176" height="176" alt="浅米色灯罩表面受光处的细小颗粒"><figcaption class="index">灯罩局部</figcaption></figure>
+        <figure class="overview"><div class="lamp-inset"><img src="ned-lamp.png" width="555" height="980" alt="灯罩右上方的缺角框标出纹理特写所在位置"><i class="finder" aria-hidden="true"><span></span><span></span><span></span><span></span></i></div><figcaption class="index">纹理在整灯上的位置</figcaption></figure>
+      </div>
+      <div class="caption"><span class="index">Migo / 画面处理</span><p>整图交代纹理在灯罩的哪里，特写让受光面的细小颗粒看得清。</p></div>
+    </section>
+    <section class="section" id="speaker" aria-labelledby="speaker-title">
+      <div class="section-head"><div><p class="section-label">产品视觉 / 结构</p><h2 id="speaker-title">小度音箱</h2></div></div>
+      <div class="speaker-spread">
+        <figure class="speaker-stage"><div class="speaker-photo"><img src="speaker.jpg" width="1254" height="1254" alt="小度音箱的斜视图，缺角框标出机身顶部双键"><i class="finder" aria-hidden="true"><span></span><span></span><span></span><span></span></i></div></figure>
+        <div class="speaker-side">
+          <figure class="speaker-crop"><img src="speaker.jpg" width="1254" height="1254" alt="机身顶部的两枚按键及其符号特写"></figure>
+          <div><span class="index">Migo / 画面处理</span><h3>机身顶部的两个按键</h3></div>
+          <p>先用斜视图交代双键在机身上的位置，再放大同一处，让两个按键符号分得清。</p>
+        </div>
+      </div>
+    </section>
+    <section class="section" id="specimens" aria-labelledby="specimen-title">
+      <div class="section-head">
+        <div><p class="section-label">品牌视觉方向稿 / V01</p><h2 id="specimen-title">Migo 署名对照</h2></div>
+        <fieldset class="choice"><legend>在页眉与页脚试用字标</legend><label><input type="radio" name="wordmark" value="serif" checked>衬线</label> <label><input type="radio" name="wordmark" value="sans">无衬线</label></fieldset>
+      </div>
+      <div class="specimens">
+        <article class="specimen"><h3 class="index">A / 衬线</h3><div class="wordmark serif"><span class="joint">M</span>igo</div><div class="sample-line"><span class="wordmark serif"><span class="joint">M</span>igo</span><span class="subtle">小尺寸</span></div><div class="sample-line reverse"><span class="wordmark serif"><span class="joint">M</span>igo</span><span class="subtle">深底反白</span></div></article>
+        <article class="specimen"><h3 class="index">B / 无衬线</h3><div class="wordmark sans"><span class="joint">M</span>igo</div><div class="sample-line"><span class="wordmark sans"><span class="joint">M</span>igo</span><span class="subtle">小尺寸</span></div><div class="sample-line reverse"><span class="wordmark sans"><span class="joint">M</span>igo</span><span class="subtle">深底反白</span></div></article>
+      </div>
+      <div class="type-sample"><p class="index">文字层级 / NED ERIC</p><h3>从完整灯体看到一处纹理</h3><p>案例标题负责识别作品，正文交代画面任务，旁注解释局部与整图的关系。</p></div>
+    </section>
+  </main>
+  <footer class="footer"><p><span class="wordmark live-mark"><span class="joint">M</span>igo</span><span class="subtle">品牌视觉方向稿 V01</span></p><a href="#main">返回开场 ↑</a></footer>
+</div>
+<script>
+  for (const name of ['ink', 'wordmark']) {
+    const inputs = [...document.querySelectorAll(`input[name="${name}"]`)];
+    const applyChoice = () => {
+      document.documentElement.dataset[name] = inputs.find(input => input.checked).value;
+    };
+    inputs.forEach(input => input.addEventListener('change', applyChoice));
+    applyChoice();
+  }
+</script>
+</body>
+</html>
