@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="240" viewBox="0 0 680 240" role="img" aria-labelledby="progress-title progress-desc" lang="zh-CN" xml:lang="zh-CN" font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
   <title id="progress-title">Migo 品牌设计与个人作品集网站进度</title>
-  <desc id="progress-desc">截至 2026-11-25，品牌策略讨论稿 V01 已收到首轮回答：AIGC设计方向、HR受众、商业视觉与AIGC双线并重；第 4、5 题暂留，角色保留为独立创作方向。模块②品牌命名与语言 V01 已完成，双语文案待审阅。六案研究已归纳。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
+  <desc id="progress-desc">截至 2026-11-25，品牌策略讨论稿 V01 已收到首轮回答：AIGC设计方向、HR受众、商业视觉与AIGC双线并重；第 4、5 题暂留，角色保留为独立创作方向。模块②中文品牌故事 V01 已认可，英文与署名细则待审阅。模块③可用现有文案进行字标、字体和配色试排。六案研究已归纳。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
   <rect width="680" height="240" rx="8" fill="#FFFFFF"/>
 
   <text x="24" y="29" font-size="15" font-weight="650" fill="#2C2C2A">Project A · 品牌设计（AIGC）</text>
@@ -14,7 +14,7 @@
     <g transform="translate(153 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">命名与语言</text>
-      <text x="58" y="41" fill="#854F0B">V01 待审阅</text>
+      <text x="58" y="41" fill="#854F0B">中文故事认可</text>
     </g>
     <g transform="translate(282 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
@@ -24,7 +24,7 @@
     <g transform="translate(411 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌识别</text>
-      <text x="58" y="41" fill="#854F0B">待语言审阅</text>
+      <text x="58" y="41" fill="#854F0B">待字标试排</text>
     </g>
     <g transform="translate(540 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
