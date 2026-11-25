@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="240" viewBox="0 0 680 240" role="img" aria-labelledby="progress-title progress-desc" lang="zh-CN" xml:lang="zh-CN" font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
   <title id="progress-title">Migo 品牌设计与个人作品集网站进度</title>
-  <desc id="progress-desc">截至 2026-11-24，品牌简报待确认，六案已归纳，AC3 作为未完成角色暂归档。Migo 反馈视觉语法验证通过，品牌视觉方向稿已制作，字标、配色与两个案例应用样稿待审阅。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
+  <desc id="progress-desc">截至 2026-11-25，品牌策略讨论稿 V01 已整理，待 Migo 回答核心问题；个人品牌视觉方向须依策略重新确定。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
   <rect width="680" height="240" rx="8" fill="#FFFFFF"/>
 
   <text x="24" y="29" font-size="15" font-weight="650" fill="#2C2C2A">Project A · 品牌设计（AIGC）</text>
-  <text x="656" y="29" font-size="11" text-anchor="end" fill="#5F5E5A">2026-11-24</text>
+  <text x="656" y="29" font-size="11" text-anchor="end" fill="#5F5E5A">2026-11-25</text>
   <g font-size="13" text-anchor="middle" dominant-baseline="central">
     <g transform="translate(24 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌策略</text>
-      <text x="58" y="41" fill="#854F0B">简报待确认</text>
+      <text x="58" y="41" fill="#854F0B">待本人回答</text>
     </g>
     <g transform="translate(153 42)">
       <rect width="116" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56"/>
@@ -24,12 +24,12 @@
     <g transform="translate(411 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌识别</text>
-      <text x="58" y="41" fill="#854F0B">方向稿待审阅</text>
+      <text x="58" y="41" fill="#854F0B">待策略回答</text>
     </g>
     <g transform="translate(540 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌应用</text>
-      <text x="58" y="41" fill="#854F0B">两案例已试用</text>
+      <text x="58" y="41" fill="#854F0B">待策略收敛</text>
     </g>
   </g>
 
