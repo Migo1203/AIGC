@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN" data-type="experience">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="page-type" content="experience">
+  <meta name="site-kind" content="personal portfolio">
+  <meta name="description" content="Migo — 视觉设计与 AI 创作个人作品集首页概念样稿。">
+  <meta name="theme-color" content="#f2f2f0">
+  <title>Migo — Visual practice</title>
+  <style>
+    :root{--blue:#1458e4;--ink:#0e0e0e;--muted:#6e6e6e;--paper:#f2f2f0;--line:rgba(14,14,14,.16);--r:12px;--r-lg:28.8px;--mono:"Geist Mono","SFMono-Regular",Consolas,monospace;--sans:Geist,Inter,"Helvetica Neue",Arial,"Microsoft YaHei",sans-serif;--gutter:clamp(22px,5.1vw,82px)}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);-webkit-font-smoothing:antialiased}button,a{font:inherit;color:inherit}a{text-decoration:none}button{border:0;background:none;cursor:pointer}.wrap{width:min(100%,1600px);margin:auto;padding-inline:var(--gutter)}
+    .topbar{height:76px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--line);padding-inline:var(--gutter);position:relative;z-index:2}.wordmark{font-size:24px;font-weight:650;letter-spacing:-1.4px}.wordmark i{color:var(--blue);font-style:normal}.toplinks{display:flex;align-items:center;gap:clamp(18px,3vw,48px);font-size:14px}.toplinks a{position:relative}.toplinks a:after{content:"";position:absolute;left:0;bottom:-6px;width:0;height:1px;background:var(--blue);transition:width .24s}.toplinks a:hover:after{width:100%}.availability{display:flex;align-items:center;gap:8px;color:var(--muted);font:11px var(--mono);text-transform:uppercase;letter-spacing:.08em}.availability:before{content:"";width:7px;height:7px;border-radius:50%;background:var(--blue)}.menu{display:none}
+    .hero{min-height:min(790px,calc(100svh - 76px));display:grid;grid-template-columns:.88fr 1.12fr;align-items:center;gap:clamp(36px,6vw,96px);padding-block:54px 76px}.hero-copy{padding-block:34px}.eyebrow,.label{font:11px var(--mono);text-transform:uppercase;letter-spacing:.11em;color:var(--muted)}.hero h1{font-size:clamp(62px,7vw,108px);line-height:1.08;letter-spacing:-.028em;font-weight:560;margin:34px 0 28px;max-width:720px}.hero h1 span{color:var(--blue)}.hero-lead{font-size:clamp(18px,1.6vw,24px);line-height:1.48;max-width:490px;color:#343434;margin:0}.hero-meta{display:flex;align-items:center;gap:14px;margin-top:46px;color:var(--muted);font:11px var(--mono);letter-spacing:.035em}.hero-meta b{width:34px;height:1px;background:var(--blue)}.hero-art{display:block;width:100%;padding:0;text-align:start;position:relative;cursor:pointer;border-radius:var(--r-lg);overflow:hidden;isolation:isolate;transform:translateZ(0);box-shadow:0 24px 70px rgba(20,22,24,.12);background:#c9b9a6}.hero-art img{display:block;width:100%;aspect-ratio:4/3;object-fit:cover;transition:transform .7s cubic-bezier(.2,.7,.2,1),filter .4s}.hero-art:hover img{transform:scale(1.025)}.hero-art:after{content:"OPEN PROJECT ↗";position:absolute;right:20px;bottom:20px;background:var(--paper);border-radius:999px;padding:12px 17px;font:10px var(--mono);letter-spacing:.06em;transition:background .2s,color .2s,transform .2s}.hero-art:hover:after{background:var(--blue);color:white;transform:translateY(-2px)}.art-index{position:absolute;top:18px;left:18px;background:var(--paper);border-radius:999px;padding:9px 12px;font:10px var(--mono);z-index:1}
+    .ticker{border-top:1px solid var(--line);border-bottom:1px solid var(--line);overflow:hidden}.ticker-track{display:flex;width:100%;justify-content:space-between;gap:18px;align-items:center;padding:16px var(--gutter);color:#3a3a3a;font:11px var(--mono);letter-spacing:.085em}.ticker-track span{color:var(--blue)}@keyframes marquee{to{transform:translateX(-50%)}}
+    .section-head{display:flex;align-items:end;justify-content:space-between;padding-top:114px;padding-bottom:34px}.section-head h2{font-size:clamp(42px,6.5vw,92px);letter-spacing:-.04em;line-height:.95;font-weight:540;margin:18px 0 0}.section-head p{font-size:14px;color:var(--muted);max-width:250px;line-height:1.55;margin:0 0 5px}.work-grid{display:grid;grid-template-columns:1.42fr .58fr;gap:22px;padding-bottom:120px}.project{cursor:pointer;min-width:0}.project-image{display:block;width:100%;padding:0;border-radius:var(--r);overflow:hidden;background:#d8d4cd;position:relative}.project-image img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .65s cubic-bezier(.2,.7,.2,1)}.project:hover .project-image img{transform:scale(1.025)}.project:first-child .project-image{aspect-ratio:1.34}.project:nth-child(2){margin-top:92px}.project:nth-child(2) .project-image{aspect-ratio:.88}.project-title{display:flex;justify-content:space-between;gap:20px;padding-top:16px;align-items:baseline}.project-title strong{font-weight:500;font-size:17px}.project-title span{font:10px var(--mono);color:var(--muted)}.project-description{margin:6px 0 0;color:var(--muted);font-size:13px;line-height:1.5}
+    .about{background:var(--ink);color:var(--paper);padding-block:100px 108px;border-radius:var(--r-lg) var(--r-lg) 0 0}.about-inner{display:grid;grid-template-columns:.65fr 1.35fr;gap:8vw;align-items:start}.about .label{color:#a7a7a3}.about h2{font-size:clamp(42px,6.3vw,88px);font-weight:520;line-height:1;letter-spacing:-.04em;margin:22px 0}.about-copy{font-size:clamp(20px,2.1vw,30px);line-height:1.42;max-width:760px;margin:28px 0 0}.about-copy span{color:#8fafff}.about-foot{display:flex;justify-content:space-between;align-items:center;border-top:1px solid rgba(255,255,255,.22);padding-top:20px;margin-top:70px;color:#bbb;font:10px var(--mono);letter-spacing:.07em}.about-foot a{color:white}.footer{display:flex;justify-content:space-between;padding:27px var(--gutter);font:10px var(--mono);color:var(--muted);letter-spacing:.05em}
+    .enter{animation:enter .9s cubic-bezier(.16,1,.3,1) both}.enter.delay{animation-delay:.12s}@keyframes enter{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:translateY(0)}}
+    .transition{position:fixed;inset:0;z-index:10;display:none;grid-template-columns:repeat(6,1fr);grid-template-rows:repeat(4,1fr);gap:5px;padding:5px;background:#111}.transition.active{display:grid}.tile{overflow:hidden;border-radius:5px;transform:scale(.03);opacity:0;transition:transform .62s cubic-bezier(.19,1,.22,1),opacity .28s}.tile img{width:100%;height:100%;object-fit:cover}.transition.reveal .tile{transform:scale(1);opacity:1}.transition.active .tile:nth-child(3n){transition-delay:.045s}.transition.active .tile:nth-child(4n){transition-delay:.09s}.transition.leave .tile{transform:scale(.06);opacity:0;transition-duration:.38s}.transition.leave .tile:nth-child(odd){transition-delay:.05s}.project-view{position:fixed;inset:0;z-index:9;background:var(--paper);overflow:auto;opacity:0;visibility:hidden;transform:scale(.975);transition:opacity .35s,transform .45s,visibility .35s}.project-view.open{opacity:1;visibility:visible;transform:scale(1)}.detail-nav{height:70px;display:flex;align-items:center;justify-content:space-between;padding-inline:var(--gutter);border-bottom:1px solid var(--line)}.close{font:11px var(--mono);border:1px solid var(--line);padding:10px 14px;border-radius:999px}.detail-hero{padding:68px var(--gutter) 56px;display:grid;grid-template-columns:.8fr 1.2fr;gap:7vw;align-items:end}.detail-hero h2{font-size:clamp(56px,8vw,116px);line-height:.9;letter-spacing:-.045em;font-weight:540;margin:22px 0}.detail-hero p{font-size:18px;line-height:1.5;max-width:500px;color:#555}.detail-image{padding-inline:var(--gutter)}.detail-image img{width:100%;display:block;border-radius:var(--r);aspect-ratio:4/3;object-fit:cover}.detail-next{display:flex;justify-content:space-between;padding:20px var(--gutter) 60px;color:var(--muted);font:11px var(--mono)}
+    @media(max-width:900px){.hero{grid-template-columns:1fr;gap:22px;min-height:auto;padding-top:72px}.hero-copy{padding:0}.hero h1{font-size:clamp(66px,14vw,112px);margin:25px 0 20px}.hero-meta{margin-top:26px}.work-grid{grid-template-columns:1fr 1fr}.project:nth-child(2){margin-top:70px}.section-head{padding-top:82px}.about-inner{grid-template-columns:1fr;gap:8px}.about{padding-block:76px}.toplinks{gap:18px}}
+    @media(max-width:620px){.topbar{height:64px}.toplinks{display:none}.menu{display:block;border:1px solid var(--line);padding:9px 12px;border-radius:999px;font:10px var(--mono)}.availability{margin-left:auto;margin-right:15px;font-size:9px}.hero{padding-top:54px;padding-bottom:44px}.hero h1{font-size:clamp(62px,17vw,90px)}.hero-art{border-radius:18px}.hero-art:after{right:12px;bottom:12px;padding:10px 12px}.section-head{display:block;padding-top:68px}.section-head h2{font-size:60px}.section-head p{margin-top:16px}.ticker-track{justify-content:flex-start;flex-wrap:wrap;gap:10px 18px;font-size:9px}.work-grid{grid-template-columns:1fr;gap:30px;padding-bottom:74px}.project:nth-child(2){margin:0}.project:first-child .project-image{aspect-ratio:1.2}.project:nth-child(2) .project-image{aspect-ratio:1.02}.about{border-radius:20px 20px 0 0;padding-block:60px}.about h2{font-size:56px}.about-copy{font-size:21px}.about-foot{margin-top:44px;align-items:flex-start;gap:20px;flex-direction:column}.footer{padding-block:20px;gap:16px;flex-wrap:wrap}.detail-hero{grid-template-columns:1fr;gap:0;padding-top:40px}.detail-hero h2{font-size:66px}.detail-hero p{font-size:16px}.detail-image img{aspect-ratio:1}.transition{grid-template-columns:repeat(4,1fr);grid-template-rows:repeat(6,1fr)}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;scroll-behavior:auto!important;transition-duration:.01ms!important}}
+    :focus-visible{outline:2px solid var(--blue);outline-offset:4px}
+    ::selection{background:var(--blue);color:white}
+    .skip{position:fixed;left:12px;top:12px;z-index:20;transform:translateY(-160%);color:white;background:var(--ink);border-radius:8px;padding:12px 16px}
+    .skip:focus{transform:none}
+    .tile{background:#242424;transition:transform .54s cubic-bezier(.19,1,.22,1),opacity .24s}
+    .tile img{display:block}
+    .tile:nth-child(even) img{filter:brightness(.78)}
+    .detail-image img{height:auto;aspect-ratio:auto;object-fit:contain}
+    .close,.menu{min-height:44px}
+    .hero-lead{max-width:24em}
+    @media(max-width:620px){.hero h1{font-size:clamp(48px,15vw,88px)}.detail-hero h2{font-size:clamp(42px,14vw,66px)}}
+  </style>
+</head>
+<body id="home">
+  <header class="topbar"><a class="wordmark" href="#home" aria-label="Migo 首页">migo<i>.</i></a><nav class="toplinks" aria-label="主导航"><a href="#work">作品</a><a href="#about">关于</a></nav><div class="availability">VISUAL PRACTICE · 2026</div><button class="menu" id="menuButton" aria-label="查看精选作品">作品 ↘</button></header>
+  <a class="skip" href="#top">跳到主要内容</a><main id="top" tabindex="-1">
+    <section class="hero wrap" data-enter>
+      <div class="hero-copy enter"><h1>让想法<br>变成<span>看得见</span><br>的东西。</h1><p class="hero-lead">视觉设计与 AI 创作。用画面表达想法，也记录作品是怎么做出来的。</p><div class="hero-meta"><b></b><span>DESIGN · IMAGE · EXPERIMENT</span></div></div>
+      <button class="hero-art enter delay" data-open-project aria-label="打开 NED Eric 无线氛围灯项目"><img src="assets/ned-cover.jpg" alt="NED Eric 无线氛围灯项目封面"></button>
+    </section>
+    <div class="ticker" aria-hidden="true"><div class="ticker-track"><span>VISUAL DESIGN</span><span>AIGC EXPERIMENTS</span><span>BRAND & COMMERCE</span><span>IDEAS INTO IMAGES</span></div></div>
+    <section class="wrap" id="work"><div class="section-head"><div><h2>精选作品</h2></div><p>商业视觉 · AIGC 探索<br>以项目呈现判断与制作。</p></div>
+      <div class="work-grid"><article class="project"><button class="project-image" data-open-project aria-label="打开 NED Eric 项目"><img src="assets/ned-cover.jpg" alt="NED 台灯作品集封面"></button><div class="project-title"><strong>NED Eric / 无线氛围灯</strong><span>2026 · SELF-INITIATED</span></div><p class="project-description">商品图、品牌故事与 A+ 内容的视觉系统</p></article><article class="project"><button class="project-image" data-open-project aria-label="打开 NED 项目的视觉策略预览"><img src="assets/ned-strategy.jpg" alt="NED 台灯项目背景与视觉策略"></button><div class="project-title"><strong>从场景到系统</strong><span>PROJECT NOTES ↗</span></div><p class="project-description">一次项目如何逐步长成完整的观看体验。</p></article></div>
+    </section>
+    <section class="about" id="about"><div class="wrap about-inner"><div><h2>Hi, I’m<br>Migo.</h2></div><div><p class="about-copy">我是 Migo，做视觉设计，也用 AI 探索画面的可能性。<br><span>我想展示的不只是最后一张图，还有我是怎么选到这张图的。</span></p><div class="about-foot"><span>DESIGN WITH INTENTION</span><a href="#home">返回顶部 ↑</a></div></div></div></section>
+  </main>
+  <footer class="footer"><span>© MIGO · PORTFOLIO STUDY V01</span><span>AN INDEPENDENT HOMEPAGE EXPERIMENT</span></footer>
+  <div class="transition" id="transition" aria-hidden="true"></div>
+  <section class="project-view" id="projectView" role="dialog" aria-modal="true" aria-hidden="true" inert aria-label="NED 项目预览"><div class="detail-nav"><span class="wordmark">migo<i>.</i></span><button class="close" id="closeProject">CLOSE ×</button></div><div class="detail-hero"><div><h2>NED Eric<br>Ambient Light</h2></div><p>以暮色餐桌和夜间床头为两个生活场景，探索产品信息与氛围表达如何共存。此处展示现有项目画面，作为首页跳转效果的样稿内容。</p></div><div class="detail-image"><img src="assets/ned-strategy.jpg" alt="NED Eric 项目视觉策略与场景图"></div><div class="detail-next"><span>VISUAL SYSTEM / E-COMMERCE</span><span>预览结束</span></div></section>
+  <script>
+    const overlay = document.querySelector('#transition');
+    const detail = document.querySelector('#projectView');
+    const close = document.querySelector('#closeProject');
+    const background = [...document.querySelectorAll('body > header, body > main, body > footer, .skip')];
+    const reduced = matchMedia('(prefers-reduced-motion: reduce)');
+    let lastTrigger, state = 'home', timers = [];
+    function later(fn, delay) { timers.push(setTimeout(fn, delay)); }
+    function clearTransition() {
+      timers.forEach(clearTimeout);
+      timers = [];
+      overlay.classList.remove('active', 'reveal', 'leave');
+    }
+    function revealProject() {
+      detail.inert = false;
+      detail.setAttribute('aria-hidden', 'false');
+      detail.scrollTop = 0;
+      detail.classList.add('open');
+      if (reduced.matches) close.focus({preventScroll: true});
+      else later(() => { if (state === 'project') close.focus({preventScroll: true}); }, 380);
+      background.forEach(el => el.inert = true);
+      state = 'project';
+    }
+    function openProject(trigger) {
+      if (state !== 'home') return;
+      state = 'opening';
+      lastTrigger = trigger;
+      document.body.style.overflow = 'hidden';
+      if (reduced.matches) { revealProject(); return; }
+      const tiles = document.createDocumentFragment();
+      for (let i = 0; i < 24; i++) {
+        const cell = document.createElement('div');
+        cell.className = 'tile';
+        const img = new Image();
+        img.alt = '';
+        img.src = i % 4 === 0 ? 'assets/ned-strategy.jpg' : 'assets/ned-cover.jpg';
+        img.style.objectPosition = `${18 + (i % 5) * 16}% ${20 + (i % 4) * 20}%`;
+        cell.append(img);
+        tiles.append(cell);
+      }
+      overlay.replaceChildren(tiles);
+      overlay.classList.add('active');
+      void overlay.offsetHeight;
+      overlay.classList.add('reveal');
+      later(() => {
+        revealProject();
+        overlay.classList.add('leave');
+        later(clearTransition, 450);
+      }, 530);
+    }
+    function closeProject() {
+      if (state === 'home') return;
+      clearTransition();
+      background.forEach(el => el.inert = false);
+      lastTrigger?.focus({preventScroll: true});
+      detail.classList.remove('open');
+      detail.inert = true;
+      detail.setAttribute('aria-hidden', 'true');
+      document.body.style.overflow = '';
+      state = 'home';
+    }
+    document.querySelectorAll('[data-open-project]').forEach(el => el.addEventListener('click', () => openProject(el)));
+    close.addEventListener('click', closeProject);
+    document.querySelector('#menuButton').addEventListener('click', () => {
+      document.querySelector('#work').scrollIntoView({behavior: reduced.matches ? 'auto' : 'smooth'});
+      document.querySelector('#work button').focus({preventScroll: true});
+    });
+    document.addEventListener('keydown', e => {
+      if (e.key === 'Escape') closeProject();
+      if (e.key === 'Tab' && state === 'project') { e.preventDefault(); close.focus(); }
+    });
+  </script>
+</body>
+</html>
