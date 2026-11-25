@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="240" viewBox="0 0 680 240" role="img" aria-labelledby="progress-title progress-desc" lang="zh-CN" xml:lang="zh-CN" font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
   <title id="progress-title">Migo 品牌设计与个人作品集网站进度</title>
-  <desc id="progress-desc">截至 2026-11-25，品牌策略讨论稿 V01 已收到首轮回答：AIGC设计方向、HR受众、商业视觉与AIGC双线并重；记忆点与作品证据待补，角色作用待讨论。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
+  <desc id="progress-desc">截至 2026-11-25，品牌策略讨论稿 V01 已收到首轮回答：AIGC设计方向、HR受众、商业视觉与AIGC双线并重；记忆点与作品证据待讨论，角色保留为独立创作方向，成熟后先评估为作品集案例。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；正式前端未初始化、正式部署未开始。</desc>
   <rect width="680" height="240" rx="8" fill="#FFFFFF"/>
 
   <text x="24" y="29" font-size="15" font-weight="650" fill="#2C2C2A">Project A · 品牌设计（AIGC）</text>
@@ -9,7 +9,7 @@
     <g transform="translate(24 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌策略</text>
-      <text x="58" y="41" fill="#854F0B">待本人回答</text>
+      <text x="58" y="41" fill="#854F0B">讨论作品证据</text>
     </g>
     <g transform="translate(153 42)">
       <rect width="116" height="60" rx="8" fill="#E1F5EE" stroke="#0F6E56"/>
