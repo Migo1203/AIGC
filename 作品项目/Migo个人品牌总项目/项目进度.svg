@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="680" height="240" viewBox="0 0 680 240" role="img" aria-labelledby="progress-title progress-desc" lang="zh-CN" xml:lang="zh-CN" font-family="system-ui, 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', sans-serif">
   <title id="progress-title">Migo 品牌设计与个人作品集网站进度</title>
-  <desc id="progress-desc">截至 2026-11-26，品牌策略讨论稿 V01 已收到首轮回答：AIGC设计方向、HR受众、商业视觉与AIGC双线并重；第 4、5 题暂留，角色保留为独立创作方向。模块②中文品牌故事 V01 已认可，英文与署名细则待审阅。模块③「编辑台」首页概念图 V01 已制作，待审阅。六案研究已归纳。此前方向样稿保留为探索记录，尚未确认。AC3 暂归档，观察点可选。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；Migo — Visual practice 已按导航 V02 扩为全站结构样稿，待审阅，未接入官网。正式前端未初始化、正式部署未开始。</desc>
+  <desc id="progress-desc">截至 2026-11-26，Migo 品牌体系 V1.1 已整理：个人创意品牌定位、主张、标语、受众、内容与发展方向已确认。编辑式极简主义与趣味元素为视觉方向，Logo、品牌色、字体仍待确认。Beedog 已定位为品牌角色，标准形象未定；AC3 维持归档，观察点仍属此前探索。旧中文品牌故事的认可保留，官网文案与双语细则待确认。概念样稿保留，品牌应用尚未启动。网站规划已验收，三版线框已发布预览，NED V02 已审阅。NED V03 的项目概述与分工、八图总览两处优化已接入网站审阅稿；NED V03 独立完整稿（品牌故事、高级 A+、Banner 与案例复盘）已归档至 GitHub，待用户视觉审阅，未发布到个人网站；Migo — Visual practice 已按导航 V02 扩为全站结构样稿，待审阅，未接入官网。正式前端未初始化、正式部署未开始。</desc>
   <rect width="680" height="240" rx="8" fill="#FFFFFF"/>
 
   <text x="24" y="29" font-size="15" font-weight="650" fill="#2C2C2A">Project A · 品牌设计（AIGC）</text>
@@ -9,27 +9,27 @@
     <g transform="translate(24 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌策略</text>
-      <text x="58" y="41" fill="#854F0B">余项暂留</text>
+      <text x="58" y="41" fill="#854F0B">V1.1 已建立</text>
     </g>
     <g transform="translate(153 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">命名与语言</text>
-      <text x="58" y="41" fill="#854F0B">中文故事认可</text>
+      <text x="58" y="41" fill="#854F0B">核心表达已定</text>
     </g>
     <g transform="translate(282 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">新方向探索</text>
-      <text x="58" y="41" fill="#854F0B">语法验证通过</text>
+      <text x="58" y="41" fill="#854F0B">旧探索留档</text>
     </g>
     <g transform="translate(411 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌识别</text>
-      <text x="58" y="41" fill="#854F0B">概念图待审阅</text>
+      <text x="58" y="41" fill="#854F0B">方向已定</text>
     </g>
     <g transform="translate(540 42)">
       <rect width="116" height="60" rx="8" fill="#FAEEDA" stroke="#854F0B"/>
       <text x="58" y="21" font-weight="650" fill="#633806">品牌应用</text>
-      <text x="58" y="41" fill="#854F0B">待策略收敛</text>
+      <text x="58" y="41" fill="#854F0B">待应用方案</text>
     </g>
   </g>
 
