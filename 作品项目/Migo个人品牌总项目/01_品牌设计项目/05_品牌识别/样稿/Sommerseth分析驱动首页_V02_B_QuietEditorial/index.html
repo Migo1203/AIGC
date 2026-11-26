@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#F3F1EB">
+  <meta name="description" content="Migo 的个人创意档案：用设计的眼光观察世界，用创造的方式表达想法。">
+  <title>Migo — Think Clearly. Create Differently.</title>
+  <script>document.documentElement.classList.add('js');</script>
+  <style>
+    :root {
+      color-scheme: light;
+      --paper: #F3F1EB;
+      --paper-shadow: #E5E1D8;
+      --ink: #242522;
+      --ink-soft: #55564F;
+      --blue-ink: #5B6E7B;
+      --blue-proposal: #899EAD;
+      --orange-proposal: #D5A16F;
+      --rule: rgba(36, 37, 34, .22);
+      --serif: "Newsreader", "Iowan Old Style", "Baskerville", Georgia, "Noto Serif CJK SC", serif;
+      --sans: Inter, Manrope, "Noto Sans SC", "Microsoft YaHei", system-ui, sans-serif;
+      --mono: "IBM Plex Mono", "SFMono-Regular", Consolas, monospace;
+      --gutter: clamp(22px, 5.25vw, 84px);
+      --page: 1440px;
+      --ease: cubic-bezier(.2, .75, .25, 1);
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html { scroll-behavior: smooth; scroll-padding-top: 92px; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: var(--sans); -webkit-font-smoothing: antialiased; }
+    body::selection, ::selection { color: var(--paper); background: var(--ink); }
+    a { color: inherit; text-decoration-thickness: 1px; text-underline-offset: .24em; }
+    button, a { -webkit-tap-highlight-color: transparent; }
+    button { color: inherit; font: inherit; }
+    a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid var(--blue-ink); outline-offset: 5px; }
+    .page { width: min(100%, var(--page)); margin-inline: auto; padding-inline: var(--gutter); }
+    .mono { font-family: var(--mono); font-variant-numeric: tabular-nums; letter-spacing: .055em; }
+    .topbar { position: relative; z-index: 5; min-height: 76px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid var(--rule); }
+    .masthead { display: flex; align-items: baseline; gap: 16px; text-decoration: none; }
+    .wordmark { font-size: 22px; font-weight: 640; letter-spacing: -.055em; }
+    .wordmark-dot { color: var(--blue-ink); }
+    .masthead-note { color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .09em; text-transform: uppercase; }
+    .desktop-nav { display: flex; align-items: center; gap: clamp(22px, 3.5vw, 50px); }
+    .desktop-nav a, .menu-panel a { position: relative; color: var(--ink-soft); text-decoration: none; font-size: 13px; }
+    .desktop-nav a::after, .menu-panel a::after { position: absolute; right: 0; bottom: -.42rem; left: 0; height: 1px; background: var(--blue-ink); content: ""; transform: scaleX(0); transform-origin: left; transition: transform 220ms var(--ease); }
+    .desktop-nav a:hover::after, .menu-panel a:hover::after { transform: scaleX(1); }
+    .menu { display: none; }
+    .hero { display: grid; grid-template-columns: minmax(0, 1.28fr) minmax(300px, .72fr); align-items: center; gap: clamp(38px, 6vw, 90px); min-height: min(790px, calc(100svh - 76px)); padding-block: 72px 92px; }
+    .hero-copy { padding-block: 14px; }
+    .hero h1 { max-width: 920px; margin: 0; font-family: var(--serif); font-size: clamp(56px, 6.1vw, 84px); font-weight: 430; line-height: .99; letter-spacing: -.045em; }
+    .hero h1 span { display: block; font-style: italic; font-weight: 390; }
+    @media (min-width: 901px) { .hero h1 span { white-space: nowrap; } }
+    .hero-proposition { max-width: 620px; margin: 32px 0 0; font-size: clamp(18px, 1.75vw, 24px); line-height: 1.62; letter-spacing: .015em; }
+    .hero-identity { max-width: 510px; margin: 13px 0 0; color: var(--ink-soft); font-size: 14px; line-height: 1.8; }
+    .hero-actions { display: flex; align-items: center; gap: 26px; margin-top: 33px; }
+    .text-link { display: inline-flex; align-items: center; gap: 9px; min-height: 32px; color: var(--blue-ink); font-size: 13px; font-weight: 560; text-decoration: none; }
+    .text-link svg { width: 13px; height: 13px; transition: transform 220ms var(--ease); }
+    .text-link:hover svg { transform: translate(3px, -3px); }
+    .text-link:focus-visible { outline-offset: 2px; }
+    .hero-art { min-width: 0; margin: 0; }
+    .hero-image-link { display: block; overflow: hidden; background: var(--paper-shadow); color: inherit; }
+    .hero-art img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; transition: transform 720ms var(--ease), clip-path 850ms var(--ease); }
+    .hero-image-link:hover img { transform: scale(1.018); }
+    .hero-art figcaption { display: flex; justify-content: space-between; gap: 18px; padding-top: 12px; color: var(--ink-soft); font: 10px/1.6 var(--mono); letter-spacing: .045em; }
+    .hero-art figcaption span:last-child { text-align: right; }
+    .hero-index { display: flex; align-items: center; gap: 13px; margin-top: 54px; color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .08em; text-transform: uppercase; }
+    .hero-index::before { width: 32px; height: 1px; background: var(--blue-ink); content: ""; }
+    .section { border-top: 1px solid var(--rule); }
+    .section-inner { padding-block: clamp(66px, 9.4vw, 132px); }
+    .section-heading { display: grid; grid-template-columns: minmax(150px, .34fr) minmax(0, 1fr); align-items: end; gap: 30px; margin-bottom: clamp(32px, 5.2vw, 70px); }
+    .section-heading h2 { margin: 0; font-family: var(--serif); font-size: clamp(45px, 6.7vw, 87px); font-weight: 430; line-height: 1; letter-spacing: -.04em; }
+    .section-heading p { max-width: 360px; justify-self: end; margin: 0 0 5px; color: var(--ink-soft); font-size: 14px; line-height: 1.7; }
+    .work-entry { display: grid; grid-template-columns: minmax(0, 1.38fr) minmax(250px, .62fr); gap: clamp(28px, 6vw, 90px); align-items: end; }
+    .work-image { display: block; overflow: hidden; background: var(--paper-shadow); }
+    .work-image img { display: block; width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; transition: transform 680ms var(--ease); }
+    .work-image:hover img { transform: scale(1.02); }
+    .work-info { padding-bottom: 5px; }
+    .work-info .mono { color: var(--blue-ink); font-size: 10px; text-transform: uppercase; }
+    .work-info h3 { margin: 17px 0 12px; font-family: var(--serif); font-size: clamp(34px, 4.3vw, 57px); font-weight: 430; line-height: 1.05; letter-spacing: -.035em; }
+    .work-info p { max-width: 370px; margin: 0; color: var(--ink-soft); font-size: 14px; line-height: 1.8; }
+    .work-meta { display: flex; flex-wrap: wrap; gap: 8px 18px; margin-top: 23px; color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .04em; }
+    .work-info .text-link { margin-top: 24px; }
+    .notes-list { border-top: 1px solid var(--rule); }
+    .note-row { display: grid; grid-template-columns: 120px minmax(0, 1fr) 140px; align-items: baseline; gap: 20px; padding: 22px 0 24px; border-bottom: 1px solid var(--rule); text-decoration: none; transition: padding 220ms var(--ease); }
+    .note-row:hover { padding-inline: 7px; }
+    .note-date, .note-kind { color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .035em; }
+    .note-kind { justify-self: end; text-align: right; }
+    .note-title { font-family: var(--serif); font-size: clamp(20px, 2.25vw, 29px); line-height: 1.35; }
+    .note-row:hover .note-title { color: var(--blue-ink); }
+    .about-block { display: grid; grid-template-columns: minmax(185px, .7fr) minmax(0, 1.3fr); gap: clamp(34px, 8vw, 120px); }
+    .about-block h2 { margin: 0; font-family: var(--serif); font-size: clamp(43px, 6.2vw, 82px); font-weight: 430; line-height: 1; letter-spacing: -.04em; }
+    .about-copy { max-width: 740px; }
+    .about-copy p { margin: 0 0 20px; color: var(--ink-soft); font-size: clamp(16px, 1.6vw, 20px); line-height: 1.85; }
+    .about-copy p:first-child { color: var(--ink); font-family: var(--serif); font-size: clamp(24px, 3vw, 39px); line-height: 1.45; }
+    .about-signoff { display: flex; align-items: center; gap: 12px; margin-top: 35px; color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .055em; }
+    .about-signoff::before { width: 28px; height: 1px; background: var(--blue-ink); content: ""; }
+    .contact-row { display: grid; grid-template-columns: minmax(180px, .6fr) minmax(0, 1.4fr); gap: 36px; align-items: center; }
+    .contact-row h2 { max-width: 470px; margin: 0; font-family: var(--serif); font-size: clamp(45px, 6.6vw, 88px); font-weight: 430; line-height: 1; letter-spacing: -.04em; }
+    .contact-copy p { max-width: 560px; margin: 0; color: var(--ink-soft); font-size: 16px; line-height: 1.8; }
+    .contact-copy .pending { display: inline-block; margin-top: 18px; color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .06em; }
+    .footer { display: flex; justify-content: space-between; align-items: center; gap: 24px; min-height: 78px; border-top: 1px solid var(--rule); color: var(--ink-soft); font: 10px var(--mono); letter-spacing: .045em; }
+    .footer-brand { color: var(--ink); font-size: 13px; font-weight: 650; letter-spacing: -.025em; }
+    .reveal { opacity: 1; transform: none; }
+    .js .reveal { opacity: 0; transform: translateY(14px); transition: opacity 600ms var(--ease), transform 700ms var(--ease); }
+    .js .reveal.is-visible { opacity: 1; transform: none; }
+    .js .hero-art.reveal { transform: translateY(0); clip-path: inset(0 0 100% 0); transition: clip-path 920ms var(--ease); }
+    .js .hero-art.reveal.is-visible { clip-path: inset(0); }
+    .menu-panel { display: none; }
+    .sample-note { position: static; width: fit-content; max-width: calc(100% - 2 * var(--gutter)); margin: 14px var(--gutter) 18px auto; padding: 9px 12px; border: 1px solid var(--rule); background: var(--paper); color: var(--ink-soft); font: 9px/1.5 var(--mono); letter-spacing: .04em; }
+    @media (max-width: 900px) {
+      .hero { grid-template-columns: minmax(0, 1fr) minmax(260px, .82fr); gap: 34px; min-height: auto; padding-block: 74px 84px; }
+      .hero h1 { font-size: clamp(52px, 7vw, 72px); }
+      .hero-proposition { font-size: 19px; }
+      .hero-art figcaption { font-size: 9px; }
+      .section-heading { grid-template-columns: 1fr; gap: 16px; }
+      .section-heading p { justify-self: start; }
+    }
+    @media (max-width: 620px) {
+      html { scroll-padding-top: 74px; }
+      .topbar { min-height: 66px; }
+      .masthead { gap: 8px; }
+      .masthead-note { max-width: 126px; font-size: 8px; line-height: 1.45; }
+      .desktop-nav { display: none; }
+      .menu { display: block; padding: 8px 0 8px 12px; border: 0; background: transparent; color: var(--blue-ink); font: 10px var(--mono); letter-spacing: .06em; }
+      .menu-panel { position: absolute; top: 65px; right: 0; left: 0; display: grid; gap: 0; padding: 8px var(--gutter) 18px; border-bottom: 1px solid var(--rule); background: var(--paper); }
+      .menu-panel[hidden] { display: none; }
+      .menu-panel a { padding: 12px 0; border-bottom: 1px solid var(--rule); }
+      .hero { grid-template-columns: 1fr; gap: 40px; padding-block: 64px 68px; }
+      .hero-copy { padding: 0; }
+      .hero h1 { font-size: clamp(48px, 12.5vw, 68px); line-height: 1.01; }
+      .hero-proposition { margin-top: 24px; font-size: 19px; }
+      .hero-identity { font-size: 13px; }
+      .hero-actions { margin-top: 25px; }
+      .hero-art { width: 100%; }
+      .hero-art img { aspect-ratio: 4 / 3; }
+      .hero-art figcaption { font-size: 8px; }
+      .hero-index { margin-top: 0; }
+      .section-inner { padding-block: 67px; }
+      .section-heading { margin-bottom: 31px; }
+      .section-heading h2, .contact-row h2 { font-size: 54px; }
+      .section-heading p { font-size: 13px; }
+      .work-entry { grid-template-columns: 1fr; gap: 22px; }
+      .work-image img { aspect-ratio: 4 / 3; }
+      .work-info h3 { margin-top: 13px; font-size: 42px; }
+      .work-info p { font-size: 13px; }
+      .note-row { grid-template-columns: 1fr auto; gap: 8px 16px; padding-block: 18px 20px; }
+      .note-date { grid-column: 1; }
+      .note-kind { grid-column: 2; grid-row: 1; }
+      .note-title { grid-column: 1 / -1; font-size: 24px; }
+      .about-block, .contact-row { grid-template-columns: 1fr; gap: 23px; }
+      .about-block h2 { font-size: 54px; }
+      .about-copy p:first-child { font-size: 28px; }
+      .about-copy p { font-size: 15px; }
+      .about-signoff { margin-top: 27px; }
+      .contact-copy p { font-size: 14px; }
+      .footer { min-height: 72px; flex-wrap: wrap; padding-block: 17px; }
+      .sample-note { max-width: calc(100% - 2 * var(--gutter)); font-size: 9px; }
+    }
+    @media (max-width: 370px) {
+      .hero h1 { font-size: 50px; }
+      .masthead-note { display: none; }
+      .hero-art figcaption { gap: 8px; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      html { scroll-behavior: auto; }
+      *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+      .js .reveal, .js .hero-art.reveal { opacity: 1; transform: none; clip-path: none; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar" id="top">
+      <a class="masthead" href="#top" aria-label="Migo 首页">
+        <span class="wordmark">Migo<span class="wordmark-dot">.</span></span>
+        <span class="masthead-note">Independent Creative Practice</span>
+      </a>
+      <nav class="desktop-nav" aria-label="主导航">
+        <a href="#works">Works</a><a href="#thoughts">Thoughts</a><a href="#about">About</a><a href="#contact">Contact</a>
+      </nav>
+      <button class="menu" type="button" aria-expanded="false" aria-controls="mobileNav">MENU</button>
+      <nav class="menu-panel" id="mobileNav" aria-label="移动端导航" hidden>
+        <a href="#works">Works</a><a href="#thoughts">Thoughts</a><a href="#about">About</a><a href="#contact">Contact</a>
+      </nav>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy reveal is-visible">
+          <h1 id="hero-title">Think Clearly.<span>Create Differently.</span></h1>
+          <p class="hero-proposition">用设计的眼光观察世界，<br>用创造的方式表达想法。</p>
+          <p class="hero-identity">Migo 是一个以设计思考为起点、以创造为表达的个人创意品牌。</p>
+          <div class="hero-actions">
+            <a class="text-link" href="#works">查看作品 <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 13 13 3M5 3h8v8" stroke="currentColor" stroke-width="1.2"/></svg></a>
+            <a class="text-link" href="#about">关于 Migo <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M2.5 8h10m-4-4 4 4-4 4" stroke="currentColor" stroke-width="1.2"/></svg></a>
+          </div>
+          <p class="hero-index">An archive of looking, thinking &amp; making</p>
+        </div>
+        <figure class="hero-art reveal is-visible">
+          <a class="hero-image-link" href="#works" aria-label="前往 NED Eric 项目介绍"><img src="../Sommerseth分析驱动首页_V01/assets/ned-cover.jpg" width="1600" height="1200" fetchpriority="high" alt="NED 无线氛围灯自发概念项目封面"></a>
+          <figcaption><span>NED ERIC / AMBIENT LIGHT</span><span>SELF-INITIATED CONCEPT · 2026</span></figcaption>
+        </figure>
+      </section>
+
+      <section class="section" id="works" aria-labelledby="works-title">
+        <div class="section-inner reveal">
+          <div class="section-heading"><h2 id="works-title">Selected works</h2><p>从一个项目开始，看想法如何进入具体的画面与使用情境。</p></div>
+          <article class="work-entry">
+            <a class="work-image" href="#project-note" aria-label="查看 NED Eric 案例说明"><img src="../Sommerseth分析驱动首页_V01/assets/ned-strategy.jpg" width="1600" height="1200" loading="lazy" alt="NED Eric 项目策略与场景视觉"></a>
+            <div class="work-info" id="project-note">
+              <span class="mono">A01 / Independent project</span>
+              <h3>NED Eric</h3>
+              <p>为无线氛围灯探索一套从生活场景到电商视觉的表达。作品集样稿中的项目介绍，属于自发概念项目，并非客户委托或已交付商业案例。</p>
+              <div class="work-meta"><span>VISUAL DESIGN</span><span>AI-ASSISTED PRACTICE</span><span>2026</span></div>
+              <a class="text-link" href="../Sommerseth分析驱动首页_V01/index.html#ned-eric">打开案例样稿 <svg viewBox="0 0 16 16" fill="none" aria-hidden="true"><path d="M3 13 13 3M5 3h8v8" stroke="currentColor" stroke-width="1.2"/></svg></a>
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="thoughts" aria-labelledby="thoughts-title">
+        <div class="section-inner reveal">
+          <div class="section-heading"><h2 id="thoughts-title">Notes from the archive</h2><p>一些真实的研究与品牌笔记。这里先呈现已有资料，不预填虚构文章。</p></div>
+          <div class="notes-list">
+            <a class="note-row" href="https://github.com/Migo1203/migo-portfolio/blob/main/UI%E8%AE%BE%E8%AE%A1/%E6%A1%88%E4%BE%8B%E6%8B%86%E8%A7%A3/Sommerseth%20Design%E9%A6%96%E9%A1%B5%E5%88%86%E6%9E%90/%E8%AE%BE%E8%AE%A1%E5%85%83%E7%B4%A0%E4%B8%8E%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90.md" target="_blank" rel="noreferrer"><span class="note-date">2026.11.25</span><span class="note-title">一个首页，如何让主张、解释与项目证据接力？</span><span class="note-kind">RESEARCH ↗</span></a>
+            <a class="note-row" href="https://github.com/Migo1203/AIGC/blob/main/%E4%BD%9C%E5%93%81%E9%A1%B9%E7%9B%AE/Migo%E4%B8%AA%E4%BA%BA%E5%93%81%E7%89%8C%E6%80%BB%E9%A1%B9%E7%9B%AE/01_%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E9%A1%B9%E7%9B%AE/%E5%93%81%E7%89%8C%E4%BD%93%E7%B3%BB/01_%E5%93%81%E7%89%8C%E6%88%98%E7%95%A5/%E7%9B%AE%E6%A0%87%E5%8F%97%E4%BC%97%E4%B8%8E%E5%93%81%E7%89%8C%E4%BA%BA%E6%A0%BC.md" target="_blank" rel="noreferrer"><span class="note-date">2026.11.26</span><span class="note-title">内容面向大众，作品证明专业，品牌承接商业。</span><span class="note-kind">BRAND NOTE ↗</span></a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="about" aria-labelledby="about-title">
+        <div class="section-inner reveal about-block">
+          <h2 id="about-title">About<br>Migo</h2>
+          <div class="about-copy">
+            <p>我通过设计、艺术与创意观察世界，也记录思考、研究和实践。</p>
+            <p>对我来说，创造不只是把东西做出来。更重要的是理解正在面对什么，再找到一种清楚、有意思、也带有自己特点的表达方式。</p>
+            <p>这里会逐渐收录作品、观察与尝试。项目是什么、我具体做了什么，以及哪些仍是概念练习，都会如实说明。</p>
+            <div class="about-signoff">THINK CLEARLY. CREATE DIFFERENTLY.</div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="contact" aria-labelledby="contact-title">
+        <div class="section-inner contact-row reveal">
+          <h2 id="contact-title">Stay<br>in touch.</h2>
+          <div class="contact-copy"><p>如果你想聊聊设计、作品，或未来可能一起做的事，联系入口会在确认公开方式后补充。</p><span class="pending">CONTACT DETAILS · TO BE ADDED</span></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer"><span class="footer-brand">Migo.</span><span>Think Clearly. Create Differently.</span><span>© 2026 · VISUAL PRACTICE</span></footer>
+  </div>
+  <p class="sample-note">B / QUIET EDITORIAL ARCHIVE · DESIGN STUDY, NOT FINAL VI</p>
+  <script>
+    (() => {
+      const button = document.querySelector('.menu');
+      const panel = document.querySelector('#mobileNav');
+      button.addEventListener('click', () => {
+        const open = button.getAttribute('aria-expanded') === 'true';
+        button.setAttribute('aria-expanded', String(!open));
+        panel.hidden = open;
+        button.textContent = open ? 'MENU' : 'CLOSE';
+      });
+      panel.addEventListener('click', event => {
+        if (event.target.closest('a')) {
+          panel.hidden = true;
+          button.setAttribute('aria-expanded', 'false');
+          button.textContent = 'MENU';
+        }
+      });
+      document.addEventListener('keydown', event => {
+        if (event.key === 'Escape' && !panel.hidden) {
+          panel.hidden = true;
+          button.setAttribute('aria-expanded', 'false');
+          button.textContent = 'MENU';
+          button.focus();
+        }
+      });
+      const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
+      const items = [...document.querySelectorAll('.reveal:not(.is-visible)')];
+      if (reduced.matches || !('IntersectionObserver' in window)) {
+        items.forEach(item => item.classList.add('is-visible'));
+      } else {
+        const observer = new IntersectionObserver(entries => {
+          entries.forEach(entry => {
+            if (!entry.isIntersecting) return;
+            entry.target.classList.add('is-visible');
+            observer.unobserve(entry.target);
+          });
+        }, {rootMargin: '0px 0px -8% 0px', threshold: .12});
+        items.forEach(item => observer.observe(item));
+      }
+    })();
+  </script>
+</body>
+</html>
