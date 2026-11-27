@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Migo · A 版首屏母题对照 V01</title>
+  <style>
+    :root {
+      --paper: #f2f2f0;
+      --ink: #0e0e0e;
+      --blue: #1458e4;
+      --line: #a1a29c;
+      --gutter: 80px;
+    }
+
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--paper); color: var(--ink); font-family: Arial, "Microsoft YaHei", sans-serif; }
+    .hero { position: relative; width: 1440px; height: 900px; overflow: hidden; }
+    .header {
+      position: absolute;
+      inset: 0 var(--gutter) auto;
+      height: 91px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: 1px solid var(--line);
+    }
+    .wordmark { font-size: 44px; font-weight: 800; letter-spacing: -.085em; line-height: 1; }
+    .accent { color: var(--blue); }
+    nav { display: flex; align-items: center; gap: 42px; font-size: 16px; font-weight: 600; }
+    .current { color: var(--blue); }
+    .stage {
+      position: absolute;
+      top: 133px;
+      left: 381px;
+      width: 678px;
+      height: 342px;
+      display: grid;
+      place-items: center;
+    }
+    .stage::after {
+      position: absolute;
+      inset: 0;
+      border: 1px solid var(--line);
+      content: "";
+      visibility: hidden;
+    }
+    [data-variant="framed"] .stage::after { visibility: visible; }
+    .fold {
+      display: grid;
+      grid-template-columns: repeat(26, 19px);
+      grid-template-rows: repeat(13, 19px);
+      gap: 3px;
+    }
+    .tile { background: var(--blue); }
+    .tile--ink { background: var(--ink); }
+    .headline {
+      position: absolute;
+      left: 74px;
+      bottom: 108px;
+      margin: 0;
+      font-size: 108px;
+      font-weight: 800;
+      letter-spacing: -.06em;
+      line-height: .97;
+    }
+    .headline span[lang] { display: block; }
+    .intro { position: absolute; right: var(--gutter); bottom: 116px; width: 284px; }
+    .identity { margin: 0 0 14px; font-size: 23px; letter-spacing: .02em; font-weight: 700; }
+    .proposition { margin: 0; font-size: 19px; letter-spacing: .025em; line-height: 1.65; }
+    .rail {
+      position: absolute;
+      inset: auto var(--gutter) 0;
+      height: 74px;
+      border-top: 1px solid var(--line);
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+    }
+    .entry { display: flex; align-items: center; gap: 14px; font-size: 16px; font-weight: 700; }
+    .arrow { display: grid; place-items: center; width: 34px; height: 34px; color: white; background: var(--blue); font: 20px/1 Arial, sans-serif; }
+  </style>
+</head>
+<body>
+  <main class="hero" aria-labelledby="headline">
+    <header class="header">
+      <span class="wordmark" aria-label="Migo">migo<span class="accent">.</span></span>
+      <nav aria-label="A 版导航排版"><span class="current">Home</span><span>Projects</span><span>Contact</span></nav>
+    </header>
+    <div class="stage" role="img" aria-label="由钴蓝和墨黑方格排成的折叠形主视觉"><div class="fold" aria-hidden="true"></div></div>
+    <h1 class="headline" id="headline">
+      <span lang="en">Think Clearly<span class="accent">.</span></span>
+      <span lang="en">Create Differently<span class="accent">.</span></span>
+    </h1>
+    <div class="intro">
+      <p class="identity">独立创意实践</p>
+      <p class="proposition">用设计的眼光观察世界，<br>用创造的方式表达想法。</p>
+    </div>
+    <div class="rail"><span class="entry">查看精选作品 <span class="arrow" aria-hidden="true">↓</span></span></div>
+  </main>
+  <script>
+    const variant = new URLSearchParams(window.location.search).get('variant');
+    document.querySelector('.hero').dataset.variant = variant === 'framed' ? 'framed' : 'open';
+
+    // Each pair describes an inclusive span of occupied columns in one row.
+    const blueRows = [
+      [[7, 15]], [[5, 17]], [[3, 18]], [[2, 19]],
+      [[1, 12], [15, 20]], [[0, 10], [17, 21]], [[0, 8], [18, 22]],
+      [[0, 7], [19, 23]], [[1, 7], [19, 24]], [[2, 8], [20, 25]],
+      [[4, 9], [20, 25]], [[6, 10], [21, 24]], [[8, 11], [21, 23]]
+    ];
+    const inkRows = [
+      [], [], [], [], [], [[12, 14]], [[11, 16]], [[10, 17]], [[10, 17]],
+      [[11, 18]], [[12, 18]], [[13, 19]], [[14, 19]]
+    ];
+    const shape = document.querySelector('.fold');
+
+    function drawTiles(rows, color) {
+      rows.forEach((spans, row) => {
+        for (const [start, end] of spans) {
+          for (let col = start; col <= end; col++) {
+            const tile = document.createElement('span');
+            tile.className = color === 'ink' ? 'tile tile--ink' : 'tile';
+            tile.style.gridArea = `${row + 1} / ${col + 1}`;
+            shape.append(tile);
+          }
+        }
+      });
+    }
+
+    drawTiles(blueRows, 'blue');
+    drawTiles(inkRows, 'ink');
+  </script>
+</body>
+</html>
