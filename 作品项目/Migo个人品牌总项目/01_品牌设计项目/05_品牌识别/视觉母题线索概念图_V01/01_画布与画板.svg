@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">01 画布与画板</title>
+  <desc id="desc">同一个原创几何构图分别放进横向和纵向画板，画板外的虚线轮廓提示被裁切的部分。</desc>
+  <defs>
+    <clipPath id="wide"><rect x="96" y="248" width="480" height="270"/></clipPath>
+    <clipPath id="portrait"><rect x="678" y="204" width="204" height="314"/></clipPath>
+    <path id="figure" d="M0 0h317v193H175v88H0z"/>
+  </defs>
+  <rect width="1000" height="640" fill="#F2F1ED"/>
+  <g fill="#202124" font-family="Arial, sans-serif">
+    <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
+    <text x="46" y="124" font-size="63" font-weight="800" letter-spacing="-3">Canvas &amp; artboards</text>
+  </g>
+  <text x="952" y="52" text-anchor="end" font-family="monospace" fill="#234DFF" font-size="16">01 / 06</text>
+  <path d="M48 151h904M48 574h904" stroke="#9E9E99"/>
+  <rect x="48" y="173" width="904" height="381" rx="3" fill="#E5E4DF"/>
+  <g fill="#FFFFFF" stroke="#202124" stroke-width="2">
+    <rect x="96" y="248" width="480" height="270"/>
+    <rect x="678" y="204" width="204" height="314"/>
+  </g>
+  <g fill="none" stroke="#234DFF" stroke-width="1.5" stroke-dasharray="5 5" opacity=".65">
+    <use href="#figure" x="304" y="268"/>
+    <use href="#figure" x="602" y="268"/>
+  </g>
+  <g fill="#234DFF">
+    <g clip-path="url(#wide)"><use href="#figure" x="304" y="268"/></g>
+    <g clip-path="url(#portrait)"><use href="#figure" x="602" y="268"/></g>
+  </g>
+  <g fill="none" stroke="#202124" stroke-width="2">
+    <rect x="96" y="248" width="480" height="270"/>
+    <rect x="678" y="204" width="204" height="314"/>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#202124">
+    <text x="96" y="234">A / LANDSCAPE</text><text x="678" y="191">B / PORTRAIT</text>
+    <text x="48" y="608">SAME SHAPE, DIFFERENT FRAME</text><text x="952" y="608" text-anchor="end">ARTBOARD BOUNDARIES</text>
+  </g>
+</svg>

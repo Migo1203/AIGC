@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">02 网格与像素</title>
+  <desc id="desc">三组相同大小的方格从散落单元到相连块面，最终组成留有缺口的原创阶梯轮廓。</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0v26" fill="none" stroke="#B8BEC7" stroke-width="1"/></pattern>
+    <rect id="cell" x="1" y="1" width="24" height="24"/>
+    <rect id="panel" width="234" height="234" fill="url(#grid)" stroke="#B8BEC7"/>
+  </defs>
+  <rect width="1000" height="640" fill="#F2F1ED"/>
+  <g fill="#202124" font-family="Arial, sans-serif">
+    <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
+    <text x="46" y="124" font-size="63" font-weight="800" letter-spacing="-3">Grid &amp; pixels</text>
+  </g>
+  <text x="952" y="52" text-anchor="end" font-family="monospace" fill="#234DFF" font-size="16">02 / 06</text>
+  <path d="M48 151h904M48 574h904" stroke="#9E9E99"/>
+  <g transform="translate(77 229)">
+    <use href="#panel"/>
+    <g fill="#234DFF">
+      <use href="#cell" x="26" y="52"/><use href="#cell" x="104" y="26"/><use href="#cell" x="156" y="52"/><use href="#cell" x="78" y="104"/><use href="#cell" x="156" y="130"/><use href="#cell" x="52" y="156"/><use href="#cell" x="104" y="182"/>
+    </g>
+  </g>
+  <g transform="translate(383 229)">
+    <use href="#panel"/>
+    <g fill="#234DFF">
+      <use href="#cell" x="52" y="52"/><use href="#cell" x="78" y="52"/><use href="#cell" x="104" y="52"/><use href="#cell" x="78" y="78"/><use href="#cell" x="104" y="78"/><use href="#cell" x="130" y="78"/><use href="#cell" x="104" y="104"/><use href="#cell" x="130" y="104"/><use href="#cell" x="104" y="130"/><use href="#cell" x="130" y="130"/><use href="#cell" x="104" y="156"/><use href="#cell" x="104" y="182"/><use href="#cell" x="78" y="182"/>
+    </g>
+  </g>
+  <g transform="translate(689 229)">
+    <use href="#panel" opacity=".45"/>
+    <path fill="#234DFF" d="M52 52h52V26h52v26h26v78h-52v26h-26v52H52v-52h26v-26h26v-26H52z"/>
+    <rect x="130" y="78" width="26" height="26" fill="#F2F1ED"/>
+  </g>
+  <path d="M335 346h23m-7-6 7 6-7 6m290-6h23m-7-6 7 6-7 6" stroke="#202124" fill="none" stroke-width="1.5"/>
+  <g font-family="monospace" font-size="14" fill="#202124">
+    <text x="77" y="498">SCATTER</text><text x="383" y="498">CONNECT</text><text x="689" y="498">SHAPE</text>
+    <text x="48" y="608">ONE CELL, MANY POSSIBLE SHAPES</text><text x="952" y="608" text-anchor="end">MODULAR CONSTRUCTION</text>
+  </g>
+</svg>

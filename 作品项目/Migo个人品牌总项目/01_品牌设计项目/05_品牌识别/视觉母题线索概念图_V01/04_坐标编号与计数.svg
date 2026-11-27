@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">04 坐标、编号与计数</title>
+  <desc id="desc">以左上为原点，编号 02 的矩形位于示意坐标 64、48，宽 240、高 128。全图共有三个编号图形。</desc>
+  <rect width="1000" height="640" fill="#F2F1ED"/>
+  <g fill="#202124" font-family="Arial, sans-serif">
+    <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
+    <text x="46" y="124" font-size="63" font-weight="800" letter-spacing="-3">Coordinates &amp; counts</text>
+  </g>
+  <text x="952" y="52" text-anchor="end" font-family="monospace" fill="#234DFF" font-size="16">04 / 06</text>
+  <path d="M48 151h904M48 574h904" stroke="#9E9E99"/>
+  <rect x="48" y="173" width="904" height="381" rx="3" fill="#E5E4DF"/>
+  <path d="M128 249H638m-8-5 8 5-8 5M128 249v264m-5-8 5 8 5-8" stroke="#202124" fill="none" stroke-width="1.5"/>
+  <g transform="translate(128 249) scale(1.4)">
+    <rect x="8" y="90" width="36" height="55" fill="#CFD1D5"/>
+    <rect x="64" y="48" width="240" height="128" fill="#234DFF"/>
+    <rect x="318" y="18" width="36" height="66" fill="#CFD1D5"/>
+    <path d="M64 48V0m0 48H0" stroke="#234DFF" stroke-dasharray="3 3" fill="none"/>
+    <path d="M64 191v11m240-11v11M64 197h240m12-149h11m-11 128h11m-5.5-128v128" fill="none" stroke="#202124" stroke-width="1"/>
+    <g font-family="monospace" font-size="11" fill="#202124" text-anchor="middle">
+      <text x="26" y="122">01</text><text x="184" y="120" fill="white" font-size="23">02</text><text x="336" y="54">03</text>
+      <text x="184" y="213">240</text><text x="336" y="119">128</text>
+    </g>
+  </g>
+  <circle cx="128" cy="249" r="4" fill="#202124"/>
+  <g font-family="monospace" font-size="14" fill="#202124">
+    <text x="126" y="229" text-anchor="end">0, 0</text><text x="218" y="237" text-anchor="middle" fill="#234DFF">64</text><text x="112" y="321" text-anchor="end" fill="#234DFF">48</text>
+    <text x="646" y="254">X</text><text x="124" y="533">Y</text>
+    <text x="710" y="242">DEMO / SHAPE 02</text><path d="M710 260h180" stroke="#9E9E99"/>
+    <text x="710" y="296">POSITION</text><text x="890" y="296" text-anchor="end">64, 48</text>
+    <text x="710" y="336">SIZE</text><text x="890" y="336" text-anchor="end">240 × 128</text>
+    <text x="710" y="376">TOTAL SHAPES</text><text x="890" y="376" text-anchor="end">03</text>
+    <text x="48" y="608">WHERE IT SITS, HOW BIG IT IS</text><text x="952" y="608" text-anchor="end">DEMO UNITS</text>
+  </g>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">05 工具图标与符号</title>
+  <desc id="desc">五个原创动作符号使用一致线宽，以开口框定位、虚实位置移动、遮挡表现裁切、文字基线和曲线路径来表达工具动作。</desc>
+  <rect width="1000" height="640" fill="#F2F1ED"/>
+  <g fill="#202124" font-family="Arial, sans-serif">
+    <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
+    <text x="46" y="124" font-size="63" font-weight="800" letter-spacing="-3">Tools &amp; symbols</text>
+  </g>
+  <text x="952" y="52" text-anchor="end" font-family="monospace" fill="#234DFF" font-size="16">05 / 06</text>
+  <path d="M48 151h904M48 574h904" stroke="#9E9E99"/>
+  <rect x="48" y="240" width="904" height="214" rx="3" fill="#E5E4DF"/>
+  <path d="M229 240v214m181-214v214m180-214v214m181-214v214" stroke="#C7C8C2"/>
+  <g fill="none" stroke="#202124" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M98 331v-29h29m53 43v29h-29m-53-5v5h5m77-67v-5h-5"/>
+    <path d="M297 358l46-44m-17 0h17v17"/>
+    <rect x="279" y="345" width="24" height="24" stroke="#767A83" stroke-width="2" stroke-dasharray="4 4"/>
+    <path d="M472 306h-14v70h70v-14m14-53h-67v52h67"/>
+    <path d="M646 317h68m-34 0v43m-13 0h26"/>
+    <path d="M828 365c12-50 37-63 65-44"/>
+  </g>
+  <g fill="#234DFF">
+    <rect x="132" y="331" width="14" height="14" rx="2"/>
+    <rect x="343" y="297" width="18" height="18" rx="2"/>
+    <path d="M478 314h48v42h-24v-15h-24z"/>
+    <rect x="646" y="373" width="68" height="4" rx="2"/>
+    <circle cx="828" cy="365" r="7"/><circle cx="893" cy="321" r="7"/>
+  </g>
+  <g font-family="monospace" font-size="15" fill="#202124" text-anchor="middle">
+    <text x="139" y="425">SELECT</text><text x="320" y="425">MOVE</text><text x="500" y="425">CROP</text><text x="680" y="425">TYPE</text><text x="861" y="425">PATH</text>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#202124">
+    <text x="48" y="608">FIVE ACTIONS IN ONE DRAWING STYLE</text><text x="952" y="608" text-anchor="end">GESTURE &amp; RESULT</text>
+  </g>
+</svg>

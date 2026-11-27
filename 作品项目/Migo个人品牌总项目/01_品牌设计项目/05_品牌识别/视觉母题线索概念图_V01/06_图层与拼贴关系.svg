@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
+  <title id="title">06 图层与拼贴关系</title>
+  <desc id="desc">左侧把底形、蓝色主形和前景遮挡分开展示，右侧对照合成时前景可见与隐藏的差异。</desc>
+  <defs>
+    <rect id="base" width="148" height="108" rx="2" fill="#D6D7D2" stroke="#202124" stroke-width="1.5"/>
+    <path id="shape" d="M0 62 58 0h64v37l-57 62H0z" fill="#234DFF"/>
+    <rect id="overlay" width="103" height="44" rx="2" fill="#202124"/>
+  </defs>
+  <rect width="1000" height="640" fill="#F2F1ED"/>
+  <g fill="#202124" font-family="Arial, sans-serif">
+    <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
+    <text x="46" y="124" font-size="63" font-weight="800" letter-spacing="-3">Layers &amp; collage</text>
+  </g>
+  <text x="952" y="52" text-anchor="end" font-family="monospace" fill="#234DFF" font-size="16">06 / 06</text>
+  <path d="M48 151h904M48 574h904" stroke="#9E9E99"/>
+  <rect x="48" y="173" width="904" height="381" rx="3" fill="#E5E4DF"/>
+  <path d="M493 219v289" stroke="#B4B6AD"/>
+  <g stroke="#91948A" stroke-width="1" stroke-dasharray="4 4" fill="none">
+    <path d="M105 456l93-88 90-74m-35 163 67-89 71-74"/>
+  </g>
+  <use href="#base" x="105" y="399"/>
+  <use href="#shape" x="198" y="316"/>
+  <use href="#overlay" x="288" y="271"/>
+  <g transform="translate(536 322)">
+    <use href="#base"/><use href="#shape" x="26" y="-23"/><use href="#overlay" x="40" y="26"/>
+  </g>
+  <g transform="translate(749 322)">
+    <use href="#base"/><use href="#shape" x="26" y="-23"/>
+  </g>
+  <g font-family="monospace" font-size="14" fill="#202124">
+    <text x="105" y="220">LAYER STACK</text><text x="536" y="220">COMPOSITE</text>
+    <text x="105" y="529">BASE</text><text x="203" y="305">SHAPE</text><text x="288" y="258">OVERLAY</text>
+    <text x="536" y="467">OVERLAY ON</text><text x="749" y="467">OVERLAY OFF</text>
+    <text x="48" y="608">ORDER CHANGES WHAT YOU SEE</text><text x="952" y="608" text-anchor="end">STACK &amp; REVEAL</text>
+  </g>
+</svg>
