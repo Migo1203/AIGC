@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc">
   <title id="title">03 选区、节点与点标记</title>
-  <desc id="desc">左侧用选框聚焦一段曲线，右侧以浅色虚线表示原曲线，蓝色实线表示移动控制点后的形态。</desc>
+  <desc id="desc">左侧用选框聚焦一段曲线，右侧以灰色虚线表示原曲线，蓝色实线表示向上移动右侧控制点后的形态。</desc>
   <rect width="1000" height="640" fill="#F2F1ED"/>
   <g fill="#202124" font-family="Arial, sans-serif">
     <text x="48" y="52" font-size="14" font-weight="700" letter-spacing="2.5">MIGO / VISUAL STUDIES</text>
@@ -12,10 +12,10 @@
     <path d="M102 393c59-44 83-45 132-7 49 38 99 43 171-84" stroke="#B4B4AF" stroke-width="5" stroke-linecap="round"/>
     <rect x="166" y="321" width="166" height="103" stroke="#234DFF" stroke-width="2" stroke-dasharray="5 4"/>
     <path d="M178 368c20-4 37 3 56 18 28 22 53 32 80 15" stroke="#234DFF" stroke-width="5" stroke-linecap="round"/>
-    <path d="M579 428c78-31 155 64 280-58" stroke="#767A83" stroke-width="2" stroke-dasharray="6 7"/>
+    <path d="M579 428C661 397 714 311 859 370" stroke="#767A83" stroke-width="2" stroke-dasharray="6 7"/>
     <path d="M579 428C661 397 714 249 859 370" stroke="#234DFF" stroke-width="5" stroke-linecap="round"/>
     <path d="m579 428 82-31m198-27L714 249" stroke="#234DFF" stroke-width="1.5"/>
-    <path d="M714 311v-48m-5 7 5-7 5 7" stroke="#202124" stroke-width="1.4"/>
+    <path d="M714 302v-39m-5 7 5-7 5 7" stroke="#202124" stroke-width="1.4"/>
   </g>
   <g stroke="#234DFF" stroke-width="2" fill="#F2F1ED">
     <rect x="162" y="317" width="8" height="8"/><rect x="328" y="317" width="8" height="8"/>
@@ -23,6 +23,7 @@
     <rect x="574" y="423" width="10" height="10"/><rect x="854" y="365" width="10" height="10"/>
     <circle cx="661" cy="397" r="5"/>
   </g>
+  <circle cx="714" cy="311" r="5" fill="#F2F1ED" stroke="#767A83" stroke-width="1.5"/>
   <circle cx="714" cy="249" r="7" fill="#234DFF"/>
   <g font-family="monospace" font-size="14" fill="#202124">
     <text x="102" y="237">SELECT A REGION</text><text x="579" y="237">ADJUST A HANDLE</text>
